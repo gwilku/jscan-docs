@@ -1,2 +1,2 @@
-JT
-==
+JT Adaptations
+--------------
