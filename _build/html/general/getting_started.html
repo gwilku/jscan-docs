@@ -1,0 +1,202 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Getting Started &#8212; jscan-docs  documentation</title>
+    <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/language_data.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Adaptation" href="adaptation.html" />
+    <link rel="prev" title="Welcome to JScan documentation!" href="../index.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="section" id="getting-started">
+<h1>Getting Started<a class="headerlink" href="#getting-started" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>You can install the JScan app via Apple Appstore or Google Play, free of charge.</p>
+<div class="section" id="free-stuff-licenses">
+<h3>Free stuff &amp; Licenses<a class="headerlink" href="#free-stuff-licenses" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="free">
+<h4>Free<a class="headerlink" href="#free" title="Permalink to this headline">¶</a></h4>
+<p>Straight after installation JScan allows you to connect to your vehicle (as long as it is supported of course) and <em>read</em> the data from the ECU.
+This means, that you can run a Quick Diagnostic but also take a look into ECU settings to see current values (for example wheel size, gear ratios, various features status etc.)</p>
+</div>
+<div class="section" id="demo">
+<h4>Demo<a class="headerlink" href="#demo" title="Permalink to this headline">¶</a></h4>
+<p>You can explore JScan feature <em>without</em> connecting to an actual vehicle. Just start on step 4 in <a class="reference internal" href="#connecting">Connecting</a> and choose “Demo adapter” in step 6.</p>
+<p>Want to learn about <a class="reference external" href="http://www.python.org">my favorite programming language</a>?</p>
+</div>
+<div class="section" id="license">
+<h4>License<a class="headerlink" href="#license" title="Permalink to this headline">¶</a></h4>
+<p>What is a license for?</p>
+<p>License gives you the following additional functions:
+- Advanced Scan
+- Trail View (for selected Vehicles)
+- Data modfication: <strong>writing</strong> to the ECU</p>
+<p>How does license work?</p>
+<p>A license is basically a product attached to your app store account. Each license has a slot for the VIN, which gets assigned upon the first connection to the vehicle.</p>
+<p>Can I transfer my license to another device?</p>
+<p>Short answer: no.
+Longer answer: no, but you can use the same license on multiple devices (phone / tablet) as long as they all use the same app store account and you connect to the same vehicle.
+If you’re changing a phone from Android to iOS or vice versa and whish to continue using JScan with the same vehicle - please get in touch with us on messenger.</p>
+</div>
+</div>
+</div>
+<div class="section" id="connecting">
+<h2>Connecting<a class="headerlink" href="#connecting" title="Permalink to this headline">¶</a></h2>
+<p>TODO: describe connecting process
+Bluetooth adapter:</p>
+<ol class="arabic">
+<li><dl class="simple">
+<dt>Plug the adapter into the OBD port</dt><dd><p>In newer vehicles (2018+) you might need to use a security bypass cable in order to make changes to your vehicle. See the vehicle-specific section.</p>
+</dd>
+</dl>
+</li>
+<li><dl>
+<dt><strong>Turn the key to ON/RUN position</strong></dt><dd><div class="admonition caution">
+<p class="admonition-title">Caution</p>
+<p>The dashboard controls need to light up, basic checks need to be performed.</p>
+<p>ACC position is not enough.</p>
+<p>You <em>can</em> connect to your vehicle with engine running but <strong>don’t</strong> make any adaptations.</p>
+</div>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>To connect with the vehicle via a Bluetooth adapter:</dt><dd><ul class="simple">
+<li><p>on Android: pair the BT adapter with the phone, according to the adapter’s manual</p></li>
+<li><p>on iOS: only OBD MX+ adapter needs pairing with the phone. If you use any other adapter, skip this step</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>Open JScan app</p></li>
+<li><p>Select your vehicle</p></li>
+<li><p>Select your adapter</p></li>
+<li><p>Explore</p></li>
+</ol>
+<p>TODO: What to do when…</p>
+<p>This is a high-level guide about how to change a setting in your vehicle:</p>
+<ol class="arabic simple">
+<li><p>Find JScan in your app store</p></li>
+<li><p>Install JScan</p></li>
+<li><p>Purchase a license (from within the app)</p></li>
+<li><dl class="simple">
+<dt>Connect to your vehicle</dt><dd><p>This is when the app store account license reads and locks the vehicle VIN, so if you connect to your mom’s / dad’s / friend’s vehicle to show them how JScan works, you will bind the license to their VIN. There’s no “undo”.</p>
+</dd>
+</dl>
+</li>
+<li><p>Go to Adaptation section</p></li>
+<li><p>Find the setting you want to change</p></li>
+<li><p>Provide a new value and tap the “GO” button.</p></li>
+</ol>
+</div>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../index.html">jscan-docs</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption"><span class="caption-text">General:</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Getting Started</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#installation">Installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#connecting">Connecting</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="adaptation.html">Adaptation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="advanced_scan.html">Advanced Scan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="quick_diagnostic.html">Quick Diagnostic</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Jeep:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../jeep/jk.html">JK</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../jeep/jl.html">JL</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../jeep/jt.html">JT</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="../index.html" title="previous chapter">Welcome to JScan documentation!</a></li>
+      <li>Next: <a href="adaptation.html" title="next chapter">Adaptation</a></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2020, Piotr Bialic, Grzegorz Wilczek.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 3.2.1</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="../_sources/general/getting_started.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
