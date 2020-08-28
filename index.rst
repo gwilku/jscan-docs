@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to JScan documentation!
-======================================
-
+##########################
+JScan Documenation Project
+##########################
 .. title:: JScan documentation project.
 
 As JScan is growing bigger and bigger, with more features and more suported vehicles, we decided to initiate this documentation project.
@@ -29,14 +29,17 @@ Contents
    general/adaptation
    general/advanced_scan
    general/quick_diagnostic
+   general/troubleshooting
 
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Jeep:
+   :caption: Features by Vehicle:
 
-   jeep/jk
+   jeep/jeep
+
+..   jeep/jk
    jeep/jl
    jeep/jt
 

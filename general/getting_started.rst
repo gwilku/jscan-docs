@@ -67,13 +67,6 @@ Bluetooth adapter:
 6. Select your adapter
 7. Explore
 
-Troubleshooting
----------------
-TODO: What to do when...
-
-
-
-
 Step-by-step Guide
 ------------------
 This is a high-level guide about how to change a setting in your vehicle:
