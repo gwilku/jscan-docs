@@ -7,40 +7,35 @@ Installation
 ************
 You can install the JScan app via Apple Appstore or Google Play, free of charge.
 
-Free stuff & Licenses
-=====================
+First steps & DEMO mode
+=======================
+After installation you can immediately start using JScan. No car neededed, no license required.
+
+How? Simple - just use the Demo mode: Start at step 4 in `Connecting`_ and choose "Demo adapter" in step 6.
+
+Free & Licensed features
+========================
 
 Free
 ^^^^
 Straight after installation JScan allows you to connect to your vehicle (as long as it is supported of course) and *read* the data from the ECU.
 This means, that you can run a Quick Diagnostic but also take a look into ECU settings to see current values (for example wheel size, gear ratios, various features status etc.)
 
-Demo
-^^^^
-You can explore JScan feature *without* connecting to an actual vehicle. Just start on step 4 in `Connecting`_ and choose "Demo adapter" in step 6.
-
-Want to learn about `my favorite programming language`_?
-
-.. _my favorite programming language: http://www.python.org
-
 License
 ^^^^^^^
 What is a license for?
-
-License gives you the following additional functions:
-- Advanced Scan
-- Trail View (for selected Vehicles)
-- Data modfication: **writing** to the ECU
+	License gives you the following additional functions:
+	- Advanced Scan
+	- Trail View (for selected Vehicles)
+	- Data modfication: **writing** to the ECU
 
 How does license work?
-
-A license is basically a product attached to your app store account. Each license has a slot for the VIN, which gets assigned upon the first connection to the vehicle.
+	A license is basically a product attached to your app store account. Each license has a slot for the VIN, which gets assigned upon the first connection to the vehicle.
 
 Can I transfer my license to another device?
-
-Short answer: no.
-Longer answer: no, but you can use the same license on multiple devices (phone / tablet) as long as they all use the same app store account and you connect to the same vehicle.
-If you're changing a phone from Android to iOS or vice versa and whish to continue using JScan with the same vehicle - please get in touch with us on messenger.
+	Short answer: no.
+	Longer answer: no, but you can use the same license on multiple devices (phone / tablet) as long as they all use the same app store account and you connect to the same vehicle.
+	If you're changing a phone from Android to iOS or vice versa and whish to continue using JScan with the same vehicle - please get in touch with us on messenger.
 
 **********
 Connecting
@@ -56,7 +51,7 @@ Bluetooth adapter:
 
 				ACC position is not enough.
 
-				You *can* connect to your vehicle with engine running but **don't** make any adaptations.
+				You *can* connect to your vehicle with engine running but **don't** make any adaptations unless they are explixitly design for it.
 
 3. To connect with the vehicle via a Bluetooth adapter:
 	- on Android: pair the BT adapter with the phone, according to the adapter's manual
@@ -79,3 +74,14 @@ This is a high-level guide about how to change a setting in your vehicle:
 5. Go to Adaptation section
 6. Find the setting you want to change
 7. Provide a new value and tap the "GO" button.
+
+
+
+
+
+
+
+
+.. Want to learn about `my favorite programming language`_?
+
+.. _my favorite programming language: http://www.python.org
