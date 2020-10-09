@@ -29,7 +29,7 @@ Disabling Engine Start/Stop System is possible, but requires a few steps and a s
 4. Turn the vehicle OFF
 5. Open the hood and follow the instructions below to displace the Hood Ajar sensor:
 
-.. image:: img/JL_ESS.jpg
+.. image:: ../img/JL_ESS.jpg
 
 
 Tire size
