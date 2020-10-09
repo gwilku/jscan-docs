@@ -34,7 +34,9 @@ How does license work?
 
 Can I transfer my license to another device?
 	Short answer: no.
+
 	Longer answer: no, but you can use the same license on multiple devices (phone / tablet) as long as they all use the same app store account and you connect to the same vehicle.
+
 	If you're changing a phone from Android to iOS or vice versa and whish to continue using JScan with the same vehicle - please get in touch with us on messenger.
 
 **********
@@ -51,11 +53,11 @@ Bluetooth adapter:
 
 				ACC position is not enough.
 
-				You *can* connect to your vehicle with engine running but **don't** make any adaptations unless they are explixitly design for it.
+				You *can* connect to your vehicle with engine running but **don't** make any Adaptations unless they are explixitly designed for it. It's fine to use Trail View, read Live Data, etc.
 
 3. To connect with the vehicle via a Bluetooth adapter:
 	- on Android: pair the BT adapter with the phone, according to the adapter's manual
-	- on iOS: only OBD MX+ adapter needs pairing with the phone. If you use any other adapter, skip this step
+	- on iOS: only OBD Link MX+ adapter needs pairing with the phone. If you use any other adapter, skip this step
 
 4. Open JScan app
 5. Select your vehicle
@@ -73,7 +75,7 @@ This is a high-level guide about how to change a setting in your vehicle:
 	This is when the app store account license reads and locks the vehicle VIN, so if you connect to your mom's / dad's / friend's vehicle to show them how JScan works, you will bind the license to their VIN. There's no "undo".
 5. Go to Adaptation section
 6. Find the setting you want to change
-7. Provide a new value and tap the "GO" button.
+7. Choose a new value and tap the "GO" button.
 
 
 

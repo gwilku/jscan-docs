@@ -12,6 +12,25 @@ The Adaptation section allows making changes to various settings in the ECU.
 .. note:: Adaptations are permanent.
 
 
+ESS - Engine Start/Stop System
+******************************
+
+Disabling Engine Start/Stop System is possible, but requires a few steps and a small hardware modification (reversible).
+
+1. Connect to your vehicle in JScan
+2. Go to Adaptation > Auto Stop/Start (ESS) Settings and see the following:
+	a) Auto Start/Stop On/Off - disable this setting to stop the ECU from monitoring the Hood Ajar switch.
+	.. note:: This will also disable Remote Start feature.
+
+	b) Auto Start/Stop Menu Present On/Off - disable this setting to remove the ESS-related menu entries on your instrument cluster (dashboard).
+	.. note:: If you don't want to disable ESS but want to explore any issues with the system, enable this option - it will give you quite a good overview of the system status.
+
+3. Disconnect JScan
+4. Turn the vehicle OFF
+5. Open the hood and follow the instructions below to displace the Hood Ajar sensor:
+
+.. image:: img/JL_ESS.jpg
+
 
 Tire size
 *********
