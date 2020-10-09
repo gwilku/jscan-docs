@@ -19,17 +19,38 @@ Disabling Engine Start/Stop System is possible, but requires a few steps and a s
 
 1. Connect to your vehicle in JScan
 2. Go to Adaptation > Auto Stop/Start (ESS) Settings and see the following:
+
+	.. image:: ../img/JL_ESS.jpg
+
 	a) Auto Start/Stop On/Off - disable this setting to stop the ECU from monitoring the Hood Ajar switch.
+	
 	.. note:: This will also disable Remote Start feature.
 
 	b) Auto Start/Stop Menu Present On/Off - disable this setting to remove the ESS-related menu entries on your instrument cluster (dashboard).
+	
 	.. note:: If you don't want to disable ESS but want to explore any issues with the system, enable this option - it will give you quite a good overview of the system status.
 
 3. Disconnect JScan
 4. Turn the vehicle OFF
-5. Open the hood and follow the instructions below to displace the Hood Ajar sensor:
+5. Open the hood and follow the instructions below to disengage the Hood Ajar sensor:
 
-.. image:: ../img/JL_ESS.jpg
+	a) The sensors (two of them) are just next to the grille on the left side of the vehicle (on your right, when you stand in front and look at the hood).
+
+	b) We need to remove only one of the sensors, but leave it plugged in to the harness
+
+	c) On the top side of the sensor, there are two tabs in the ring that mount the sensor to the metal bracket. Press both of them to release the sensor.
+
+	d) Pull the sensor up
+
+	e) Gently pry the plastic tab that holds the sensor together to disconnect the top part
+
+	f) Pull the cable along with the lower part through the metal bracket opening
+
+	g) Reassemble the sensor and secure it below & behind the bracket in an extended position (do not squeeze it - we want to simulate the hood open state)
+
+
+
+
 
 
 Tire size
