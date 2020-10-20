@@ -16,7 +16,7 @@ TPMS - Tire Pressure Monitor System
 There are two types of the TPMS: Standard and Premium. They both monitor tire pressure, but the premium version is capable of displaying more details, like current pressure on the EVIC (the electronic display in the instrument cluster).
 The basic TPMS version was installed up to around 2011 in Wrangler JK, and most other vehicles past 2012 have the premium variant.
 
-..note:: TPMS is slow to respond to changes. It has it's own cache and can remember multiple settings. Either be patient, or reset the TPMS after applying changes - see details below.
+.. note:: TPMS is slow to respond to changes. It has it's own cache and can remember multiple settings. Either be patient, or reset the TPMS after applying changes - see details below.
 
 Disabling TPMS
 --------------
@@ -73,12 +73,5 @@ This is a simple change, and again - it is highly advisable to not have any TPMS
 
 
 
-.. Want to learn about `my favorite programming language`_?
-
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
 
-
-How? Simple - just use the Demo mode: Start at step 4 in `Connecting`_ and choose "Demo adapter" in step 6.
-
-Free & Licensed features
-========================
