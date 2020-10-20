@@ -101,13 +101,15 @@ DRL Configuration & Customization
 =================================
 
 Slide to adaptation section and locate DRL – Day time running lights – settings
+
 .. image:: ../img/DRL-option-list-181x300.png
 
 Now we have to set up DRL lights – lets start with Daytime Running Lights Configuration & Daytime Running Lights Location
 
 .. image:: ../img/DRL-options-181x300.png
 
-First start with Daytime Running Lights – Configuration. Choose Canada DRL and update ECU. 
+First start with Daytime Running Lights – Configuration. Choose Canada DRL and update ECU.
+
 .. image:: ../img/DRL-Configuration-181x300.png
 
 Now, it’s time to set Day Time Running Lights Location – start with Low Beam and update ECU.
@@ -123,9 +125,11 @@ Troubleshooting DRLs
 ====================
 
 Check your Daytime running lights On/Off, this option should be set to Active
+
 .. image :: ../img/DRL-OnOff-181x300.png
 
 Check DRL Voltage Regulation Left & Right to make sure there is power set to 7.0V (13.2V for LEDs). Those settings are available under Lights Voltage Regulation
+
 .. image :: ../img/DRL-Voltage-181x300.png
 
 
