@@ -17,9 +17,9 @@ Downloading the docs
 It is possible to download the whole documenation for off-line use - see the bottom left corner (click on Read the Docs with the book icon), but be aware that this documentation is being constantly updated.
 
 
-
+*****************
 Contents
-------------------
+*****************
 .. toctree::
    :maxdepth: 2
    :caption: General:

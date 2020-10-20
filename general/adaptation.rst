@@ -57,7 +57,7 @@ Tire Size change
 
 Changing the tire size works the same in all vehicles.
 
-.. note:: **Make sure your engine is NOT RUNNING**
+.. attention:: **Make sure your engine is NOT RUNNING**
 
 1. `Connect`_ to your vehicle
 2. Open Adaptation
@@ -76,7 +76,7 @@ Changing the tire size works the same in all vehicles.
 Notes:
 ======
 
-Some vehicles (especially the more "civlian" ones) have a max value they can handle. You can set a higher one, but the ABS module will throw a warning on your dash. Decrease the tire size.
+Some vehicles (especially the more "civlian" ones) have a max tire size value they can handle. You can set a higher one, but the ABS module will throw a warning on your dash. Decrease the tire size.
 
 If you have any errors after setting the tire size (including because of the issue above):
 
@@ -87,12 +87,46 @@ If you have any errors after setting the tire size (including because of the iss
 5. Restart the vehicle and see if the problem is fixed
 
 
+**********************************
+DRL - Daytime Running Lights setup
+**********************************
+
+A daytime running lamp (DRL, also daytime running light) is an automotive lighting on the front of a roadgoing vehicle, automatically switched on when the vehicle’s handbrake has been pulled down and is in drive, emitting white, yellow, or amber light. Their job is not to help the driver see the road but to help other road users see the vehicle.
+
+.. important:: * When you change DRL settings Engine should be OFF and ignition set to RUN 
+
+* When you try to test DRL start car and release emergency brake and put your gearbox in to Drive.  On Manual gearbox you only need to release emergency brake. 
+
+DRL Configuration & Customization
+=================================
+
+Slide to adaptation section and locate DRL – Day time running lights – settings
+.. image:: ../img/DRL-option-list-181x300.png
+
+Now we have to set up DRL lights – lets start with Daytime Running Lights Configuration & Daytime Running Lights Location
+
+.. image:: ../img/DRL-options-181x300.png
+
+First start with Daytime Running Lights – Configuration. Choose Canada DRL and update ECU. 
+.. image:: ../img/DRL-Configuration-181x300.png
+
+Now, it’s time to set Day Time Running Lights Location – start with Low Beam and update ECU.
+
+.. image :: ../img/DRL-Location-181x300.png
+
+Test your lights
+================
+Start the car and release emergency brake put your gearbox in to Drive “D".  On Manual gearbox just release emergency brake. 
 
 
+Troubleshooting DRLs
+====================
 
+Check your Daytime running lights On/Off, this option should be set to Active
+.. image :: ../img/DRL-OnOff-181x300.png
 
-
-
+Check DRL Voltage Regulation Left & Right to make sure there is power set to 7.0V (13.2V for LEDs). Those settings are available under Lights Voltage Regulation
+.. image :: ../img/DRL-Voltage-181x300.png
 
 
 
