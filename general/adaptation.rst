@@ -103,6 +103,7 @@ DRL Configuration & Customization
 Slide to adaptation section and locate DRL – Day time running lights – settings
 
 .. image:: ../img/DRL-option-list-181x300.png
+	:target: ../img/DRL-option-list.png
 
 Now we have to set up DRL lights – lets start with Daytime Running Lights Configuration & Daytime Running Lights Location
 
