@@ -50,8 +50,8 @@ Disabling Engine Start/Stop System is possible, but requires a few steps and a s
 
 	g) Reassemble the sensor and secure it below & behind the bracket in an extended position (do not squeeze it - we want to simulate the hood open state)
 
-Tire size - Manual transmission
--------------------------------
+Tire size
+---------
 When changing tire size in a JL with a **manual** transmission it is necessary to follow the procedure below to avoid DTC P08A6 error.
 
 1. Restart the PCM (Power Control Module) by either disconnecting the battery (batteries) or using JScan *!Restart all ECUs* adaptation

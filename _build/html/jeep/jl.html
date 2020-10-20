@@ -1,0 +1,167 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Modules &#8212; jscan-docs  documentation</title>
+    <link rel="stylesheet" href="../_static/classic.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/language_data.js"></script>
+    
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">jscan-docs  documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Modules</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="modules">
+<h1>Modules<a class="headerlink" href="#modules" title="Permalink to this headline">¶</a></h1>
+<p>The modules section of the app gives access to actual control modules of the vehicle, live data provided by them and module-specific Activations.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Activation is a “live” change that will <strong>NOT</strong> be stored after vehicle restart.</p>
+</div>
+</div>
+<div class="section" id="adaptations">
+<h1>Adaptations<a class="headerlink" href="#adaptations" title="Permalink to this headline">¶</a></h1>
+<p>The Adaptation section allows making changes to various settings in the ECU.
+.. note:: Adaptations are permanent.</p>
+<div class="section" id="ess-engine-start-stop-system">
+<h2>ESS - Engine Start/Stop System<a class="headerlink" href="#ess-engine-start-stop-system" title="Permalink to this headline">¶</a></h2>
+<p>Disabling Engine Start/Stop System is possible, but requires a few steps and a small hardware modification (reversible).</p>
+<div class="admonition attention">
+<p class="admonition-title">Attention</p>
+<p>This feature is still being tested and <strong>may or may not work</strong> in your vehicle.</p>
+</div>
+<ol class="arabic">
+<li><p>Connect to your vehicle in JScan</p></li>
+<li><p>Go to Adaptation &gt; Auto Stop/Start (ESS) Settings and see the following:</p>
+<blockquote>
+<div><img alt="../_images/JL_ESS.jpg" src="../_images/JL_ESS.jpg" />
+<ol class="loweralpha simple">
+<li><p>Auto Start/Stop On/Off - disable this setting to stop the ECU from monitoring the Hood Ajar switch.</p></li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This will also disable Remote Start feature.</p>
+</div>
+<ol class="loweralpha simple" start="2">
+<li><p>Auto Start/Stop Menu Present On/Off - disable this setting to remove the ESS-related menu entries on your instrument cluster (dashboard).</p></li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If you don’t want to disable ESS but want to explore any issues with the system, enable this option - it will give you quite a good overview of the system status.</p>
+</div>
+</div></blockquote>
+</li>
+<li><p>Disconnect JScan</p></li>
+<li><p>Turn the vehicle OFF</p></li>
+<li><p>Open the hood and follow the instructions below to disengage the Hood Ajar sensor:</p>
+<blockquote>
+<div><ol class="loweralpha simple">
+<li><p>The sensors (two of them) are just next to the grille on the left side of the vehicle (on your right, when you stand in front and look at the hood).</p></li>
+<li><p>We need to remove only one of the sensors, but leave it plugged in to the harness</p></li>
+<li><p>On the top side of the sensor, there are two tabs in the ring that mount the sensor to the metal bracket. Press both of them to release the sensor.</p></li>
+<li><p>Pull the sensor up</p></li>
+<li><p>Gently pry the plastic tab that holds the sensor together to disconnect the top part</p></li>
+<li><p>Pull the cable along with the lower part through the metal bracket opening</p></li>
+<li><p>Reassemble the sensor and secure it below &amp; behind the bracket in an extended position (do not squeeze it - we want to simulate the hood open state)</p></li>
+</ol>
+</div></blockquote>
+</li>
+</ol>
+</div>
+<div class="section" id="tire-size">
+<h2>Tire size<a class="headerlink" href="#tire-size" title="Permalink to this headline">¶</a></h2>
+<p>When changing tire size in a JL with a <strong>manual</strong> transmission it is necessary to follow the procedure below to avoid DTC P08A6 error.</p>
+<ol class="arabic simple">
+<li><p>Restart the PCM (Power Control Module) by either disconnecting the battery (batteries) or using JScan <em>!Restart all ECUs</em> adaptation</p></li>
+<li><dl class="simple">
+<dt>Once reset, drive the Jeep so:</dt><dd><ol class="loweralpha simple">
+<li><p>Vehicle speed is 40-80mph, in 6th gear</p></li>
+<li><p>Accelerator pedal position is more than 0.392 volts</p></li>
+<li><p>Flywheel torque is &gt;75 Nm</p></li>
+</ol>
+</dd>
+</dl>
+</li>
+<li><p>Drive like this for at least 20 seconds.</p></li>
+<li><p>Once the module reads all the data it will re-enable the all gear sensor performance diagnostic.</p></li>
+</ol>
+</div>
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="../index.html">Table of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Modules</a></li>
+<li><a class="reference internal" href="#adaptations">Adaptations</a><ul>
+<li><a class="reference internal" href="#ess-engine-start-stop-system">ESS - Engine Start/Stop System</a></li>
+<li><a class="reference internal" href="#tire-size">Tire size</a></li>
+</ul>
+</li>
+</ul>
+
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/jeep/jl.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="nav-item nav-item-0"><a href="../index.html">jscan-docs  documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Modules</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2020, Piotr Bialic, Grzegorz Wilczek.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 3.2.1.
+    </div>
+  </body>
+</html>
