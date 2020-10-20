@@ -43,7 +43,7 @@ Can I transfer my license to another device?
 **********
 Connecting
 **********
-TODO: describe connecting process
+
 Bluetooth adapter:
 
 1. Plug the adapter into the OBD port
@@ -65,8 +65,10 @@ Bluetooth adapter:
 6. Select your adapter
 7. Explore
 
-Step-by-step Guide
-------------------
+**************
+Making Changes
+**************
+
 This is a high-level guide about how to change a setting in your vehicle:
 
 1. Find JScan in your app store

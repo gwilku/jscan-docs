@@ -14,8 +14,7 @@ As time passes, we hope this evolves to become the main source of knowledge abou
 Downloading the docs
 ======================
 
-It is possible to download the whole documenation for off-line use.
-Details will follow.
+It is possible to download the whole documenation for off-line use - see the bottom left corner (click on Read the Docs with the book icon), but be aware that this documentation is being constantly updated.
 
 
 
