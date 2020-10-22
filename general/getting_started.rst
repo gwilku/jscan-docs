@@ -13,16 +13,17 @@ After installation you can immediately start using JScan. No car neededed, no li
 
 How? Simple - just use the Demo mode: Start at step 4 in `Connecting`_ and choose "Demo adapter" in step 6.
 
+************************
 Free & Licensed features
-========================
+************************
 
 Free
-^^^^
+====
 Straight after installation JScan allows you to connect to your vehicle (as long as it is supported of course) and *read* the data from the ECU.
 This means, that you can run a Quick Diagnostic but also take a look into ECU settings to see current values (for example wheel size, gear ratios, various features status etc.)
 
 License
-^^^^^^^
+=======
 What is a license for?
 	License gives you the following additional functions:
 	
@@ -40,11 +41,20 @@ Can I transfer my license to another device?
 
 	If you're changing a phone from Android to iOS or vice versa and whish to continue using JScan with the same vehicle - please get in touch with us on messenger.
 
+How do I buy a license?
+	When connecting to a new vehicle, you will be prompted if you want to assign a license to the vehicle, or if you want to buy a license if you do not have one. This is the most common way.
+
+	The second way of obtaining a license is entering settings (gear icon in top right corner) -> “manage licenses". In this screen you can buy a license to assign it later during connection. Note that this is the only way of obtaining a license if you are using a WiFi adapter, as on most phones you will not be able to access the internet while connected to the adapter’s WiFI network.
+
 **********
 Connecting
 **********
 
-Bluetooth adapter:
+You will need a compatible adapter. Check out the list of `compatible adapters`_.
+
+
+Bluetooth adapter
+=================
 
 1. Plug the adapter into the OBD port
 	In newer vehicles (2018+) you might need to use a security bypass cable in order to make changes to your vehicle. See the vehicle-specific section.
@@ -64,6 +74,15 @@ Bluetooth adapter:
 5. Select your vehicle
 6. Select your adapter
 7. Explore
+
+Wi-Fi adapter
+=============
+
+Follow the steps above, but at step 3.
+
+	- connect to a Wi-Fi cast by the adapter
+	- some adapters and phones will require you to disable mobile data transfer, otherwise the connection will fail
+
 
 **************
 Making Changes
@@ -90,3 +109,5 @@ This is a high-level guide about how to change a setting in your vehicle:
 .. Want to learn about `my favorite programming language`_?
 
 .. _my favorite programming language: http://www.python.org
+
+.. _compatible adapters: http://jscan.net/supported-and-not-supported-obd-adapters/
