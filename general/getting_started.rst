@@ -52,12 +52,14 @@ Connecting
 
 You will need a compatible adapter. Check out the list of `compatible adapters`_.
 
+For Wrangler JL, Gladiator JT and possibly some other vehicles from 2018 onwars, you will need a security bypass cable. See details for each vehicle on our website and read the warning on the main screen of JScan app.
+
 
 Bluetooth adapter
 =================
 
 1. Plug the adapter into the OBD port
-	In newer vehicles (2018+) you might need to use a security bypass cable in order to make changes to your vehicle. See the vehicle-specific section.
+	In newer vehicles (2018+) you might need to use a `security bypass`_ cable in order to make changes to your vehicle. See the vehicle-specific section.
 
 2. **Turn the key to ON/RUN position**
 	.. caution::   The dashboard controls need to light up, basic checks need to be performed.
@@ -82,7 +84,6 @@ Follow the steps above, but at step 3.
 
 	- connect to a Wi-Fi cast by the adapter
 	- some adapters and phones will require you to disable mobile data transfer, otherwise the connection will fail
-
 
 **************
 Making Changes
@@ -111,3 +112,5 @@ This is a high-level guide about how to change a setting in your vehicle:
 .. _my favorite programming language: http://www.python.org
 
 .. _compatible adapters: http://jscan.net/supported-and-not-supported-obd-adapters/
+
+.. _security bypass: http://jscan.net/jl-jt-security-bypass/
