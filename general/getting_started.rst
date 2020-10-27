@@ -37,9 +37,12 @@ How does license work?
 Can I transfer my license to another device?
 	Short answer: no.
 
-	Longer answer: no, but you can use the same license on multiple devices (phone / tablet) as long as they all use the same app store account and you connect to the same vehicle.
+	Longer answer: no, but:
 
-	If you're changing a phone from Android to iOS or vice versa and whish to continue using JScan with the same vehicle - please get in touch with us on messenger.
+	- If you have two or more devices using the same app store account (Google Play account/ Apple ID) you can use the same license on multiple devices.
+	- If you switch a device within the same OS (iOS to iOS / Android to Android) the above applies. Just install JScan on the new device and use *Restore Purchases* option (phone restart might be required)
+	- If you're changing a phone from Android to iOS or vice versa and whish to continue using JScan with the same vehicle - please get in touch with us on messenger.
+	.. note:: Tell us what phone from and to you want to migrate and attach a proof of purchase to speed the process up.
 
 How do I buy a license?
 	When connecting to a new vehicle, you will be prompted if you want to assign a license to the vehicle, or if you want to buy a license if you do not have one. This is the most common way.
@@ -52,7 +55,7 @@ Connecting
 
 You will need a compatible adapter. Check out the list of `compatible adapters`_.
 
-For Wrangler JL, Gladiator JT and possibly some other vehicles from 2018 onwars, you will need a security bypass cable. See details for each vehicle on our website and read the warning on the main screen of JScan app.
+For Wrangler JL, Gladiator JT and possibly some other vehicles from 2018 onwards, you will need a security bypass cable. See details for each vehicle on our website and read the warning on the main screen of JScan app.
 
 
 Bluetooth adapter
