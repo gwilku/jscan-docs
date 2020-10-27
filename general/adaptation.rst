@@ -133,7 +133,12 @@ Check your Daytime running lights On/Off, this option should be set to Active
 .. image :: ../img/DRL-OnOff.png
 	:width: 200 px	
 
-Check DRL Voltage Regulation Left & Right to make sure there is power set to 7.0V (13.2V for LEDs). Those settings are available under Lights Voltage Regulation
+Check DRL Voltage Regulation Left & Right to make sure there is power set to:
+
+	- 7.0V for classic bulbs if you want them to shine at 50% power
+	- 13.2V for LEDs (or if you want full power from regular bulbs)
+
+Those settings are available under Lights Voltage Regulation
 
 .. image :: ../img/DRL-Voltage.png
 	:width: 200 px	
