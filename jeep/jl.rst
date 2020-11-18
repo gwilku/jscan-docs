@@ -62,3 +62,18 @@ When changing tire size in a JL with a **manual** transmission it is necessary t
 3. Drive like this for at least 20 seconds.
 4. Once the module reads all the data it will re-enable the all gear sensor performance diagnostic.
 
+
+
+LED lights / indicators warning
+-------------------------------
+
+When original traditional lights / indicators are replaced with LEDs, even if you set the corresponding settings to let the ECU know that LEDs are present, it is possible to get a dashboard error about malfunctioning light / indicator.
+
+If you are certain the lights / indicators work properly and want to remove the error from your dashboard:
+
+1. Go to Adaptation
+2. Tap search (a magnifying glass in a green circle)
+3. Type "diagnostics"
+4. Disable the corresponding "diagnostics present" setting.
+
+This will tell the ECU not to monitor the state of the sepcified lamp or indicator.
