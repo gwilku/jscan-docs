@@ -1,3 +1,5 @@
+Dodge RAM
+
 Modules
 =======
 The modules section of the app gives access to actual control modules of the vehicle, live data provided by them and module-specific Activations.
@@ -12,11 +14,10 @@ The Adaptation section allows making changes to various settings in the ECU.
 .. note:: Adaptations are permanent.
 
 
+Disabling TPMS
+--------------
 
-Installing LED Fog Lights
--------------------------
-
-JScan can't help much here, but please see this great guide on installing `fog lights`_ in your JK.
+Dodge RAM: After disabling TPMS you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. And this is to be tested.
 
 
-.. _fog lights: https://betterautomotivelighting.com/2017/09/21/installing-oem-led-myotek-jeep-wrangler-fog-lights-need-know/
+See `ESS - Engine Start/Stop System`_ in Wrangler JL section
