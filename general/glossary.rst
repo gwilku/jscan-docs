@@ -35,3 +35,11 @@ Module abbreviations & names
 	VES - Video Entertainment System (VES 2, VES 3 for video screens in 2nd / last seats row)
 	VTA - Vehicle Theft Alarm
 	WCM - Wireless Control Module (TPMS, Key fob / remote, etc.)
+
+
+For more, please visit `techautority`_  
+
+
+
+
+.. _techautority: https://www.techauthority.com/FileServerRoot/TechAuthority/Pdf/DiagnosticAcronyms.pdf
