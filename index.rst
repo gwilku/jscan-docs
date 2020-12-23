@@ -23,6 +23,7 @@ Contents
    general/advanced_scan
    general/quick_diagnostic
    general/troubleshooting
+   general/glossary
    general/testimonial
 
 
