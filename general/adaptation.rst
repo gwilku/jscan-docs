@@ -76,7 +76,7 @@ Changing the tire size works the same in all vehicles.
 Notes:
 ======
 
-Some vehicles (especially the more "civlian" ones) have a max tire size value they can handle. You can set a higher one, but the ABS module will throw a warning on your dash. Decrease the tire size.
+Some vehicles (especially the more "civilian" ones) have a max tire size value they can handle. You can set a higher one, but the ABS module will throw a warning on your dash. Decrease the tire size.
 
 If you have any errors after setting the tire size (including because of the issue above):
 

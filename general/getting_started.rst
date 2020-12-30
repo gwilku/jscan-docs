@@ -28,6 +28,7 @@ What is a license for?
 	License gives you the following additional functions:
 	
 	- Advanced Scan
+	- Live data in specific modules
 	- Trail View (for selected Vehicles)
 	- Data modfication: **writing** to the ECU
 
