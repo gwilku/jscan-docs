@@ -36,14 +36,13 @@ How does license work?
 	A license is basically a product attached to your app store account. Each license has a slot for the VIN, which gets assigned upon the first connection to the vehicle.
 
 Can I transfer my license to another device?
-	Short answer: no.
+	Short answer: Yes. In late 2020 we introduced a new licensing system.
 
-	Longer answer: no, but:
+	- On your current device go to Settings > Manage Licenses > Status. You will see a yellow field with a 6-character token there
+	- On your new device, go to the same place and tap the token button (it should say "Add") and type the token in
+	- Tap refresh icon and/or restart the app if necessary
 
-	- If you have two or more devices using the same app store account (Google Play account/ Apple ID) you can use the same license on multiple devices.
-	- If you switch a device within the same OS (iOS to iOS / Android to Android) the above applies. Just install JScan on the new device and use *Restore Purchases* option (phone restart might be required)
-	- If you're changing a phone from Android to iOS or vice versa and whish to continue using JScan with the same vehicle - please get in touch with us on messenger.
-	.. note:: Tell us what phone from and to you want to migrate and attach a proof of purchase to speed the process up.
+	.. note:: If there's no token on your old device or you are experiencing other license issues, please get in touch with us.
 
 How do I buy a license?
 	When connecting to a new vehicle, you will be prompted if you want to assign a license to the vehicle, or if you want to buy a license if you do not have one. This is the most common way.
