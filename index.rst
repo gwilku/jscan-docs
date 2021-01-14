@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ##########################
-JScan Documenation Project
+JScan Documentation Project
 ##########################
 .. title:: JScan documentation project.
 
@@ -42,7 +42,7 @@ Contents
 Downloading the docs
 ======================
 
-It is possible to download the whole documenation for off-line use - see the bottom left corner (click on Read the Docs with the book icon), but be aware that this documentation is being constantly updated.
+It is possible to download the whole documentation for off-line use - see the bottom left corner (click on Read the Docs with the book icon), but be aware that this documentation is being constantly updated.
 
 
 Indices and tables
