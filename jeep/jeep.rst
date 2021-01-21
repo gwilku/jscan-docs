@@ -2,6 +2,8 @@
 Jeep
 ####
 
+.. note:: This is *NOT A FULL LIST* of features available for modification, rather a colletion of more complex, vehicle-specific settings. For a complete list of features go to the JScan app and use demo mode connection.
+
 ***********************
 Wrangler JK (2009-2018)
 ***********************

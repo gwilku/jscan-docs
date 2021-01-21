@@ -16,7 +16,7 @@ The Adaptation section allows making changes to various settings in the ECU.
 Installing LED Fog Lights
 -------------------------
 
-JScan can't help much here, but please see this great guide on installing `fog lights`_ in your JK.
+JScan can't help much here, but please see this great guide on installing LED `fog lights`_ in your JK.
 
 
 .. _fog lights: https://betterautomotivelighting.com/2017/09/21/installing-oem-led-myotek-jeep-wrangler-fog-lights-need-know/
