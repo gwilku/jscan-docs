@@ -12,6 +12,19 @@ The Adaptation section allows making changes to various settings in the ECU.
 
 .. note:: Adaptations are permanent.
 
+Changing TPMS thresholds
+------------------------
+
+1. `Connect`_ to your vehicle
+2. Open Adaptation
+3. Open TPMS settings
+4. Set TPMS thresholds in the following:
+
+	- Light Load Inflation Pressure Front / Rear Tire: possible range is **25-80psi**
+	- Max Load Inflation Pressure Front / Rear Tire: for vehicles that have a load sensor (Gladiator, RAM trucks). This value is used as the **minimum** pressure when the **vehicle is fully loaded**. Set to 10 on JL
+
+5. Reset the TPMS. On most vehicles disconnecting the battery for a few minutes resets the TPMS, hower some newer vehicles have others systems relying on a constant power supply, so instead you can use **!Restart all ecus** option (usually available in Miscellaneous Settings section).
+
 
 ESS - Engine Start/Stop System
 ------------------------------
@@ -78,3 +91,5 @@ If you are certain the lights / indicators work properly and want to remove the 
 4. Disable the corresponding "diagnostics present" setting.
 
 This will tell the ECU not to monitor the state of the sepcified lamp or indicator.
+
+.. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting

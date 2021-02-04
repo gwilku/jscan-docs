@@ -9,6 +9,7 @@ The modules section of the app gives access to actual control modules of the veh
 Adaptations
 ===========
 The Adaptation section allows making changes to various settings in the ECU.
+
 .. note:: Adaptations are permanent.
 
 

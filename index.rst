@@ -33,6 +33,7 @@ Contents
    :caption: Features by Vehicle:
 
    jeep/jeep
+   dodge/ram
 
 ..   jeep/jk
    jeep/jl
