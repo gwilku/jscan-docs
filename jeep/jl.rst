@@ -1,17 +1,3 @@
-Modules
-=======
-The modules section of the app gives access to actual control modules of the vehicle, live data provided by them and module-specific Activations.
-
-.. note:: Activation is a "live" change that will **NOT** be stored after vehicle restart.
-
-
-
-Adaptations
-===========
-The Adaptation section allows making changes to various settings in the ECU.
-
-.. note:: Adaptations are permanent.
-
 Changing TPMS thresholds
 ------------------------
 
@@ -23,7 +9,10 @@ Changing TPMS thresholds
 	- Light Load Inflation Pressure Front / Rear Tire: possible range is **25-80psi**
 	- Max Load Inflation Pressure Front / Rear Tire: for vehicles that have a load sensor (Gladiator, RAM trucks). This value is used as the **minimum** pressure when the **vehicle is fully loaded**. Set to 10 on JL
 
-5. Reset the TPMS. On most vehicles disconnecting the battery for a few minutes resets the TPMS, hower some newer vehicles have others systems relying on a constant power supply, so instead you can use **!Restart all ecus** option (usually available in Miscellaneous Settings section).
+5. Reset the TPMS. Use **!Restart all ecus** option:
+
+	- from the drop-down menu choose Tire Pressure Monitor - Power On Restart
+	- tap GO
 
 
 ESS - Engine Start/Stop System
