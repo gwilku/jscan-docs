@@ -15,17 +15,21 @@ Dodge Ram 2015
 
 How to disable TPMS System
 
-1) Disable TPMS Premium (Instrument Cluster) or/and TPMS Base -
+1) Disable TPMS Premium (Instrument Cluster) or/and TPMS Base
 
-2) Read vehicle PIN
+2) Go to Adaptations > Radio Frequency Hub - adaptation settings. From there:
 
-- Run RFH Replace Procedure
+3) Read vehicle PIN
 
-- Restart Body/Instrument Cluster
+4) Run Radio Frequency Hub Replace Procedure
 
-- Shut Off Carr and open/close the door
+5) Open !Restart All ECUs and from the drop-down choose "Instrument Cluster - Power On Restart" and tap GO.
 
-- Done
+6) Once completed, turn the car off completely
+
+7) Close the door, wait a minute or two, open the door
+
+8) Done: start the car, TPMS should be gone
 
 
 EU Lights Conversion
