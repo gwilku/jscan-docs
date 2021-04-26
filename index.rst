@@ -30,7 +30,7 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Features by Vehicle:
+   :caption: 'How-To' guides for specific vehicles:
 
    jeep/jeep
    dodge/ram
