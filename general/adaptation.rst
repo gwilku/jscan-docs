@@ -1,5 +1,5 @@
 ############################
-General (START HERE)
+Common Modifications:
 ############################
 
 Adaptation section of the app is where you can make permanent (in most cases) changes to your vehicle configuration. Below you will find a step-by-step guide for some of the most common adaptations. These steps are the same for most vehicles.

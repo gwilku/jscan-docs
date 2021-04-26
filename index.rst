@@ -29,11 +29,6 @@ Contents
    :caption: Configuring your vehicle:
 
    general/adaptation
-
-.. toctree::
-   :maxdepth: 2
-   :caption: 'How-To' guides for specific vehicles:
-
    jeep/jeep
    dodge/ram
 
