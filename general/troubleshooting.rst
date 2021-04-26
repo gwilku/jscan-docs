@@ -2,10 +2,10 @@
 Troubleshooting
 ###############
 
-Tire Size adaptation
-====================
+Tire size issues:
+======================
 
-Check engine light is on and speedometer not working.
+Check engine light is on and speedometer not working:
 
 	Was the adaptation done with engine working?
 
@@ -15,6 +15,16 @@ Check engine light is on and speedometer not working.
 
 	.. note:: Factory speedometer is ALWAYS showing higher reading than you actually drive. That’s a safety feature, required legally for example in the EU. If you want to ‘fix’ it, just pick a slightly smaller tire height (0.25"-0.5" less than real).
 
-Check engine and / or ABS fault is on.
+Check engine and / or ABS fault is on:
 	
 	The new tire size is outside of an acceptable range. Some vehicles (more 'civilian') have a hard-coded limit of a tire size.
+
+
+Gear ratio issues:
+======================
+
+After changing the gear ratio the vehicle goes int limp mode and "incorrect gear ratio" error appears in Advanced scan:
+	
+	Make sure you set the correct gear ratio (we've heard about mis-labeled gear sets)
+	If the ratio is fine, make sure you followed the correct procedure. If not - repeat it.
+	

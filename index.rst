@@ -19,14 +19,16 @@ Contents
    :caption: General:
 
    general/getting_started
-   general/adaptation
-   general/advanced_scan
    general/quick_diagnostic
+   general/advanced_scan   
    general/troubleshooting
-   general/glossary
-   general/testimonial
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Configuring your vehicle:
+
+   general/adaptation
 
 .. toctree::
    :maxdepth: 2
@@ -34,6 +36,13 @@ Contents
 
    jeep/jeep
    dodge/ram
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Miscellaneous:
+
+   general/glossary
+   general/testimonial   
 
 ..   jeep/jk
    jeep/jl
