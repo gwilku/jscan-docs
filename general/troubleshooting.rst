@@ -27,4 +27,22 @@ After changing the gear ratio the vehicle goes int limp mode and "incorrect gear
 	
 	Make sure you set the correct gear ratio (we've heard about mis-labeled gear sets)
 	If the ratio is fine, make sure you followed the correct procedure. If not - repeat it.
-	
+
+
+Troubleshooting DRLs
+====================
+
+Check your Daytime running lights On/Off, this option should be set to Active
+
+.. image :: ../img/DRL-OnOff.png
+	:width: 200 px	
+
+Check DRL Voltage Regulation Left & Right to make sure there is power set to:
+
+	- 5.0 V or 7.0 V for classic bulbs if you want them to shine at 50% power
+	- *12.4 V for LEDs* or full power from regular bulbs
+
+Those settings are available under Lights Voltage Regulation
+
+.. image :: ../img/DRL-Voltage.png
+	:width: 200 px	

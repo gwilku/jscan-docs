@@ -16,7 +16,7 @@ Contents
 *****************
 .. toctree::
    :maxdepth: 2
-   :caption: General:
+   :caption: General
 
    general/getting_started
    general/quick_diagnostic
@@ -26,15 +26,17 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Configuring your vehicle:
+   :caption: How To's
 
-   general/adaptation
+   general/tpms
+   general/drl
+   general/tiresize
    jeep/jeep
    dodge/ram
 
 .. toctree::
    :maxdepth: 2
-   :caption: Miscellaneous:
+   :caption: Miscellaneous
 
    general/glossary
    general/testimonial   
