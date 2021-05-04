@@ -33,7 +33,11 @@ What is a license for?
 	- Data modfication: **writing** to the ECU
 
 How does license work?
-	A license is basically a product attached to your app store account. Each license has a slot for the VIN, which gets assigned upon the first connection to the vehicle.
+	A license is a slot for 1 VIN. It's attached to your account token (found in settings > Manage Licesnses & Account > Status). You can use this token to use JScan on multpile devices (with the same vehicle). Just install JScan on another phone or tablet and type the token in the settings - both devices will use the same license.
+
+	If you sell your vehicle, you can pass the account token to the new owner, clear it from your phone and get yourself a new license for your new vehicle (this will also generate a new token for you to use).
+
+	If you have multiple licenses used under the same token and want to pass only one of them when selling the car, please contact us via Facebook message.
 
 Can I transfer my license to another device?
 	Short answer: Yes. In late 2020 we introduced a new licensing system.
@@ -87,6 +91,7 @@ Follow the steps above, but at step 3.
 
 	- connect to a Wi-Fi cast by the adapter
 	- some adapters and phones will require you to disable mobile data transfer, otherwise the connection will fail
+	- make sure you allow JScan to use your device location - it's needed for establishing the wi-fi connection
 
 **************
 Making Changes

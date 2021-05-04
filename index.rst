@@ -31,6 +31,7 @@ Contents
    general/tpms
    general/drl
    general/tiresize
+   general/key_programming
    jeep/jeep
    dodge/ram
 
