@@ -53,6 +53,10 @@ How do I buy a license?
 
 	The second way of obtaining a license is entering settings (gear icon in top right corner) -> “manage licenses". In this screen you can buy a license to assign it later during connection. Note that this is the only way of obtaining a license if you are using a WiFi adapter, as on most phones you will not be able to access the internet while connected to the adapter’s WiFI network.
 
+*I bought a license, but nothing happened!!! What next?!*
+	Correct. Almost. You can check in Settings > Manage Licenses & Account > Status if the number of purchased licenses increased. If yes (if you have more "Purchased" than "Used" licenses) just `Connect`_ to your vehicle. That's it.
+
+
 **********
 Connecting
 **********
