@@ -13,6 +13,8 @@ After installation you can immediately start using JScan. No car neededed, no li
 
 How? Simple - just use the Demo mode: Start at step 4 in `Connecting`_ and choose "Demo adapter" in step 6.
 
+You can also start working with your car - see `Connecting`_
+
 ************************
 Free & Licensed features
 ************************
@@ -53,8 +55,9 @@ How do I buy a license?
 
 	The second way of obtaining a license is entering settings (gear icon in top right corner) -> “manage licenses". In this screen you can buy a license to assign it later during connection. Note that this is the only way of obtaining a license if you are using a WiFi adapter, as on most phones you will not be able to access the internet while connected to the adapter’s WiFI network.
 
-*I bought a license, but nothing happened!!! What next?!*
-	Correct. Almost. You can check in Settings > Manage Licenses & Account > Status if the number of purchased licenses increased. If yes (if you have more "Purchased" than "Used" licenses) just `Connect`_ to your vehicle. That's it.
+I bought a license, but nothing happened!!! What next?!
+=======================================================
+	Almost correct. You can check in Settings > Manage Licenses & Account > Status if the number of purchased licenses increased. If yes (if you have more "Purchased" than "Used" licenses) just connect to your vehicle (see below). That's it. Although we recommend reading the documentation first. It will really save a lot of trouble in future.
 
 
 **********
@@ -79,13 +82,10 @@ Bluetooth adapter
 
 				You *can* connect to your vehicle with engine running but **don't** make any Adaptations unless they are explixitly designed for it. It's fine to use Trail View, read Live Data, etc.
 
-3. To connect with the vehicle via a Bluetooth adapter:
-	- on Android: pair the BT adapter with the phone, according to the adapter's manual
-	- on iOS: only OBD Link MX+ adapter needs pairing with the phone. If you use any other adapter, skip this step
-
+3. To connect with most modern OBD Adapters there is **no need to pair them with the phone first**.
 4. Open JScan app
 5. Select your vehicle
-6. Select your adapter
+6. Select "Autoconnect" if your adapter is listed in the option's description, or choos your proper BT adapter (note, that there are groups for 4.0 BLE and 3.0 & older BT adapters)
 7. Explore
 
 Wi-Fi adapter
