@@ -82,11 +82,13 @@ Bluetooth adapter
 
 				You *can* connect to your vehicle with engine running but **don't** make any Adaptations unless they are explixitly designed for it. It's fine to use Trail View, read Live Data, etc.
 
-3. To connect with most modern OBD Adapters there is **no need to pair them with the phone first**.
+3. To connect with most modern OBD Adapters there is **no need to pair them with the phone first**. You might need it with older devices (BT 3.0 & 2.0), but try without pairing first.
 4. Open JScan app
 5. Select your vehicle
-6. Select "Autoconnect" if your adapter is listed in the option's description, or choos your proper BT adapter (note, that there are groups for 4.0 BLE and 3.0 & older BT adapters)
+6. Select "Autoconnect" if your adapter is listed in the option's description, or choose your proper BT adapter (note, that there are separate groups for 4.0 BLE and 3.0 & older BT adapters, make sure you tap the correct option)
 7. Explore
+
+.. note:: Hint: If you are having issues with connecting to the OBD Adapter please make sure, that you gave all required permissions to the JScan app. This includes Location / GPS, and it has to be turned on in your phone. We DO NOT collect, store, or even use the location data in any way, but it has to be enabled dues to how mobile systems prviacy rules are built (in short: JScan needs to be *allowed to* to determine your location, because - in theory - it *could* do it based on the Wi-Fi or a BT device you are connected to).
 
 Wi-Fi adapter
 =============
@@ -95,7 +97,7 @@ Follow the steps above, but at step 3.
 
 	- connect to a Wi-Fi cast by the adapter
 	- some adapters and phones will require you to disable mobile data transfer, otherwise the connection will fail
-	- make sure you allow JScan to use your device location - it's needed for establishing the wi-fi connection
+	- make sure you allow JScan to use your device location - it's needed for establishing the wi-fi connection (see note above)
 
 **************
 Making Changes
