@@ -42,6 +42,7 @@ How does license work?
 	If you have multiple licenses used under the same token and want to pass only one of them when selling the car, please contact us via Facebook message.
 
 Can I transfer my license to another device?
+============================================
 	Short answer: Yes. In late 2020 we introduced a new licensing system.
 
 	- On your current device go to Settings > Manage Licenses > Status. You will see a yellow field with a 6-character token there
