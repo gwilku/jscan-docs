@@ -18,7 +18,7 @@ Changing the tire size works the same in all vehicles.
 	- If you enabled it in App & Adapter settings, you will have manual input availabe. This however is wheel **circumference** in mm. Not recommended.
 	- With manual input enabled you migth get an error when trying to set a value from a drop-down. In that case, disable manual input.
 
-5. Disconnect, restart your vehicle. No ECU reset required.
+5. Disconnect, close the car, let it sit for a few minutes. No ECU reset required.
 
 Notes:
 ======

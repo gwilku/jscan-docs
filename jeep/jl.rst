@@ -18,7 +18,7 @@ Changing TPMS thresholds
 ESS - Engine Start/Stop System
 ------------------------------
 
-Disabling Engine Start/Stop System is possible, but requires a few steps and a small hardware modification (reversible).
+Disabling Engine Start/Stop System is possible, but requires a small hardware modification (reversible) and *will* result in a warning on the dashboard.
 
 .. attention:: This feature is still being tested and **may or may not work** in your vehicle.
 
@@ -39,9 +39,9 @@ Disabling Engine Start/Stop System is possible, but requires a few steps and a s
 4. Turn the vehicle OFF
 5. Open the hood and follow the instructions below to disengage the Hood Ajar sensor:
 
-	a) The sensors (two of them) are just next to the grille on the left side of the vehicle (on your right, when you stand in front and look at the hood).
+	a) The sensors (two of them) are basically simple switches. Located just next to the grille on the left side of the vehicle (on your right, when you stand in front and look at the hood).
 
-	b) We need to remove only one of the sensors, but leave it plugged in to the harness
+	b) You need to remove only one of the sensors, but leave it plugged in to the harness
 
 	c) On the top side of the sensor, there are two tabs in the ring that mount the sensor to the metal bracket. Press both of them to release the sensor.
 
@@ -51,7 +51,7 @@ Disabling Engine Start/Stop System is possible, but requires a few steps and a s
 
 	f) Pull the cable along with the lower part through the metal bracket opening
 
-	g) Reassemble the sensor and secure it below & behind the bracket in an extended position (do not squeeze it - we want to simulate the hood open state)
+	g) Reassemble the sensor and secure it below & behind the bracket in an extended position (do not squeeze it - you want to simulate the hood open state)
 
 Tire size - Manual transmission
 -------------------------------
