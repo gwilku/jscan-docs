@@ -68,7 +68,7 @@ Connecting
 
 You will need a compatible adapter. Check out the list of `compatible adapters`_.
 
-For Wrangler JL, Gladiator JT and possibly some other vehicles from 2018 onwards, you will need a security bypass cable. See details for each vehicle on our website and read the warning on the main screen of JScan app.
+For Wrangler JL, Gladiator JT and some other vehicles from 2018 onwards, you **will need a security bypass cable**. See details for each vehicle on our website and read the warning on the main screen of JScan app.
 
 
 Bluetooth adapter
@@ -100,84 +100,6 @@ Follow the steps above, but at step 3.
 	- connect to a Wi-Fi cast by the adapter
 	- some adapters and phones will require you to disable mobile data transfer, otherwise the connection will fail
 	- make sure you allow JScan to use your device location - it's needed for establishing the wi-fi connection (see note above)
-
-**************
-Making Changes
-**************
-
-This is a high-level guide about how to change a setting in your vehicle:
-
-1. Find JScan in your app store
-2. Install JScan
-3. Purchase a license (from within the app)
-4. Connect to your vehicle
-	This is when the app store account license reads and locks the vehicle VIN, so if you connect to your mom's / dad's / friend's vehicle to show them how JScan works, you will bind the license to their VIN. There's no "undo".
-5. Go to Adaptation section
-6. Find the setting you want to change
-7. Choose a new value and tap the "GO" button.
-
-Modules
--------
-The modules section of the app gives access to actual control modules of the vehicle, live data provided by them and module-specific Activations.
-
-.. note:: Activation is a "live" change that will **NOT** be stored after vehicle restart.
-
-Adaptations
------------
-The Adaptation section allows making changes to various settings in the ECU.
-.. note:: Adaptations are permanent.
-
-
-
-
-******************************************
-Troubleshooting connection issues
-******************************************
-
-.. attention:: Do NOT purchase the license as a “fix". The license has nothing to do with the communication between the devices.
-
-First steps:
-------------
-
-1. Make sure the key is in RUN, not ACC position.
-2. Make sure you are using a supported adapter.
-3. Make sure your phone has Bluetooth or Wi-Fi enabled (depending on the adapter type).
-4. Make sure you *choose the correct adapter* from the list
-	Auto-connect is for BT 4.0 (BLE) devices only.
-
-If the connection is established, but JScan features don't work (App can't read VIN, adaptations fail, etc.) it is usually an issue with the adapter, especially if it's a cheaper one.
-
-OBD Adapter check
------------------
-
-Go to JScan settings and tap on *ELM327 Identification*.
-
-- If every row reports TRUE (green) then the adapter is most likely fine, and everything should work. Make sure you have selected a correct vehicle, that you have a license, the key is in RUN etc.
-- If any row reports FALSE (red) then there is a communication issue:
-	- All rows except the last one (ABS) are testing the communication between your phone and the adapter. Any issues here indicate an unsupported or malfunctioning adapter. Replace the adapter.
-	- The last row - ABS - is an adapter-vehicle communication problem. There are multiple possible reasons:
-		* The car is not turned on (set the key to RUN, not ACC)
-		* The socket connection is bad (check the pins)
-		* The adapter is faulty (replace the adapter)
-		* Other, unknown causes - get in touch with us
-
-
-Connection lost - You will be disconnected from: Bluetooth
-----------------------------------------------------------
-
-If you are getting the error above, please uninstall Torque application.
-
-
-Other issues
-------------
-
-Other common reasons include:
-	- no bypass cable in a vehicle that requires it
-	- incorrect adapter choice in the list
-	- incorrect vehicle choice in the list
-	- another diagnostic application using the BT connection (yes, they do it even when not running - they work in the background)
-
-.. note:: If you're facing any other issue, or the problem solutions described above don't work - get in touch with us on FB messenger. We will figure this out. Please include the vehicle model & year, adapter brand, phone OS (Android or iOS) and what steps you took.
 
 
 JScan doesn't read the VIN

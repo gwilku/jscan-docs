@@ -18,7 +18,7 @@ Changing the tire size works the same in all vehicles.
 	- If you enabled it in App & Adapter settings, you will have manual input availabe. This however is wheel **circumference** in mm. Not recommended.
 	- With manual input enabled you migth get an error when trying to set a value from a drop-down. In that case, disable manual input.
 
-5. Disconnect, close the car, let it sit for a few minutes. No ECU reset required.
+5. **Disconnect, close the car, let it sit for a few minutes.** No ECU reset required.
 
 Notes:
 ======
@@ -34,4 +34,4 @@ If you have any errors after setting the tire size (including because of the iss
 5. Restart the vehicle and see if the problem is fixed
 
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
-
+.. _Tire Size: https://jscan-docs.readthedocs.io/en/latest/general/tiresize.html
