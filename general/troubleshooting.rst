@@ -34,6 +34,16 @@ Go to JScan settings and tap on *ELM327 Identification*.
 		* Other, unknown causes - get in touch with us
 
 
+JScan doesn't read the VIN
+--------------------------
+
+	1. Make sure the key is in ON position (not ACC) – i.e. dashboard controls are on.
+	2. Inspect the OBD adapter and socket. Do pins fit tight? Or are they loose / dirty / rusty / broken?
+	3. Go to JScan settings (cog, top-right corner) > ELM327 identification. All entries except ABS are adapter-phone communication. ABS is adapter-car. Any “false" values will indicate a possible adapter issue.
+	4. If it’s a new purchase use “Return and Replace" or similar method to get another device from the vendor.
+
+
+
 Connection lost - You will be disconnected from: Bluetooth
 ----------------------------------------------------------
 
