@@ -8,7 +8,6 @@ This is a high-level guide about how to change a setting in your vehicle:
 2. Install JScan
 3. Purchase a license (from within the app)
 4. `Connect`_ to your vehicle
-	This is when the app store account license reads and locks the vehicle VIN, so if you connect to your mom's / dad's / friend's vehicle to show them how JScan works, you will bind the license to their VIN. There's no "undo".
 5. Go to Adaptation section
 6. Find the setting you want to change
 7. Choose a new value and tap the "GO" button.

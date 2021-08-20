@@ -111,3 +111,7 @@ Those settings are available under Lights Voltage Regulation
 
 .. image :: ../img/DRL-Voltage.png
 	:width: 200 px	
+
+
+
+.. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
