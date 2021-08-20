@@ -6,8 +6,8 @@ Changing TPMS thresholds
 3. Open TPMS settings
 4. Set TPMS thresholds in the following:
 
-	- Light Load Inflation Pressure Front / Rear Tire: *SUPPOSEDLY* for vehicles that have a load sensor (Gladiator, RAM trucks). This value is used as the **minimum** pressure when the **vehicle is lightly loaded**. In other vehicles, leave at 0.
-	- Max Load Inflation Pressure Front / Rear Tire: *SUPPOSEDLY* for vehicles that have a load sensor (Gladiator, RAM trucks). This value is used as the **minimum** pressure when the **vehicle is fully loaded**. Change this value in JL.
+	- Light Load Inflation Pressure Front / Rear Tire: Leave at 0.
+	- Max Load Inflation Pressure Front / Rear Tire: This value is used as the **minimum** pressure. Change this to your liking.
 
 5. Close the car, let it sit for a few minutes. If you see no change in behaviour, continue to the next step:
 6. Reset the TPMS. Use **!Restart all ecus** option:

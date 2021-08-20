@@ -26,3 +26,9 @@ Gladiator JT (2018+)
 ***********************
 
 .. include:: jt.rst
+
+***********************
+Grand Cherokee (WK/WK2)
+***********************
+
+.. include:: gc.rst

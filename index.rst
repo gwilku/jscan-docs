@@ -20,7 +20,8 @@ Contents
 
    general/getting_started
    general/quick_diagnostic
-   general/advanced_scan   
+   general/advanced_scan  
+   general/modifications 
    general/troubleshooting
 
 
@@ -32,6 +33,11 @@ Contents
    general/drl
    general/tiresize
    general/key_programming
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Model-Specific features
+
    jeep/jeep
    dodge/ram
 

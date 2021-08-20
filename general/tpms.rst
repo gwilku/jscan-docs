@@ -42,7 +42,7 @@ This is a simple change, and again - it is highly advisable to not have any TPMS
 
 	- TPMS Threshold: for vehicles equipped with the basic version
 	- TPMS Threshold - EVIC version: well... yes, for vehicles with the premium version
-	- Light Load Inflation Pressure Front / Rear Tire: *SUPPOSEDLY* for vehicles that have a load sensor (Gladiator, RAM trucks). This value is used as the **minimum** pressure when the **vehicle is lightly loaded**. In other vehicles, leave at 0.
+	- Light Load Inflation Pressure Front / Rear Tire:  Leave at 0.
 	- Max Load Inflation Pressure Front / Rear Tire: for vehicles that have a load sensor (Gladiator, RAM trucks). This value is used as the **minimum** pressure when the **vehicle is fully loaded**. Change this value first and see if it does the job.
 
 5. Reset the TPMS: 
@@ -54,3 +54,4 @@ This is a simple change, and again - it is highly advisable to not have any TPMS
 
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
 
+.. *SUPPOSEDLY* for vehicles that have a load sensor (Gladiator, RAM trucks). This value is used as the **minimum** pressure when the **vehicle is lightly loaded**. In other vehicles,

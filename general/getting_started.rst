@@ -9,11 +9,12 @@ You can install the JScan app via Apple Appstore or Google Play, free of charge.
 
 First steps & DEMO mode
 =======================
-After installation you can immediately start using JScan. No car neededed, no license required.
+After installation you can immediately start using JScan.
 
-How? Simple - just use the Demo mode: Start at step 4 in `Connecting`_ and choose "Demo adapter" in step 6.
+You can either:
 
-You can also start working with your car - see `Connecting`_
+	- Start with `Connecting`_ to your vehicle
+	- Play with sample data in a demo mode (follow the steps for `Connecting`_ and choose "Demo adapter" in step 6)
 
 ************************
 Free & Licensed features
@@ -114,6 +115,17 @@ This is a high-level guide about how to change a setting in your vehicle:
 5. Go to Adaptation section
 6. Find the setting you want to change
 7. Choose a new value and tap the "GO" button.
+
+Modules
+-------
+The modules section of the app gives access to actual control modules of the vehicle, live data provided by them and module-specific Activations.
+
+.. note:: Activation is a "live" change that will **NOT** be stored after vehicle restart.
+
+Adaptations
+-----------
+The Adaptation section allows making changes to various settings in the ECU.
+.. note:: Adaptations are permanent.
 
 
 
