@@ -28,3 +28,5 @@ Trail View
 -----------
 
 In some vehicles you will be able to access some "live" features, which work when JScan is connected to the vehicle. These can be used with the engine running.
+
+.. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting

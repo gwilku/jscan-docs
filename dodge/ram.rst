@@ -4,11 +4,6 @@ Dodge RAM
 
 .. note:: This is *NOT A FULL LIST* of features available for modification, rather a colletion of more complex, vehicle-specific settings. For a complete list of features go to the JScan app and use demo mode connection.
 
-Modules
-=======
-The modules section of the app gives access to actual control modules of the vehicle, live data provided by them and module-specific Activations.
-
-.. note:: Activation is a "live" change that will **NOT** be stored after vehicle restart.
 
 Dodge Ram 2015
 --------------
@@ -43,13 +38,6 @@ EU Lights Conversion
 4) Check turn signals either add new bulbs for turn signals or change lights do whaterver you want.
 
 
-
-Adaptations
-===========
-The Adaptation section allows making changes to various settings in the ECU.
-.. note:: Adaptations are permanent.
-
-
 Disabling TPMS
 --------------
 
@@ -57,3 +45,7 @@ Dodge RAM: After disabling TPMS you need to re-initialize Radio Frequency Hub, w
 
 
 See `ESS - Engine Start/Stop System`_ in Wrangler JL section
+
+
+.. _troubleshooting: https://jscan-docs.readthedocs.io/en/latest/general/troubleshooting.html
+.. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
