@@ -1,6 +1,6 @@
-###############
-Troubleshooting
-###############
+#######################
+❗ Troubleshooting ❗
+#######################
 
 ******************************************
 Troubleshooting connection issues
