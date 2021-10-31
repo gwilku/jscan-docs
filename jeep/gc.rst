@@ -24,8 +24,7 @@ How to: Convert rear lamps on Grand Cherokee < 2014 from US to EU spec
 .. note:: This description is based on Wrangler JK process and might not be accurate. Inspect your vehicle wiring, diagrams and consult with someone who has some experience already. If the description is inaccurate, please reach out to us. Your feedback is highly appreciated.
 
 1) Replace US rear lights with EU version
-2) Set Combined Rear Lightning On/Off -> Set this option to Deactivated. 
-This will leave only turn signals instead of combined lamps.
+2) Set Combined Rear Lightning On/Off -> Set this option to Deactivated. This will leave only turn signals instead of combined lamps.
 3) You will now need to add a wire from the third (center) stop light to the stop lights on the sides.
 
 
