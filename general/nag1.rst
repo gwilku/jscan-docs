@@ -30,12 +30,10 @@ The procedure
 	- and less than 100°C (212°F)
 	- Failure to stay within these temperature ranges will void this procedure.
 5. Drive until you get the 5th gear, and perform a coast-down (release the gas pedal and let the engine downshift) from 5th to 4th and then from 4th to 3rd gear. Repeat 4 to 5 times.
-6. Stop the vehicle, then moderately accelerate the vehicle and obtain all forward gear ranges while keeping the Engine RPM
-below 1800 RPM. Repeat this procedure 4 to 5 times.
-7. Obtaining 5th gear may be difficult at 1800 RPM. Allow transmission to shift into 5th gear at a higher RPM then
-lower the RPM to 1800 and perform manual shifts between 4th and 5th gears using the shift lever.
+6. Stop the vehicle, then moderately accelerate the vehicle and obtain all forward gear ranges while keeping the Engine RPM below 1800 RPM. Repeat this procedure 4 to 5 times.
+7. Obtaining 5th gear may be difficult at 1800 RPM. Allow transmission to shift into 5th gear at a higher RPM then lower the RPM to 1800 and perform manual shifts between 4th and 5th gears using the shift lever.
 
-The TCM stores adaptives every 10 minutes, so once you complete the process above, make sure that the vehicle stays  running for at least 10 minutes OR use "Store learned adaptives" procedure in JScan.
+.. warning:: The TCM stores adaptives every 10 minutes, so once you complete the process above, make sure that the vehicle stays  running for at least 10 minutes OR use "Store learned adaptives" procedure in JScan.
 
 
 
