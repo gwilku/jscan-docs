@@ -52,10 +52,10 @@ BCM diagram:
 
 Plug / connector layouts:
 .. image:: ../img/wk2/C5.png
-	.. width: 200px
+	:width: 200px
 
 .. image:: ../img/wk2/C6.png
-	.. width: 200px
+	:width: 200px
 
 Steps required to enable rear fog lights
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
