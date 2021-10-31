@@ -44,8 +44,9 @@ Disabling TPMS
 Dodge RAM: After disabling TPMS you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. And this is to be tested.
 
 
-See `ESS - Engine Start/Stop System`_ in Wrangler JL section
+See `ESS`_ - Engine Start/Stop System in Wrangler JL section
 
 
 .. _troubleshooting: https://jscan-docs.readthedocs.io/en/latest/general/troubleshooting.html
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
+.. _ESS: https://jscan-docs.readthedocs.io/en/latest/jeep/jeep.html#ess-engine-start-stop-system
