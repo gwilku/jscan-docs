@@ -37,4 +37,45 @@ Change this *only* if you physically changed the gears. Make sure you know the a
 
 
 
+Jeep Wrangler JK Automatic transmissions
+----------------------------------------
+
+Below you will find tech tips and procedures dedicated for each gearbox.
+There were 3 automatic gearboxes in JK 42RLE (4 speed), 545RFE (5 speed), WA580/NAG1 (5 speed)
+- JK 2.8 CRD 2007 - 2010      - 545RFE
+- JK 2.8 CRD 2010 - 2018      - WA580/NAG1
+- JK 3.8 Petrol - 2007-2011   - 42RLE
+- JK 3.6 Petrol - 2011 - 2018 - WA580/NAG1
+
+545RFE
+^^^^^^
+
+The 545RFE transmission has its own transmission control unit
+Procedures:
+* "Quick Learn" - Quick Learn should only be used when a transmission has been replaced or overhauled, or when the Transmission Control Module has been replaced or flashed.
+* "Clear VLP Counters" - Shift Counters
+* "Clear VLP Counters" - Tooth Counters
+
+42RLE
+^^^^^
+
+The 42RLE gearbox has a gearbox controller connected to the engine control unit (all in one module)
+Procedures:
+* "Quick Learn" - Quick Learn should only be used when a transmission has been replaced or overhauled, or when the Transmission Control Module has been replaced or flashed.
+* "Clear VLP Counters" - Shift Counters
+* "Clear VLP Counters" - Tooth Counters
+
+WA580/NAG1
+^^^^^^^^^^
+
+The WA580 gearbox has its own gearbox control unit (it is roughly to the right of the driver's feet)
+Procedures:
+* Initialize EGS - This procedure will transfer data in to transmission module, it is required when you update Axle Ratio and recommend with significant Tire Size update (if you experience poor shifting).
+* TCM Reset Learned Adaptives - This procedure This program allows the electronic transmission system to re-calibrate itself.
+* TCM Store Learned Adaptives - This procedure This program allows the electronic transmission system to save current calibrations.
+
+See NAG1 How-To for details.
+
+
+
 .. _fog lights: https://betterautomotivelighting.com/2017/09/21/installing-oem-led-myotek-jeep-wrangler-fog-lights-need-know/ 
