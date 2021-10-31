@@ -38,7 +38,8 @@ Steps required to enable rear turn signals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Combined Rear Lightning On/Off -> Set this option to Deactivated – this option will disable, brake with turn, only brake light will be available.
-2) Check if Rear Turn Lamps Output Present -> Activated – this option will enable large pins C5/E pin number 3 & C6/F pin number 42 on BCM (Body Computer)
+2) Check if Rear Turn Lamps Output Present -> Activated – this option will enable large pins C5/E pin number 3 & C6/F pin number 42 on BCM (Body Computer).
+	.. note:: In most vehicles the wiring harness will already have those pins properly wired. If the conversion doesn't work as expected, check the wiring first.
 3) Right – Second Reverse Lamp – On/Off -> Set this option to Deactivated
 4) Left – Second Reverse Lamp – On/Off -> Set this option to Deactivated
 5) Replace white reverse bulbs with orange bulbs and conversion is completed
