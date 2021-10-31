@@ -18,6 +18,12 @@ SRT Mode vs Performance Pages
 If you want to enable SRT / Performance Pages on the radio, **don't use SRT Mode Adaptation.** This adaptation is used if you actually have an SRT hardware. To enable SRT options on the radio use Performance Pages adaptation, and be aware that the radio might need up to 24 hrs to catch up on changes made and/or a hard reset (pulling the radio fuse) if 24 hrs wait is not enough.
 
 
+How to: Convert rear lamps on Grand Cherokee < 2014 from US to EU spec
+======================================================================
+
+1) Combined Rear Lightning On/Off -> Set this option to Deactivated – this option will disable, brake with turn, only brake light will be available.
+
+
 How to: Convert rear lamps on Grand Cherokee 2014-2020 from US to EU spec
 =========================================================================
 
@@ -32,11 +38,11 @@ Steps required to enable rear turn signals
 4) Left – Second Reverse Lamp – On/Off -> Set this option to Deactivated
 5) Replace white reverse bulbs with orange bulbs and conversion is completed
 
-.. image:: ../img/BCM.png
+.. image:: /img/BCM.png
 
-.. image:: ../img/C5.png
+.. image:: /img/C5.png
 
-.. image:: ../img/C6.png
+.. image:: /img/C6.png
 
 Steps required to enable rear fog lights
 ----------------------------------------
