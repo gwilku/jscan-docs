@@ -38,18 +38,20 @@ Steps required to enable rear turn signals
 4) Left – Second Reverse Lamp – On/Off -> Set this option to Deactivated
 5) Replace white reverse bulbs with orange bulbs and conversion is completed
 
-.. image:: ../img/WK2/BCM.png
+.. image:: ../img/wk2/BCM.png
 
-.. image:: ../img/WK2/C5.png
+.. image:: ../img/wk2/C5.png
 
-.. image:: ../img/WK2/C6.png
+.. image:: ../img/wk2/C6.png
 
 Steps required to enable rear fog lights
 ----------------------------------------
 
 1) Rear Fog Lamps Output Present -> Activated – This option will activate two new pins on BCM C5/E pin number 39 & C6/F pin number 5 – small pins “KOSTAL 1,2 MLK"
  
-.. image:: ../img/WK2/SLK-12.png
+.. image:: ../img/wk2/SLK-12.png
+
+.. image:: ../img/JL_ESS.jpg
 
 
 2) Right – Rear Fog Lamp or High Beam Shutter On/Off -> Set to Activated
