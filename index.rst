@@ -34,6 +34,7 @@ Contents
    general/tiresize
    general/key_programming
    general/nag1
+   general/etc
 
 .. toctree::
    :maxdepth: 2

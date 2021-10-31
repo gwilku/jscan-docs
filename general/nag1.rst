@@ -19,6 +19,8 @@ We also recommend it if shifting feels off after:
 1. Changing gears in axles (axle ratio)
 2. Changing **significantly** the tire size
 
+The procedure
+^^^^^^^^^^^^^
 
 1. Connect with JScan to your vehicle
 2. Open Adaptations and naviate to the Tire & Axle or Vehicle Maintenance section, or use search to locate "Reset Learned Adaptives (NAG1)" or similarly named adaptation and run it.
