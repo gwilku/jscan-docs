@@ -16,6 +16,42 @@ You can either:
 	- Start with `Connecting`_ to your vehicle
 	- Play with sample data in a demo mode (follow the steps for `Connecting`_ and choose "Demo adapter" in step 6)
 
+Application overview
+====================
+
+
+Dashboard / Main screen:
+------------------------
+
+1) Quick Diagnostic - this screen is responsible for displaying "generic" - "check engine light" Trouble Codes
+
+2) Live Data - this screen will dispay "generic" live data - live data that are common across multiple cars and models
+
+Quick Diagnostic and Live Data available on main screen are generic (standrd) data available on almost all cars and models to allow independed technician to diagnos a car - this is how 99% of cheap OBD tools work
+
+3) Advanced Scan - this is where fun begins - this screen will go throu all modules available on the car and it will query about trouble codes
+
+Modules
+-------
+
+This screen shows all possible modules for this particular car - it dosen't mean that are all installed on this particular car.
+
+Each module has 3 standard options
+
+1) Trouble Codes - this screen will allow you to show/clear - Trouble Codes on currently selected module
+
+2) Live Data - this screen will allow you to show live data for currently selected module - you need to select pids/live data to start showing data for this module
+
+3) Activations -> This is a tab is for testing purpose - it alows you to test relays, bulbs, wipers etc.
+
+Adaptations
+-----------
+
+This screen will show all availalbe adaptations (configuration, settings changes) for this particular car.
+
+Search button is available on bottom - we are trying to group related settings but this is not always possible.
+
+
 ************************
 Free & Licensed features
 ************************
