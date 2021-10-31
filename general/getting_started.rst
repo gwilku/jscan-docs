@@ -91,6 +91,11 @@ Can I transfer my license to another device?
 
 	.. note:: If there's no token on your old device or you are experiencing other license issues, please get in touch with us.
 
+I didn't read the docs before I changed phones and I don't have the token - what now?
+-------------------------------------------------------------------------------------
+
+Please get in touch with us, and provide the VIN and the purchase transaction ID
+
 How do I buy a license?
 	When connecting to a new vehicle, you will be prompted if you want to assign a license to the vehicle, or if you want to buy a license if you do not have one. This is the most common way.
 

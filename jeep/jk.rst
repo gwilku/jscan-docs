@@ -1,10 +1,10 @@
 Installing LED Fog Lights
--------------------------
+=========================
 
 JScan can't help much here, but please see this great guide on installing LED `fog lights`_ in your JK.
 
 US -> EU Light conversion
--------------------------
+=========================
 
 If you imported a JK from the USA, you will need to adapt (among other things) the rear lights. In American version the stop light is also the turn signal. In Europe, these need to be separated.
 
@@ -17,7 +17,7 @@ Now your side lamps will work as indicators only, and you need to route a wire f
 
 
 Transmission gear ratio
--------------------------
+=========================
 
 Change this *only* if you physically changed the gears. Make sure you know the actual ratio (don't trust the labels on boxes).
 	
@@ -38,7 +38,7 @@ Change this *only* if you physically changed the gears. Make sure you know the a
 
 
 Jeep Wrangler JK Automatic transmissions
-----------------------------------------
+========================================
 
 Below you will find tech tips and procedures dedicated for each gearbox.
 There were 3 automatic gearboxes in JK 42RLE (4 speed), 545RFE (5 speed), WA580/NAG1 (5 speed)
@@ -48,7 +48,7 @@ There were 3 automatic gearboxes in JK 42RLE (4 speed), 545RFE (5 speed), WA580/
 - JK 3.6 Petrol - 2011 - 2018 - WA580/NAG1
 
 545RFE
-^^^^^^
+------
 
 The 545RFE transmission has its own transmission control unit
 Procedures:
@@ -57,7 +57,7 @@ Procedures:
 * "Clear VLP Counters" - Tooth Counters
 
 42RLE
-^^^^^
+-----
 
 The 42RLE gearbox has a gearbox controller connected to the engine control unit (all in one module)
 Procedures:
@@ -66,7 +66,7 @@ Procedures:
 * "Clear VLP Counters" - Tooth Counters
 
 WA580/NAG1
-^^^^^^^^^^
+----------
 
 The WA580 gearbox has its own gearbox control unit (it is roughly to the right of the driver's feet)
 Procedures:

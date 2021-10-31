@@ -1,5 +1,5 @@
 Changing TPMS thresholds
-------------------------
+========================
 
 1. `Connect`_ to your vehicle
 2. Open Adaptation
@@ -18,7 +18,7 @@ Changing TPMS thresholds
 
 
 ESS - Engine Start/Stop System
-------------------------------
+==============================
 
 Disabling Engine Start/Stop System is possible, but requires a small hardware modification (reversible) and *will* result in a warning on the dashboard.
 
@@ -56,7 +56,7 @@ Disabling Engine Start/Stop System is possible, but requires a small hardware mo
 	g) Reassemble the sensor and secure it below & behind the bracket in an extended position (do not squeeze it - you want to simulate the hood open state)
 
 Tire size - Manual transmission
--------------------------------
+===============================
 When changing tire size in a JL with a **manual** transmission it is necessary to follow the procedure below to avoid DTC P08A6 error.
 
 1. Restart the PCM (Power Control Module) by either disconnecting the battery (batteries) or using JScan *!Restart all ECUs* adaptation
@@ -70,7 +70,7 @@ When changing tire size in a JL with a **manual** transmission it is necessary t
 
 
 LED lights / indicators warning
--------------------------------
+===============================
 
 When original traditional lights / indicators are replaced with LEDs, even if you set the corresponding settings to let the ECU know that LEDs are present, it is possible to get a dashboard error about malfunctioning light / indicator.
 

@@ -1,5 +1,5 @@
 Tire Size
----------
+=========
 
 .. note:: In models equipped with the advanced Park Sense module (not the basic, 4-sensor one) setting a bigger tire size **will cause Park Sense and ABS errors** and there is currently no known solution.
 
@@ -13,13 +13,13 @@ Generally, follow the default `Tire Size`_ procedure, and then:
 
 
 SRT Mode vs Performance Pages
------------------------------
+=============================
 
 If you want to enable SRT / Performance Pages on the radio, **don't use SRT Mode Adaptation.** This adaptation is used if you actually have an SRT hardware. To enable SRT options on the radio use Performance Pages adaptation, and be aware that the radio might need up to 24 hrs to catch up on changes made and/or a hard reset (pulling the radio fuse) if 24 hrs wait is not enough.
 
 
 How to: Convert rear lamps on Grand Cherokee < 2014 from US to EU spec
-----------------------------------------------------------------------
+======================================================================
 
 .. note:: This description is based on Wrangler JK process and might not be accurate. Inspect your vehicle wiring, diagrams and consult with someone who has some experience already. If the description is inaccurate, please reach out to us. Your feedback is highly appreciated.
 
@@ -29,12 +29,12 @@ How to: Convert rear lamps on Grand Cherokee < 2014 from US to EU spec
 
 
 How to: Convert rear lamps on Grand Cherokee 2014-2020 from US to EU spec
--------------------------------------------------------------------------
+=========================================================================
 
 General steps required to convert car to euro spec
 
 Steps required to enable rear turn signals
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------
 
 1) Combined Rear Lightning On/Off -> Set this option to Deactivated – this option will disable, brake with turn, only brake light will be available.
 2) Check if Rear Turn Lamps Output Present -> Activated – this option will enable large pins C5/E pin number 3 & C6/F pin number 42 on BCM (Body Computer).
@@ -57,7 +57,7 @@ Plug / connector layouts:
 	:width: 200px
 
 Steps required to enable rear fog lights
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------
 
 1) Rear Fog Lamps Output Present -> Activated – This option will activate two new pins on BCM C5/E pin number 39 & C6/F pin number 5:
 
