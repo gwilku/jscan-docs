@@ -51,6 +51,7 @@ BCM diagram:
 .. image:: ../img/wk2/BCM.png
 
 Plug / connector layouts:
+
 .. image:: ../img/wk2/C5.png
 	:width: 200px
 
