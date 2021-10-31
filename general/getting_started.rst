@@ -94,9 +94,12 @@ Can I transfer my license to another device?
 I didn't read the docs before I changed phones and I don't have the token - what now?
 -------------------------------------------------------------------------------------
 
-Please get in touch with us, and provide the VIN and the purchase transaction ID
+Please get in touch with us, and provide the VIN and the purchase transaction ID.
+
+The transaction ID looks like GPA.xxxxxxxxxxxxxxxxxxxx and can be found either in your purchase history in the app store or in the purchase confirmation email.
 
 How do I buy a license?
+=======================
 	When connecting to a new vehicle, you will be prompted if you want to assign a license to the vehicle, or if you want to buy a license if you do not have one. This is the most common way.
 
 	The second way of obtaining a license is entering settings (gear icon in top right corner) -> “manage licenses". In this screen you can buy a license to assign it later during connection. Note that this is the only way of obtaining a license if you are using a WiFi adapter, as on most phones you will not be able to access the internet while connected to the adapter’s WiFI network.

@@ -9,7 +9,7 @@ Troubleshooting connection issues
 .. attention:: Do NOT purchase the license as a “fix". The license has nothing to do with the communication between the devices.
 
 First steps:
-------------
+============
 
 1. Make sure the key is in RUN, not ACC position.
 2. Make sure you are using a supported adapter.
@@ -20,7 +20,7 @@ First steps:
 If the connection is established, but JScan features don't work (App can't read VIN, adaptations fail, etc.) it is usually an issue with the adapter, especially if it's a cheaper one.
 
 OBD Adapter check
------------------
+=================
 
 Go to JScan settings and tap on *ELM327 Identification*.
 
@@ -35,7 +35,7 @@ Go to JScan settings and tap on *ELM327 Identification*.
 
 
 JScan doesn't read the VIN
---------------------------
+==========================
 
 	1. Make sure the key is in ON position (not ACC) – i.e. dashboard controls are on.
 	2. Inspect the OBD adapter and socket. Do pins fit tight? Or are they loose / dirty / rusty / broken?
@@ -45,13 +45,13 @@ JScan doesn't read the VIN
 
 
 Connection lost - You will be disconnected from: Bluetooth
-----------------------------------------------------------
+==========================================================
 
 If you are getting the error above, please uninstall Torque application.
 
 
 Other issues
-------------
+============
 
 Other common reasons include:
 	- no bypass cable in a vehicle that requires it
