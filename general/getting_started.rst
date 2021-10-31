@@ -16,12 +16,15 @@ You can either:
 	- Start with `Connecting`_ to your vehicle
 	- Play with sample data in a demo mode (follow the steps for `Connecting`_ and choose "Demo adapter" in step 6)
 
+
+
+********************
 Application overview
-====================
+********************
 
 
-Dashboard / Main screen:
-------------------------
+Dashboard / Main screen
+=======================
 
 1) Quick Diagnostic - this screen is responsible for displaying "generic" - "check engine light" Trouble Codes
 
@@ -32,7 +35,7 @@ Quick Diagnostic and Live Data available on main screen are generic (standrd) da
 3) Advanced Scan - this is where fun begins - this screen will go throu all modules available on the car and it will query about trouble codes
 
 Modules
--------
+=======
 
 This screen shows all possible modules for this particular car - it dosen't mean that are all installed on this particular car.
 
@@ -45,7 +48,7 @@ Each module has 3 standard options
 3) Activations -> This is a tab is for testing purpose - it alows you to test relays, bulbs, wipers etc.
 
 Adaptations
------------
+===========
 
 This screen will show all availalbe adaptations (configuration, settings changes) for this particular car.
 
