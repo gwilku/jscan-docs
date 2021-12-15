@@ -83,4 +83,31 @@ If you are certain the lights / indicators work properly and want to remove the 
 
 This will tell the ECU not to monitor the state of the sepcified lamp or indicator.
 
+
+
+Enabling auto high beam option on Jeep JL / JT
+==============================================
+
+.. note:: - this REQUIRES you have the forward facing module up center of the windshield, in the area of the inside rear view mirror. This contains the DASM. It's the radar and camera that handles ACC, Forward Collision Warning, etc.
+
+This option may not work on early 2019 JL models - software update at the dealer may be required. 
+
+If you do not have that black box up there, you cannot enable auto high beams.
+
+Go to Adaptations and open group "Auto Headlamp & Auto High Beam"
+
+* Auto High Beam -> Activated  it will activate this option
+* Auto High Beam Module Location -> Select IRCM - this tells ecu where the module is installed
+* Auto High Beam On Threshold -> 25 km/h - this is default on some cars, on others it is 0 and in booth cases it should work.
+* Auto High Beam Off Threshold -> 20 km/h - this is default on some cars, on others it is 0 and in booth cases it should work.
+* Auto High Beam CSM Present-> Activated Radio settings screen under "Lights", adds the menu selection so you can turn it on or off
+
+
+
+
+
+
+
+
+
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting

@@ -23,9 +23,10 @@ How to: Convert rear lamps on Grand Cherokee < 2014 from US to EU spec
 
 .. note:: This description is based on Wrangler JK process and might not be accurate. Inspect your vehicle wiring, diagrams and consult with someone who has some experience already. If the description is inaccurate, please reach out to us. Your feedback is highly appreciated.
 
-1) Replace US rear lights with EU version
-2) Set Combined Rear Lightning On/Off -> Set this option to Deactivated. This will leave only turn signals instead of combined lamps.
-3) You will now need to add a wire from the third (center) stop light to the stop lights on the sides.
+* Replace US rear lights with EU version
+* Set Combined Rear Lightning On/Off -> Set this option to Deactivated.
+  This will leave only turn signals instead of combined lamps.
+* You will now need to add a wire from the third (center) stop light to the stop lights on the sides.
 
 
 How to: Convert rear lamps on Grand Cherokee 2014-2020 from US to EU spec
@@ -36,12 +37,12 @@ General steps required to convert car to euro spec
 Steps required to enable rear turn signals
 ------------------------------------------
 
-1) Combined Rear Lightning On/Off -> Set this option to Deactivated – this option will disable, brake with turn, only brake light will be available.
-2) Check if Rear Turn Lamps Output Present -> Activated – this option will enable large pins C5/E pin number 3 & C6/F pin number 42 on BCM (Body Computer).
+* Combined Rear Lightning On/Off -> Set this option to Deactivated – this option will disable, brake with turn, only brake light will be available.
+* Check if Rear Turn Lamps Output Present -> Activated – this option will enable large pins C5/E pin number 3 & C6/F pin number 42 on BCM (Body Computer).
 	.. note:: In most vehicles the wiring harness will already have those pins properly wired. If the conversion doesn't work as expected, check the wiring first.
-3) Right – Second Reverse Lamp – On/Off -> Set this option to Deactivated
-4) Left – Second Reverse Lamp – On/Off -> Set this option to Deactivated
-5) Replace white reverse bulbs with orange bulbs and conversion is completed
+* Right – Second Reverse Lamp – On/Off -> Set this option to Deactivated
+* Left – Second Reverse Lamp – On/Off -> Set this option to Deactivated
+* Replace white reverse bulbs with orange bulbs and conversion is completed
 
 BCM diagram:
 
