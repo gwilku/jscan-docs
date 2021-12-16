@@ -28,7 +28,7 @@ First start with Daytime Running Lights – Configuration. Choose Canada DRL and
 
 Now, it’s time to set Day Time Running Lights Location – start with Low Beam and update ECU.
 
-.. image :: ../img/DRL-Location.png
+.. image:: ../img/DRL-Location.png
 	:width: 200 px	
 
 Test your lights
@@ -39,4 +39,4 @@ If needed, consult `troubleshooting`_ section.
 
 
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
-.. _troubleshooting: https://jscan-docs.readthedocs.io/en/latest/general/troubleshooting.html
+.. _troubleshooting: https://jscan-docs.readthedocs.io/en/latest/general/troubleshooting.html#troubleshooting-drls
