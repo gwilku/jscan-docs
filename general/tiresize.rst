@@ -32,6 +32,11 @@ If you have any errors after setting the tire size (including because of the iss
 3. Clear the codes
 4. Fix the tire size setting
 5. Restart the vehicle and see if the problem is fixed
+6. If not, go to Adaptations, use search to find "ABS Static Init" (preferred) or other ABS Initialization procedure and run it.
+7. Clear the error codes again
+8. Restart your vehicle
+
+If the steps above didn't solve the problem, then most likely your vehicle is not designed to accept any other value than factory. Go to JScan settings > Trace & Restore Adaptations to either check the history of changes or revert all settings to factory.
 
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
 .. _Tire Size: https://jscan-docs.readthedocs.io/en/latest/general/tiresize.html

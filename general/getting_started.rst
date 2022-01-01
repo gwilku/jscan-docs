@@ -28,11 +28,11 @@ Dashboard / Main screen
 
 1) Quick Diagnostic - this screen is responsible for displaying "generic" - "check engine light" Trouble Codes
 
-2) Live Data - this screen will dispay "generic" live data - live data that are common across multiple cars and models
+2) Live Data - this screen will dispay "generic" live data - live data that is common across multiple cars and models
 
-Quick Diagnostic and Live Data available on main screen are generic (standrd) data available on almost all cars and models to allow independed technician to diagnos a car - this is how 99% of cheap OBD tools work
+Quick Diagnostic and Live Data available on main screen are generic (standard) data available on almost all cars and models to allow an independent technician to diagnose a car - this is how 99% of cheap OBD tools work
 
-3) Advanced Scan - this is where fun begins - this screen will go throu all modules available on the car and it will query about trouble codes
+3) Advanced Scan - this is where fun begins - this screen will go through all modules available on the car and it will query about trouble codes
 
 Modules
 =======
