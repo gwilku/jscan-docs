@@ -1,11 +1,11 @@
 #########
-Dodge RAM
+RAM
 #########
 
 .. note:: This is *NOT A FULL LIST* of features available for modification, rather a colletion of more complex, vehicle-specific settings. For a complete list of features go to the JScan app and use demo mode connection.
 
 
-Dodge Ram 2015
+RAM 2015
 ==============
 
 How to disable TPMS System
