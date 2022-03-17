@@ -11,6 +11,7 @@ This is a high-level guide about how to change a setting in your vehicle:
 5. Go to Adaptation section
 6. Find the setting you want to change
 7. Choose a new value and tap the "GO" button.
+8. Check the result - it's reasonable to restart the vehicle before you do.
 
 Modules
 =======

@@ -11,16 +11,26 @@ First steps & DEMO mode
 =======================
 After installation you can immediately start using JScan.
 
-You can either:
+We highly suggest you start with the Demo Mode first. To enter the demo mode, simply choose your vehicle, and on the OBD Adapter choice screen select "Demo Adapter".
 
-	- Start with `Connecting`_ to your vehicle
-	- Play with sample data in a demo mode (follow the steps for `Connecting`_ and choose "Demo adapter" in step 6)
+The demo mode doesn't connect to a real vehicle, uses sample data and gives you a preview of functions and features specific to the selected model.
 
+You can also start with `Connecting`_ to your vehicle (you will need one of the `compatible adapters`_).
 
 
 ********************
-Application overview
+How to use JScan
 ********************
+
+JScan is a quite straightforward application, but there are some basics you should understand before you connect to your car.
+
+There are three main areas of the app:
+
+	- Dashboard: with diagnostic and trail view functions
+	- Modules: gives you access to *live data* of the vehicle's modules
+	- Adaptation: lets you configure / reprogram your vehicle
+
+See the details below.
 
 
 Dashboard / Main screen
@@ -37,13 +47,13 @@ Quick Diagnostic and Live Data available on main screen are generic (standard) d
 Modules
 =======
 
-This screen shows all possible modules for this particular car - it dosen't mean that are all installed on this particular car.
+This screen shows all possible modules for this model - it doesn't mean that are all actually installed on this particular car.
 
-Each module has 3 standard options
+Each module has 3 functionalities:
 
 1) Trouble Codes - this screen will allow you to show/clear - Trouble Codes on currently selected module
 
-2) Live Data - this screen will allow you to show live data for currently selected module - you need to select pids/live data to start showing data for this module
+2) Live Data - this screen will allow you to show live data for currently selected module - you need to select pids/live data to start showing data for this module.
 
 3) Activations -> This is a tab is for testing purpose - it alows you to test relays, bulbs, wipers etc.
 
@@ -62,7 +72,7 @@ Free & Licensed features
 Free
 ====
 Straight after installation JScan allows you to connect to your vehicle (as long as it is supported of course) and *read* the data from the ECU.
-This means, that you can run a Quick Diagnostic but also take a look into ECU settings to see current values (for example wheel size, gear ratios, various features status etc.)
+This means, that you can run a Quick Diagnostic but also take a look into ECU settings (via Adaptations) to see current values (for example wheel size, gear ratios, various features status etc.)
 
 License
 =======
@@ -75,15 +85,16 @@ What is a license for?
 	- Data modfication: **writing** to the ECU
 
 How does license work?
-	A license is a slot for 1 VIN. It's attached to your account token (found in settings > Manage Licesnses & Account > Status). You can use this token to use JScan on multpile devices (with the same vehicle). Just install JScan on another phone or tablet and type the token in the settings - both devices will use the same license.
+======================
+A license is a slot for 1 VIN. It's attached to your **account token** (found in settings > Manage Licesnses & Account > Status). You can use this token to use JScan on multpile devices with the same vehicle(s). Just install JScan on another phone or tablet and type the token in the settings - both devices will use the same license.
 
-	If you sell your vehicle, you can pass the account token to the new owner, clear it from your phone and get yourself a new license for your new vehicle (this will also generate a new token for you to use).
+If you sell your vehicle, you can pass the account token to the new owner, clear it from your phone and get yourself a new license for your new vehicle (this will also generate a new token for you to use).
 
-	If you have multiple licenses used under the same token and want to pass only one of them when selling the car, please contact us via Facebook message.
+If you have multiple licenses used under the same token and want to pass only one of them when selling the car, please contact us via Facebook message.
 
 Can I transfer my license to another device?
 ============================================
-	Short answer: Yes. In late 2020 we introduced a new licensing system.
+Short answer: Yes. In late 2020 we introduced a new licensing system.
 
 	- On your current device go to Settings > Manage Licenses > Status. You will see a yellow field with a 6-character token there
 	- On your new device, go to the same place and tap the token button (it should say "Add") and type the token in
@@ -92,7 +103,7 @@ Can I transfer my license to another device?
 	.. note:: If there's no token on your old device or you are experiencing other license issues, please get in touch with us.
 
 I didn't read the docs before I changed phones and I don't have the token - what now?
--------------------------------------------------------------------------------------
+=====================================================================================
 
 Please get in touch with us, and provide the VIN and the purchase transaction ID.
 
@@ -100,13 +111,21 @@ The transaction ID looks like GPA.xxxxxxxxxxxxxxxxxxxx and can be found either i
 
 How do I buy a license?
 =======================
-	When connecting to a new vehicle, you will be prompted if you want to assign a license to the vehicle, or if you want to buy a license if you do not have one. This is the most common way.
 
-	The second way of obtaining a license is entering settings (gear icon in top right corner) -> “manage licenses". In this screen you can buy a license to assign it later during connection. Note that this is the only way of obtaining a license if you are using a WiFi adapter, as on most phones you will not be able to access the internet while connected to the adapter’s WiFI network.
+When connecting to a new vehicle, you will be prompted if you want to assign a license to the vehicle, or if you want to buy a license if you do not have one. This is the most common way.
+
+The second way of obtaining a license is entering settings (gear icon in top right corner) -> “manage licenses". In this screen you can buy a license to assign it later during connection. Note that this is the only way of obtaining a license if you are using a WiFi adapter, as on most phones you will not be able to access the internet while connected to the adapter’s WiFI network.
+
+JScan doesn't accept my payment!
+================================
+
+That's quite correct, because it is not JScan that processes your payment, but rather the appplication store (Google Play or Apple App Store). If you are having trouble with the payment, please review the app store help or contact the app store support.
+
 
 I bought a license, but nothing happened!!! What next?!
 =======================================================
-	Almost correct. You can check in Settings > Manage Licenses & Account > Status if the number of purchased licenses increased. If yes (if you have more "Purchased" than "Used" licenses) just connect to your vehicle (see below). That's it. Although we recommend reading the documentation first. It will really save a lot of trouble in future.
+
+Almost correct. You can check in Settings > Manage Licenses & Account > Status if the number of purchased licenses increased. If yes (if you have more "Purchased" than "Used" licenses) just connect to your vehicle (see below). That's it. Although we recommend reading the documentation first. It will really save a lot of trouble in future.
 
 
 **********
@@ -138,7 +157,7 @@ Bluetooth adapter
 	.. note:: This is when the app store account license reads and locks the vehicle VIN, so if you connect to your mom's / dad's / friend's vehicle to show them how JScan works, you will bind the license to their VIN. There's no "undo".
 7. Explore
 
-.. note:: Hint: If you are having issues with connecting to the OBD Adapter please make sure, that you gave all required permissions to the JScan app. This includes Location / GPS, and it has to be turned on in your phone. We DO NOT collect, store, or even use the location data in any way, but it has to be enabled dues to how mobile systems prviacy rules are built (in short: JScan needs to be *allowed to* to determine your location, because - in theory - it *could* do it based on the Wi-Fi or a BT device you are connected to).
+.. note:: Hint: If you are having issues with connecting to the OBD Adapter please make sure that you gave all required permissions to the JScan app. This includes Location / GPS, and it has to be turned on in your phone. We DO NOT collect, store, or even use the location data in any way, but it has to be enabled dues to how mobile systems prviacy rules are built (in short: JScan needs to be *allowed to* to determine your location, because - in theory - it *could* do it based on the Wi-Fi or a BT device you are connected to).
 
 Wi-Fi adapter
 =============

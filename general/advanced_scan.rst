@@ -13,4 +13,4 @@ There are different error statuses, two of them being the most frequent (status 
 - **active:** the error is currently reported by the car. In most cases, this error will come back after clearing error codes
 
 
-.. note:: FYI: We do not provide advice on fixing either mechanical or electrical issues in your car, so a question "how do I fix code XYZ?" should rather go to your car mechanic.
+.. note:: FYI: We are not able provide advice on fixing either mechanical or electrical issues with your car, so a question "how do I fix code XYZ?" should rather go to your car mechanic.

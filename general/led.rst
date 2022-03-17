@@ -21,7 +21,7 @@ If any of these issues occur:
 - find LED Light settings or a similarly called group, OR, use the search (the green icon with a magnifying glass) and search for LED
 - identify settings called "LED <type of light> present ON/OFF" and enable it for every LED light you have
 
-  .. note:: If there is no setting for a given type (i.e. no LED Fog Lights for Wrangler JK) it means the vehicle software is not designed to accomodate for LED lights of a given type. You'll have to install resistors (a.k.a. "anti-flicker harness").
+  .. note:: If there is no setting for a given type (i.e. no LED Fog Lights for Wrangler JK) it means the vehicle software is not designed to accomodate for LED lights of a given type. You'll have to install resistors (a.k.a. "anti-flicker harness") or a CAN-compatible LED bulb.
 
 Troubleshooting:
 ================

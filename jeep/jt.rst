@@ -1,7 +1,7 @@
-ESS - Engine Start/Stop System
-==============================
+General hints for JT
+====================
 
-See `ESS`_ - Engine Start/Stop System in Wrangler JL section.
+Please see the JL section above - JT shares a lot with the JL model.
 
 Changing TPMS thresholds
 ========================

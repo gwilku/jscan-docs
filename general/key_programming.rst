@@ -8,19 +8,19 @@ Key Programming - BETA
 Foreword
 =================================
 
-JScan has the capability of adding a new key to a list of keys accepted by the vehicle, *HOWEVER* this is still a work-in-progress feature, a *BETA, EXPERIMENTAL FEATURE* if you will. No guarantee is givane it will work for your particular vehicle and - what's more important - for a particular key / fob.
+JScan has the capability of adding a new key to a list of keys accepted by the vehicle, **HOWEVER** this is still a work-in-progress feature, a **BETA, EXPERIMENTAL FEATURE** if you will. We cannot guarantee it will work for your particular vehicle and - what's more important - for a particular key / fob. In addition, there is a lot of external factors that can interfere with the coding process and they are beyond JScan control. We cannot provide individual support for key programming issues.
 
 Requirements
 =================================
 
 The following are a must:
 
-	- a Bluetooth Adapter - it *will not work* with a wi-fi OBD device
+	- a Bluetooth Adapter - it **will not work** with a wi-fi OBD device
 	- internet connection (either via wi-fi or mobile data)
 
 Recommended:
 
-	- an OEM key - aftermarket keys might or might not work, even from the same supplier
+	- an OEM key that mathces the original key part number - aftermarket keys might or might not work, even from the same supplier
 	- a new battery in the fob - or at least check the battery voltage; with flat battery the buttons will surely not work	
 
 How to program a key
@@ -55,13 +55,15 @@ How it works
 What JScan does?
 ----------------
 
-JScan adds the ID of a key to the list of IDs accepted by the immobilizer, allowing the key to start the vehicle. To complete the procedure a vehicle PIN is required:
+JScan instructs the vehicle to bind the key with the immobilizer, allowing the key to start the vehicle. To complete the procedure a vehicle PIN is required:
 	- in some vehicles the PIN can be retrieved with JScan
 	- in others, it can be obtained from a dealership
 	- most recent (MY 2018+) are not supported due to more complex security measures (and not even a code from the dealer will help)
 
 What JScan doesn't do?
 ----------------------
+
+JScan (nor any other device / software, even the professional ones) does not bind the key on its own - it only instructs the vehicle to do it.
 
 JScan doesn't handle the fob buttons binding process. This happens automatically between the key and the vehicle ECU.
 

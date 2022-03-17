@@ -1,3 +1,16 @@
+Choosing the right adapter
+==========================
+
+Jeep JL (and JT) are quite advanced in terms of electronic systems installed in the vehicle. Some of these systems don't operate on the standard CAN bus network, and to access them you will need either the OBD Link MX+ or vLinker MC+ adapter.
+
+The affected modules are:
+
+- HVAC (Heat, Ventilation, Air Conditioning)
+- BSM (Blind Spot Module)
+- some other radio features
+
+
+
 Changing TPMS thresholds
 ========================
 
