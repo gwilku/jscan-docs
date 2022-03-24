@@ -43,6 +43,7 @@ Contents
 
    jeep/jeep
    dodge/ram
+   dodge/dodge
 
 .. toctree::
    :maxdepth: 2

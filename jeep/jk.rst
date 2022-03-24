@@ -3,6 +3,11 @@ Installing LED Fog Lights
 
 JScan can't help much here, but please see this great guide on installing LED `fog lights`_ in your JK.
 
+TPMS
+====
+
+Follow the generic `TPMS instructions`_.
+
 US -> EU Light conversion
 =========================
 
@@ -83,3 +88,4 @@ See NAG1 How-To for details.
 
 
 .. _fog lights: https://betterautomotivelighting.com/2017/09/21/installing-oem-led-myotek-jeep-wrangler-fog-lights-need-know/ 
+.. _TPMS instructions: https://jscan-docs.readthedocs.io/en/latest/general/tpms.html
