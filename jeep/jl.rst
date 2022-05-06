@@ -39,7 +39,7 @@ There is a workaround disabling Engine Start/Stop System is possible, but requir
 
 
 Software settings:
-******************
+------------------
 
 1. Connect to your vehicle in JScan
 2. Go to Adaptation > Auto Stop/Start (ESS) Settings and see the following:
@@ -58,7 +58,7 @@ Software settings:
 4. Turn the vehicle OFF
 
 Workaround:
-***********
+-----------
 
 Open the hood and follow the instructions below to disengage the Hood Ajar sensor:
 
