@@ -38,7 +38,7 @@ How to program a key
 	- `Connect`_ to your vehicle using your current key
 	- Open Adaptations
 	- Find "PIN Reading - BETA" or similarly named adaptation (use the search)
-	- From the dropdown list choose an appropriate WCM (see models listed in brackets on the dropdown list)
+	- From the dropdown list choose an appropriate WCM (models listed in brackets are just a hint, use the version determined with the steps above)
 	- *RUN THE PROCEDURE* - the initially displayed PIN (23 31 usually) is NOT an actual PIN
 
 2. Turn the car off
