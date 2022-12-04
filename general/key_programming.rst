@@ -27,20 +27,21 @@ How to program a key
 ====================
 
 1. Acquire a vehicle PIN. To do it via JScan:
-- `Connect`_ to your vehicle using your current key
-- Open Adaptations
-- Find "PIN Reading - BETA" or similarly named adaptation (use the search)
-- From the dropdown list choose an appropriate WCM (see models listed in brackets on the dropdown list)
 
-	.. note:: 
-	To determine, which WCM your vehicle is equipped with, see the hint in the adaptation, or follow these steps:
+	- `Connect`_ to your vehicle using your current key
+	- Open Adaptations
+	- Find "PIN Reading - BETA" or similarly named adaptation (use the search)
+	- From the dropdown list choose an appropriate WCM (see models listed in brackets on the dropdown list)
 
-	Go to Modules section, open either RFH (Radio Frequency Hub) or WCM (Wireless Control Module / Wireless Control TPMS)
+		.. note:: 
+		To determine, which WCM your vehicle is equipped with, see the hint in the adaptation, or follow these steps:
 
-	Check Active Diagnostic Variant (RFH) or Variant ID (WCM) value. This is the identifier of the module responsible for handling the key IDs.
+		Go to Modules section, open either RFH (Radio Frequency Hub) or WCM (Wireless Control Module / Wireless Control TPMS)
+
+		Check Active Diagnostic Variant (RFH) or Variant ID (WCM) value. This is the identifier of the module responsible for handling the key IDs.
 
 
-- *RUN THE PROCEDURE* - the initially displayed PIN (23 31 usually) is NOT an actual PIN
+	- *RUN THE PROCEDURE* - the initially displayed PIN (23 31 usually) is NOT an actual PIN
 
 2. Turn the car off
 3. Use the new key (already cut to shape of course) and turn it to RUN position, just like in a normal connection procedure. Don't try to start the engine, it will not work yet.
