@@ -33,7 +33,6 @@ How to program a key
 	- From the dropdown list choose an appropriate WCM (see models listed in brackets on the dropdown list)
 
 	.. note:: To determine, which WCM your vehicle is equipped with, see the hint in the adaptation, or follow these steps:
-
 	Go to Modules section, open either RFH (Radio Frequency Hub) or WCM (Wireless Control Module / Wireless Control TPMS)
 	Check Active Diagnostic Variant (RFH) or Variant ID (WCM) value. This is the identifier of the module responsible for handling the key IDs.
 
