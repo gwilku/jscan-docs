@@ -86,11 +86,17 @@ What is a license for?
 
 How does license work?
 ======================
-A license is a slot for 1 VIN. It's attached to your **account token** (found in settings > Manage Licesnses & Account > Status). You can use this token to use JScan on multpile devices with the same vehicle(s). Just install JScan on another phone or tablet and type the token in the settings - both devices will use the same license.
+A license is bound to a VIN and it's attached to your **account token** (found in settings > Manage Licesnses & Account > Status). You can use this token to use JScan on multpile devices with the same vehicle(s). Just install JScan on another phone or tablet and type the token in the settings - both devices will use the same license.
 
-If you sell your vehicle, you can pass the account token to the new owner, clear it from your phone and get yourself a new license for your new vehicle (this will also generate a new token for you to use).
+
+Can I transfer my license to another car?
+============================================
+No. The license is per VIN, so if you get another car, you need another license.
+
+What you can do though when selling your vehicle, you can pass the account token to the new owner, clear it from your phone and get yourself a new license for your new vehicle (this will also generate a new token for you to use).
 
 If you have multiple licenses used under the same token and want to pass only one of them when selling the car, please contact us via Facebook message.
+
 
 Can I transfer my license to another device?
 ============================================
