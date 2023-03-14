@@ -28,7 +28,7 @@ Contents
    :maxdepth: 2
    :caption: 💡 Troubleshooting
 
-   general/troubleshooting
+   ❗ general/troubleshooting
 
 
 .. toctree::
