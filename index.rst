@@ -22,7 +22,11 @@ Contents
    general/quick_diagnostic
    general/advanced_scan  
    general/trail_view
-   general/modifications 
+   general/modifications
+
+.. toctree::
+   :maxdepth: 2
+   :caption: ❗Troubleshooting ❗
    general/troubleshooting
 
 
