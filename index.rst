@@ -16,7 +16,7 @@ Contents
 *****************
 .. toctree::
    :maxdepth: 2
-   :caption: :rocket: General
+   :caption: |:rocket:| General
 
    general/getting_started
    general/quick_diagnostic
@@ -26,14 +26,14 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: :exclamation: Troubleshooting
+   :caption: |:exclamation:| Troubleshooting
 
    general/troubleshooting
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: :bulb: How To's
+   :caption: |:bulb:| How To's
 
    general/tpms
    general/drl
