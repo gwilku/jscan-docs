@@ -4,11 +4,12 @@ Renegade
 Jeep Renegade technically is much closer to the Fiat rather than the Jeep and shares the software with the Fiat family. Because of this, applying changes to the Renegade is far more complex and requires:
 
 	- OBD Link MX+ adapter
+
 	OR
+
 	- any compatible adapter
 	- grey OBD port cable
 	- blue OBD port cable
-
 
 After you make the desired changes (adaptations), the vehicle configuration must be uploaded to all controlling modules. This is called PROXI alignment, and is done as follows:
 
@@ -23,7 +24,6 @@ After you make the desired changes (adaptations), the vehicle configuration must
 * cycle the ignition
 * reconnect
 * open PROXI alignment adaptation: all modules should be good to go
-
 
 This procedure must be performed before driving the car, so you can make more than one adaptation before doing the PROXI alignment. In other words, there is no need to do the PROXI alignment after every single adaptation, but you must do it when you want the car to be fully operational again.
 

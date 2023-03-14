@@ -33,3 +33,9 @@ Grand Cherokee (WK/WK2)
 ***********************
 
 .. include:: 4xe.rst
+
+***********************
+Renegade
+***********************
+
+.. include:: renegade.rst
