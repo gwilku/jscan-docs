@@ -27,6 +27,12 @@ author = 'Piotr Bialic, Grzegorz Wilczek'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+
+import os
+import sys
+
+sys.path.append(os.path.abspath("_ext"))
+
 extensions = [
 'sphinxemoji.sphinxemoji',
 ]
