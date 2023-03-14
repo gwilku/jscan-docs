@@ -1,2 +1,2 @@
 docutils<0.18
-sphinxemoji>0.2.0
+sphinxemoji>=0.2.0
