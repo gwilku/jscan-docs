@@ -26,9 +26,9 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: 💡 Troubleshooting
+   :caption: ❗ Troubleshooting
 
-   ❗ general/troubleshooting
+    general/troubleshooting
 
 
 .. toctree::
