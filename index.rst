@@ -16,7 +16,7 @@ Contents
 *****************
 .. toctree::
    :maxdepth: 2
-   :caption: |:rocket:| General
+   :caption: General
 
    general/getting_started
    general/quick_diagnostic
@@ -26,14 +26,14 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: |:exclamation:| Troubleshooting
+   :caption: ❗ Troubleshooting
 
    general/troubleshooting
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: |:bulb:| How To's
+   :caption: 💡 How To's
 
    general/tpms
    general/drl
@@ -56,7 +56,7 @@ Contents
    :caption: Miscellaneous
 
    general/glossary
-   general/testimonial   
+..   general/testimonial   
 
 ..   jeep/jk
    jeep/jl
