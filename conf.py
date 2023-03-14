@@ -30,12 +30,15 @@ author = 'Piotr Bialic, Grzegorz Wilczek'
 
 import os
 import sys
+import sphinxemoji
 
 sys.path.append(os.path.abspath("_ext"))
 
 extensions = [
 'sphinxemoji.sphinxemoji',
 ]
+
+sphinxemoji_style = 'twemoji'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
