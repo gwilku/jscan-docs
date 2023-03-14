@@ -21,6 +21,7 @@ Contents
    general/getting_started
    general/quick_diagnostic
    general/advanced_scan  
+   general/trail_view
    general/modifications 
    general/troubleshooting
 
