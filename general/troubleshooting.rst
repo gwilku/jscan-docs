@@ -1,6 +1,6 @@
-###############
-Troubleshooting
-###############
+########################
+|:bulb:| Troubleshooting
+########################
 
 ******************************************
 Troubleshooting connection issues
@@ -141,11 +141,12 @@ Those settings are available under Lights Voltage Regulation
 	:width: 200 px	
 
 
+*******************
+Test Area |:bulb:|
+*******************
 
-Test Area
-=========
+This should be a bulb: |:bulb:| and an exclamation |:exclamation:|
 
-This should be a bulb: |:bulb:|
 This is a manually placed Unicode bulb, causing PDF generation to crash: 💡
 
 
