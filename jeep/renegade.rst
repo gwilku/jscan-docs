@@ -1,5 +1,5 @@
-Renegade
-========
+Customisation
+=============
 
 Jeep Renegade technically is much closer to the Fiat rather than the Jeep and shares the software with the Fiat family. Because of this, applying changes to the Renegade is far more complex and requires:
 
@@ -10,6 +10,9 @@ Jeep Renegade technically is much closer to the Fiat rather than the Jeep and sh
 	- any compatible adapter
 	- grey OBD port cable
 	- blue OBD port cable
+
+PROXI Alignment
+===============
 
 After you make the desired changes (adaptations), the vehicle configuration must be uploaded to all controlling modules. This is called PROXI alignment, and is done as follows:
 

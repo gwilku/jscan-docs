@@ -142,6 +142,15 @@ Those settings are available under Lights Voltage Regulation
 
 
 
+Test Area
+=========
+
+This should be a bulb: |:bulb:|
+This is a manually placed Unicode bulb, causing PDF generation to crash: 💡
+
+
+
+
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
 
 .. _compatible adapters: http://jscan.net/supported-and-not-supported-obd-adapters/
