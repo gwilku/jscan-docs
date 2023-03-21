@@ -38,10 +38,9 @@ Changing TPMS thresholds
 ESS - Engine Start/Stop System
 ==============================
 
-.. warning:: ESS settings seem to be ignored and **will not work** in your vehicle.
+.. warning:: ESS settings **will not work** on their own and require a small hardware change.
 
-There is a workaround disabling Engine Start/Stop System is possible, but requires a small hardware modification (reversible) and *will* result in a warning on the dashboard and will disable Remote Start as well.
-
+To successfully disable the ESS you will need to complete **both** changes below:
 
 Software settings:
 ------------------
@@ -62,8 +61,8 @@ Software settings:
 3. Disconnect JScan
 4. Turn the vehicle OFF
 
-Workaround:
------------
+Hardware mod:
+-------------
 
 Open the hood and follow the instructions below to disengage the Hood Ajar sensor:
 
