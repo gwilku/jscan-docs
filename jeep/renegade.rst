@@ -1,15 +1,33 @@
-Customisation
+Quick info
+==========
+
+Renegade, Compass, and Cherokee are supported, but you need to know the following:
+
+1. They are Fiats with a Jeep badge, and have a completely different software and different customisation options
+2. You need to perform PROXI alignment after making changes (research it online please), which:
+3. requires vLinker MC+, FD as it's the only reliable OBD adapter that can perform PROXI, and even then in certain cases a special blue OBD cable might be required
+4. If you acknowleddge the above, you can go to JScan settings > app & adapter settings > and enable 'show experimental vehicles'. 
+
+And we highly encourage you to do it first, and explore the vehicle options in Demo mode (especially see PROXI and it's description) before investing in a license and adapter.
+
+In addition, as with all other 2018+ vehicles from Stellantis, you will need a Security Gateway Bypass cable.
+
+Introduction
 =============
 
-Jeep Renegade technically is much closer to the Fiat rather than the Jeep and shares the software with the Fiat family. Because of this, applying changes to the Renegade is far more complex and requires:
+After Jeep has become part of FCA / Stellantis, three new models have been launched in cooperation with Fiat. Jeep Renegade, Compass, and Cherokee are technically  much closer to the Fiat rather than the Jeep and share the software with the Fiat family. Because of this, applying changes to them is far more complex and requires:
 
 	- OBD Link MX+ adapter
 
-	OR
+	AND/OR
 
 	- any compatible adapter
-	- grey OBD port cable
-	- blue OBD port cable
+	- grey OBD adapter cable
+	- blue OBD adapter cable
+
+These cables allow the OBD adapter to access additional networks, which are used by the vehicles' modules. 
+
+Because of the above, please launch the app in the Demo mode, choose your vehicle and check the PROXI Alignment section to see which cables are required for each alignment.
 
 PROXI Alignment
 ===============
