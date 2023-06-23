@@ -1,7 +1,7 @@
 General hints for JT
 ====================
 
-Please see the JL section above - JT shares a lot with the JL model.
+For ESS (and other features) please see the JL section above - JT shares a lot with the JL model.
 
 Changing TPMS thresholds
 ========================
