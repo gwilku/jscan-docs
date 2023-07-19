@@ -50,7 +50,14 @@ See `ESS`_ - Engine Start/Stop System in Wrangler JL section
 Tire Size Change
 ================
 
-In newer RAM models run ABS Static Init after changing the tire size. Failing to do that will result in an ABS error.
+In newer RAM models:
+ 
+ - Change the tire size as usual
+ - Turn the key to OFF
+ - Turn the Key to RUN again (don't start the engine)
+ - Connect and run ABS Static Init 
+
+Failing to do that will result in an ABS error.
 
 If the above doesn't remove the errors, you might need to go to Adaptations > Radio Frequency Hub and run RFH Replace procedure (requires PIN).
 
