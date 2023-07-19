@@ -52,7 +52,7 @@ Tire Size Change
 
 In newer RAM models run ABS Initialization after changing the tire size. Failing to do that will result in an ABS error.
 
-In addition, you will need to go to Adaptations > Radio Frequency Hub and run RFH Replace procedure (requires PIN).
+If the above doesn't remove the errors, you might need to go to Adaptations > Radio Frequency Hub and run RFH Replace procedure (requires PIN).
 
 
 .. _troubleshooting: https://jscan-docs.readthedocs.io/en/latest/general/troubleshooting.html
