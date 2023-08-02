@@ -43,6 +43,8 @@ Disabling TPMS
 
 Dodge RAM: After disabling TPMS you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. And this is to be tested.
 
+RAM DT will not allow a threshold lower than 25 PSI.
+
 
 See `ESS`_ - Engine Start/Stop System in Wrangler JL section
 
@@ -50,7 +52,9 @@ See `ESS`_ - Engine Start/Stop System in Wrangler JL section
 Tire Size Change
 ================
 
-In newer RAM models:
+.. note:: RAM DT 2020+ vehicles have a factory maximum tire size limit of 35", above which Park Sense will be disabled and throwing errors. There is currently no way to bypass or override it.
+
+In newer RAM DS vehicles:
  
  - Change the tire size as usual
  - Turn the key to OFF
@@ -59,7 +63,9 @@ In newer RAM models:
 
 Failing to do that will result in an ABS error.
 
-If the above doesn't remove the errors, you might need to go to Adaptations > Radio Frequency Hub and run RFH Replace procedure (requires PIN).
+If the above doesn't remove the errors, you might need to go to Adaptations > Radio Frequency Hub and run RFH Replace procedure (requires PIN: read it via Adaptations > RFH > pin reading procedure).
+
+
 
 
 .. _troubleshooting: https://jscan-docs.readthedocs.io/en/latest/general/troubleshooting.html
