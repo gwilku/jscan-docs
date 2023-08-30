@@ -38,10 +38,10 @@ EU Lights Conversion
 4) Check turn signals either add new bulbs for turn signals or change lights do whaterver you want.
 
 
-Disabling TPMS
-==============
+Disabling / Changing TPMS
+========================
 
-Dodge RAM: After disabling TPMS you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. And this is to be tested.
+RAM DS: After disabling TPMS you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. See the steps above.
 
 RAM DT will not allow a threshold lower than 25 PSI.
 
@@ -62,8 +62,6 @@ In newer RAM DS vehicles:
  - Connect and run ABS Static Init 
 
 Failing to do that will result in an ABS error.
-
-If the above doesn't remove the errors, you might need to go to Adaptations > Radio Frequency Hub and run RFH Replace procedure (requires PIN: read it via Adaptations > RFH > pin reading procedure).
 
 
 

@@ -74,4 +74,29 @@ Small pins “KOSTAL 1,2 MLK"
 
 
 
+Air Suspension (to be completed)
+================================
+
+Key notes:
+
+DO NOT use the Leveling procedure instead of the terrain selector, as it puts the suspension in service mode.
+
+
+The adjustment of the ride height can change the Normal Ride Height (NRH). The values of different modes (example below) cannot be changed. 
+
+For example, for 2011 the basics of how the different automatic settings effect the systems are listed below:
+
+* Auto - When in 4WD High range the vehicle height is at NRH. The vehicle systems are set to normal performance settings. Combines optimal traction with seamless steering feel. When in 4WD Low range the vehicle height adjusts to 38 mm (1.49 in.) above NRH, the transfer case locks, and the transmission shifting adjusts to off road shifting.
+
+* Sport - When in 4WD High range the vehicle height adjusts to 15 mm (0.59 in.) below NRH. Electronic Stability Control (ESC) and traction control tuning thresholds are raised, and the Antilock Brake Control (ABS) allows less wheel slip, all to allow more driver control. Also the transmission shifting adjusts to a higher performance shifting. Not available in 4WD Low range .
+
+* Snow - When in 4WD High range the vehicle height is at NRH. Traction control is adjusted to allow less wheel slip, and initial vehicle launch will be in second gear. When in 4WD Low range the vehicle height adjusts to 33 mm (1.3 in.) above NRH, the transfer case locks, the transmission shifting and ABS adjusts to off road settings.
+
+* Sand/Mud - When in 4WD High range the vehicle height adjusts to 38 mm (1.49 in.) above NRH. Electronic Stability Control (ESC) tuning threshold is raised, and the ABS allows less wheel slip to allow more driver control. When in 4WD Low range the vehicle height adjusts to 38 mm (1.49 in.) above NRH. The transfer case and the Electronic Limited Slip Differential (ELSD) locks, the transmission shifting and ABS adjusts to off road settings.
+
+* Rock - Not available in 4WD High range . When in 4WD Low range the vehicle height adjusts to 65 mm (2.6 in.) above NRH. The transfer case and the ELSD locks, the transmission shifting and ABS adjusts to off road settings, and hill descent control is activated for steep downhill control.
+
+
+
+
 .. _Tire Size: https://jscan-docs.readthedocs.io/en/latest/general/tiresize.html
