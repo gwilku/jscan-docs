@@ -84,55 +84,7 @@ What is a license for?
 	- Trail View (for selected Vehicles)
 	- Data modfication: **writing** to the ECU
 
-How does license work?
-======================
-A license is bound to a VIN and it's attached to your **account token** (found in settings > Manage Licesnses & Account > Status). You can use this token to use JScan on multpile devices with the same vehicle(s). Just install JScan on another phone or tablet and type the token in the settings - both devices will use the same license.
-
-
-Can I transfer my license to another car?
-============================================
-No. The license is per VIN, so if you get another car, you need another license.
-
-What you can do though when selling your vehicle, you can pass the account token to the new owner, clear it from your phone and get yourself a new license for your new vehicle (this will also generate a new token for you to use).
-
-If you have multiple licenses used under the same token and want to pass only one of them when selling the car, please contact us via Facebook message.
-
-
-Can I transfer my license to another device?
-============================================
-Short answer: Yes. In late 2020 we introduced a new licensing system.
-
-	- On your current device go to Settings > Manage Licenses > Status. You will see a yellow field with a 6-character token there
-	- On your new device, go to the same place and tap the token button (it should say "Add") and type the token in
-	- Tap refresh icon and/or restart the app if necessary
-
-	.. note:: If there's no token on your old device or you are experiencing other license issues, please get in touch with us.
-
-I didn't read the docs before I changed phones and I don't have the token - what now?
-=====================================================================================
-
-Please get in touch with us, and provide the VIN and the purchase transaction ID.
-
-The transaction ID looks like GPA.xxxxxxxxxxxxxxxxxxxx and can be found either in your purchase history in the app store or in the purchase confirmation email.
-
-How do I buy a license?
-=======================
-
-When connecting to a new vehicle, you will be prompted if you want to assign a license to the vehicle, or if you want to buy a license if you do not have one. This is the most common way.
-
-The second way of obtaining a license is entering settings (gear icon in top right corner) -> “manage licenses". In this screen you can buy a license to assign it later during connection. Note that this is the only way of obtaining a license if you are using a WiFi adapter, as on most phones you will not be able to access the internet while connected to the adapter’s WiFI network.
-
-JScan doesn't accept my payment!
-================================
-
-That's quite correct, because it is not JScan that processes your payment, but rather the appplication store (Google Play or Apple App Store). If you are having trouble with the payment, please review the app store help or contact the app store support.
-
-
-I bought a license, but nothing happened!!! What next?!
-=======================================================
-
-Almost correct. You can check in Settings > Manage Licenses & Account > Status if the number of purchased licenses increased. If yes (if you have more "Purchased" than "Used" licenses) just connect to your vehicle (see below). That's it. Although we recommend reading the documentation first. It will really save a lot of trouble in future.
-
+For more details see the License section.
 
 **********
 Connecting

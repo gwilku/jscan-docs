@@ -1,10 +1,14 @@
+############
+Chrysler
+############
+
+
 Chrysler Pacifica
 =================
 
-**WIP: TRANSLATION**
 
 Client story
-=============
+------------
 
 Since I imported a Chrysler Pacifica, I had issues with the adaptive cruise control. Tried to calibrate it 4 times (2x with JScan, 2x with other tools).
 
@@ -12,7 +16,7 @@ If it didn't work 4 times, it means the radar is to be replaced, so I bought a n
 
 
 Radar calibration
-=================
+-----------------
 
 First and foremost, you need to properly align the radar horizontally and vertically. The best solution is a dedicated tool for that.
 
