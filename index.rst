@@ -19,6 +19,7 @@ Contents
    :caption: General
 
    general/getting_started
+   general/license
    general/quick_diagnostic
    general/advanced_scan  
    general/trail_view
