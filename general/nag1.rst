@@ -1,6 +1,6 @@
-*********************************
+#################################
 NAG1 tranmission reset & learning
-*********************************
+#################################
 
 This article is based on `NAG1`_ installation manual. You can download the original and keep it for reference.
 
