@@ -81,19 +81,27 @@ Key notes:
 
 DO NOT use the Leveling procedure instead of the terrain selector, as it puts the suspension in service mode.
 
-Anything below 50 for the rear will make the pump keep running forever.
+Anything below 50mm for the rear will make the pump keep running forever.
 
 Factory: WK2 - Trailhawk 2020
-- Front Left = 90mm
-- Front Right = 89mm
-- Rear Left = 65mm
-- Rear Right - 67mm
+
+* Front Left = 90mm
+
+* Front Right = 89mm
+
+* Rear Left = 65mm
+
+* Rear Right - 67mm
 
 Lowered: WK2
-- Front Left = 75mm
-- Front Right = 74mm
-- Rear Left = 50mm
-- Rear Right - 52mm
+
+* Front Left = 75mm
+
+* Front Right = 74mm
+
+* Rear Left = 50mm
+
+* Rear Right - 52mm
 
 The adjustment of the ride height can change the Normal Ride Height (NRH). The values of different modes (example below) cannot be changed. 
 
