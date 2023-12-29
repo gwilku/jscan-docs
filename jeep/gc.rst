@@ -95,8 +95,6 @@ Lowered: WK2
 - Rear Left = 50mm
 - Rear Right - 52mm
 
-
-
 The adjustment of the ride height can change the Normal Ride Height (NRH). The values of different modes (example below) cannot be changed. 
 
 For example, for 2011 the basics of how the different automatic settings effect the systems are listed below:
