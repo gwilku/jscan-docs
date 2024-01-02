@@ -39,7 +39,7 @@ EU Lights Conversion
 
 
 Disabling / Changing TPMS
-========================
+=========================
 
 RAM DS: After disabling TPMS you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. See the steps above.
 

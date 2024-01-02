@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-##########################
+###########################
 JScan Documentation Project
-##########################
+###########################
 .. title:: JScan documentation project.
 
 As JScan is growing bigger and bigger, with more features and more suported vehicles, we decided to initiate this documentation project.
@@ -24,6 +24,7 @@ Contents
    general/advanced_scan  
    general/trail_view
    general/modifications
+   general/radio
 
 .. toctree::
    :maxdepth: 2

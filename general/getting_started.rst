@@ -15,7 +15,7 @@ We highly suggest you start with the Demo Mode first. To enter the demo mode, si
 
 The demo mode doesn't connect to a real vehicle, uses sample data and gives you a preview of functions and features specific to the selected model.
 
-You can also start with :ref:`Connecting` to your vehicle (you will need one of the `compatible adapters`_).
+You can also start with `Connecting`_ to your vehicle (you will need one of the `compatible adapters`_).
 
 
 ********************
@@ -134,3 +134,5 @@ Follow the steps above, but at step 3.
 .. _compatible adapters: http://jscan.net/supported-and-not-supported-obd-adapters/
 
 .. _security bypass: http://jscan.net/jl-jt-security-bypass/
+
+.. _Connecting: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting

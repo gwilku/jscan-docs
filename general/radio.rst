@@ -1,5 +1,5 @@
-Radio Region
-================
+Radio Region (work in progress)
+===============================
 
 Przed konwersją do wersji EU, usuń wszystkie zapisane stacje. Następnie wyłącz tryb HD (ekran główny). JEST TO WAŻNE BY TO ZROBIĆ.
 

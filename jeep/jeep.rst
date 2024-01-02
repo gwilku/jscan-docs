@@ -39,3 +39,6 @@ Renegade / Compass / Cherokee
 *****************************
 
 .. include:: renegade.rst
+
+.. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
+.. _troubleshooting: https://jscan-docs.readthedocs.io/en/latest/general/troubleshooting.html
