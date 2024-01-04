@@ -87,5 +87,22 @@ See NAG1 How-To for details.
 
 
 
+Setting the Steering Angle
+==========================
+
+There is no such thing as an software initialization procedure for the steering angle sensor. If the wheels are straight and the steering column is assembled right, it will read 0.
+
+General hints on handling steering angle issues:
+
+Connect > go to modules > ABS > Live Data > (...) > search for steering angle > select > OK > PLAY
+
+* If your wheels are straight it should show 0
+* If it shows 180, the steering column part is upside down
+
+If it is OK - start the engine, make a full turn left, full turn right. Switch back the key  to RUN (engine off) > Run Advanced Scan, see if you have any further errors.
+
+If the steering angle is off by a different number than ~180 you'll have to inspect the steering system.
+
+
 .. _fog lights: https://betterautomotivelighting.com/2017/09/21/installing-oem-led-myotek-jeep-wrangler-fog-lights-need-know/ 
 .. _TPMS instructions: https://jscan-docs.readthedocs.io/en/latest/general/tpms.html

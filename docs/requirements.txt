@@ -1,2 +1,40 @@
-docutils<0.18
+sphinx==6.2.1
+sphinx-rtd-theme==1.2.2
+pillow==5.4.1
+mock==1.0.1
+commonmark==0.9.1
+recommonmark==0.5.0
+docutils>=0.18.1
 sphinxemoji>=0.2.0
+
+#random undocumented shit
+sphinxcontrib-applehelp==1.0.2
+    # via sphinx
+sphinxcontrib-devhelp==1.0.2
+    # via sphinx
+sphinxcontrib-htmlhelp==2.0.0
+    # via sphinx
+sphinxcontrib-jsmath==1.0.1
+    # via sphinx
+sphinxcontrib-qthelp==1.0.3
+    # via sphinx
+sphinxcontrib-serializinghtml==1.1.5
+    # via sphinx
+
+    packaging==21.3
+    # via sphinx
+pygments==2.13.0
+    # via sphinx
+pyparsing==3.0.9
+    # via packaging
+
+    jinja2==3.1.2
+    # via sphinx
+markupsafe==2.1.1
+    # via jinja2
+
+    imagesize==1.4.1
+    # via sphinx
+
+    alabaster==0.7.12
+    # via sphinx

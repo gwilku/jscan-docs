@@ -28,6 +28,7 @@ That's the most basic change. If you want to disable the system completely it is
 
     - Close the car, let it sit for a few minutes. If you see no change in behaviour, continue to the next step:
     - On most vehicles disconnecting the battery for a few minutes resets the TPMS, hower some newer vehicles have others systems relying on a constant power supply, so instead you can use **!Restart all ecus** option (usually available in Miscellaneous Settings section).
+    - On RAM Trucks run the *RFH Replace* procedure found under Adaptations > Radio Frequency Hub
 
 
 Changing TPMS thresholds

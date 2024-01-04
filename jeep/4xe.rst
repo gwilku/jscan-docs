@@ -1,5 +1,10 @@
+
+.. warning:: Make sure you connect using **JL 4XE, not a regular JL**. Using regular JL procedures will cause errors! 
+
+
 Tire size
 ===============================
+
 When changing tire size in a JL 4xe, you need to run ABS Initialization procedure. ABS Static Init (Hybrid) should be used.
 
 Follow these steps:
@@ -12,6 +17,33 @@ Follow these steps:
 6) When done, set ignition to "OFF", then open and close driver door.
 7) Wait till instrument cluster shuts down.
 8) Start the car.
+
+Tire Size Error FIX
+======================
+
+If you connected with a JL or ignored the instructions above, follow these steps:
+
+1) Start JScan App
+2) Set ignition to "RUN" and make sure "READY" info is not visible on Instrument Cluster.
+3) Connect
+4) Run "Advanced scan" - and when it completes, clear all codes using dust bin icon. When it's done.
+5) Set ignition to "OFF" and open and close driver door
+6) Wait till instrument cluster shuts down.
+7) Set ignition to "RUN" and make sure "READY" info is not visible on Instrument Cluster.
+8) Go to Tire Size adaptation and chosse desired tire size
+9) Hit "GO" and wait till adaptation is completed.
+10) When adaptation will say completed. Don't start car.
+11) Run procedure - ABS Static Initialize (Hybrid)
+12) Set ignition to "OFF" and open and close driver door
+13) Wait till instrument cluster shuts down.
+14) Try to start car.
+15) If all is fine you can disconnect OBD adapter.
+16) If there is any problem, shut down vehicle.
+17) Set ignition to "RUN" and make sure "READY" info is not visible on Instrument Cluster.
+18) Run procedure - ABS Static Initialize (Hybrid)
+19) Set ignition to "OFF" and open and close driver door
+20) Wait till instrument cluster shuts down.
+21) Try to start car.
 
 Gear ratio
 ===============================

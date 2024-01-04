@@ -4,32 +4,11 @@ RAM
 
 .. note:: This is *NOT A FULL LIST* of features available for modification, rather a colletion of more complex, vehicle-specific settings. For a complete list of features go to the JScan app and use demo mode connection.
 
-Disabling TPMS
-==============
-
-Dodge RAM: After disabling TPMS you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. And this is to be tested.
-
-
-Disabling Engine Start/Stop System
-==================================
-
-See `ESS`_ - Engine Start/Stop System in Wrangler JL section
-
-
-Adapting Air Suspension
-=======================
-
-.. note:: Please be extremely careful when working with the Air Suspension system. Incorrect usage may lead to complete pressure loss in the system.
-
-See the PDF instruction linked here (to be updated).
-
-
 
 RAM 2015
 ==============
 
 How to disable TPMS System
---------------------------
 
 1) Disable TPMS Premium (Instrument Cluster) or/and TPMS Base
 
@@ -49,7 +28,6 @@ How to disable TPMS System
 
 
 EU Lights Conversion
---------------------
 
 1) Rear Lights Combined -> Deactivated
 
@@ -60,6 +38,30 @@ EU Lights Conversion
 4) Check turn signals either add new bulbs for turn signals or change lights do whaterver you want.
 
 
+Disabling / Changing TPMS
+=========================
+
+RAM DS: After disabling TPMS you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. See the steps above.
+
+RAM DT will not allow a threshold lower than 25 PSI.
+
+
+See `ESS`_ - Engine Start/Stop System in Wrangler JL section
+
+
+Tire Size Change
+================
+
+.. note:: RAM DT 2020+ vehicles have a factory maximum tire size limit of 35", above which Park Sense will be disabled and throwing errors. There is currently no way to bypass or override it.
+
+In newer RAM DS vehicles:
+ 
+ - Change the tire size as usual
+ - Turn the key to OFF
+ - Turn the Key to RUN again (don't start the engine)
+ - Connect and run ABS Static Init 
+
+Failing to do that will result in an ABS error.
 
 
 
@@ -67,4 +69,3 @@ EU Lights Conversion
 .. _troubleshooting: https://jscan-docs.readthedocs.io/en/latest/general/troubleshooting.html
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
 .. _ESS: https://jscan-docs.readthedocs.io/en/latest/jeep/jeep.html#ess-engine-start-stop-system
-.. _Air Suspension: https://www.jscan.net
