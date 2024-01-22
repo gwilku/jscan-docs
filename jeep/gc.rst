@@ -121,6 +121,8 @@ For example, for 2011 the basics of how the different automatic settings effect 
 Air suspension delete
 ===============================================
 
+.. note:: For pre-lift (up to 2014) models:
+
 If you're removing the air suspnesion and replacing it with regular coilovers, follow the steps below (as always: it is YOUR responsibility and we take no liability for any damages)
 
 1) Eemove the 2 fuses related to the air suspension and also the relay located in the relay box beside de fuse panel
