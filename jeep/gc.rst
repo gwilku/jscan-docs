@@ -118,6 +118,18 @@ For example, for 2011 the basics of how the different automatic settings effect 
 * Rock - Not available in 4WD High range . When in 4WD Low range the vehicle height adjusts to 65 mm (2.6 in.) above NRH. The transfer case and the ELSD locks, the transmission shifting and ABS adjusts to off road settings, and hill descent control is activated for steep downhill control.
 
 
+Air suspension delete
+===============================================
+
+If you're removing the air suspnesion and replacing it with regular coilovers, follow the steps below (as always: it is YOUR responsibility and we take no liability for any damages)
+
+1) Eemove the 2 fuses related to the air suspension and also the relay located in the relay box beside de fuse panel
+2) Disable the air suspension module control with Jscan.
+
+	- Adaptation > Modules Configuration > ASCM - Air Suspension Control On/Off > set to Deactivated
+
+3) Unhook the module itself located under the driver seat.
+4) Disconnect the negative terminal of the main battery for 30 seconds and reconnect it to get rid of the message and the blinking buttons.
 
 
 .. _Tire Size: https://jscan-docs.readthedocs.io/en/latest/general/tiresize.html
