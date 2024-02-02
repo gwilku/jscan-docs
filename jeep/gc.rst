@@ -135,3 +135,28 @@ If you're removing the air suspnesion and replacing it with regular coilovers, f
 
 
 .. _Tire Size: https://jscan-docs.readthedocs.io/en/latest/general/tiresize.html
+
+
+WK2 - 2014+ - HID Lamps configuration
+===============================================
+- High Intensity Discharge Head Lamps -> Set
+- Low Beam Output -> Not Set
+- Right Dedicated DRL Output -> Set
+- Left Dedicated DRL Output -> Set
+- Bi-Xenon Headlamps -> Set
+- DRL Lamps Location -> Dedicated
+- DRL Dropout -> Set
+- LED Front Turn Lamps -> Set
+- LED Dedicated DRL -> Set
+- LED Front Park / Marker Lamps -> Set
+- Left DRL Voltage -> 7.4 Volts
+- Right DRL Voltage -> 7.4 Volts
+- Left High Beam Voltage -> 13.0 Volts
+- Right High Beam Voltage -> 13.0 Volts
+- Front Driver Door Ajar Switch Signal Usage -> Left Front La Diagnostics (Jeep/RAM)
+- Front Passenger Door Ajar Switch Signal Usage -> Right Front Lamp Diagnostics (Jeep/RAM)
+
+- Ignition-OffDraw (IOD) OFF HSD output -> Set
+- Ignition-Off Draw (IOD) ON HSD output -> Set
+- IOD RELAY ON HSD Usage Left HID Lamp -> WK
+- IOD RELAY OFF HSD Usage -> Right HID Lamp - WK
