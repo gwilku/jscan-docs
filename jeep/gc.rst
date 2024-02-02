@@ -140,7 +140,7 @@ If you're removing the air suspnesion and replacing it with regular coilovers, f
 WK2 - 2014+ - HID Lamps configuration
 ===============================================
 - High Intensity Discharge Head Lamps -> Set
-- Low Beam Output -> Not Set
+- Low Beam Output -> Not Set (This param may not exist on some models)
 - Right Dedicated DRL Output -> Set
 - Left Dedicated DRL Output -> Set
 - Bi-Xenon Headlamps -> Set
@@ -156,7 +156,7 @@ WK2 - 2014+ - HID Lamps configuration
 - Front Driver Door Ajar Switch Signal Usage -> Left Front La Diagnostics (Jeep/RAM)
 - Front Passenger Door Ajar Switch Signal Usage -> Right Front Lamp Diagnostics (Jeep/RAM)
 
-- Ignition-OffDraw (IOD) OFF HSD output -> Set
-- Ignition-Off Draw (IOD) ON HSD output -> Set
-- IOD RELAY ON HSD Usage Left HID Lamp -> WK
-- IOD RELAY OFF HSD Usage -> Right HID Lamp - WK
+- Ignition-OffDraw (IOD) OFF HSD output -> Set (This param may not exist on some models)
+- Ignition-Off Draw (IOD) ON HSD output -> Set (This param may not exist on some models)
+- IOD RELAY ON HSD Usage Left HID Lamp -> WK (This param may not exist on some models)
+- IOD RELAY OFF HSD Usage -> Right HID Lamp - WK (This param may not exist on some models)
