@@ -38,7 +38,7 @@ Changing TPMS thresholds
 ESS - Engine Start/Stop System
 ==============================
 
-.. warning:: ESS settings **will not work** on their own and require a small hardware change.
+.. warning:: ESS settings **will not work** on their own. A small hardware change si required and the warning light for ESS **will remain**.
 
 To successfully disable the ESS you will need to complete **both** changes below:
 

@@ -45,6 +45,7 @@ Contents
    general/nag1
    general/etc
    general/acc
+   general/service_procedures
 
 .. toctree::
    :maxdepth: 2

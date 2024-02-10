@@ -1,9 +1,18 @@
 Radio Region (work in progress)
 ===============================
 
-Przed konwersją do wersji EU, usuń wszystkie zapisane stacje. Następnie wyłącz tryb HD (ekran główny). JEST TO WAŻNE BY TO ZROBIĆ.
+Before converting the radio frequencies to EU:
 
-W aplikacji OBD JScan w Radio User settings zmień wszystkiE „Units” na active, jedynie „US/Metric under radio setting on/off” zostaw na deactive.
-Potem wejdź w radio market selection i wybierz Germany. Zrób reset radia i wszystkich modułów w pierwszej opcji „!Restart all ecus” wybierając „all modules - power on restart”.
-Potem jeśli język wskoczył, ale nie ma dźwięku, będziesz też musiał zmienić ustawienia dla „Radio Market destination” na Germany.
-Następnie ponownie reset radia i modułów samochodu w pierwszej opcji „!Restart all ecus” wybierając „all modules - power on restart”.
+1. Delete all saved radio stations
+2. Disable HD mode (main screen) - IMPORTANT.
+
+In JScan
+
+1. Go to Radio User settings and change all units to active (metric).
+2. Leave „US/Metric under radio setting on/off” as deactived.
+3. Change "Radio Market" to Germany.
+4. Reset the radio with „!Restart all ecus” > „All modules - power on restart”.
+5. Turn the vehicle off, close & lock the door for 30s.
+
+Start the engine as usual. If there is no sound, change „Radio Market destination” to Germany as well.
+Repeat steps 4 & 5.
