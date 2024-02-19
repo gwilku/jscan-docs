@@ -92,6 +92,28 @@ When changing tire size in a JL with a **manual** transmission it is necessary t
 3. Drive like this for at least 20 seconds.
 4. Once the module reads all the data it will re-enable the all gear sensor performance diagnostic.
 
+Adding dedicated LED DRLs (also to JL Sport)
+============================================
+
+If you have a Rubicon or Sahara:
+
+Factory fenders have dedicated DRL wires. You need to activate both the outputs for them to work correctly. Also you need to remember that factory DRL are LED.
+
+Required adaptations to change:
+
+Activate:
+- Left Dedicated DRL Output Present
+- Right Dedicated DRL Output Present
+- Day Time Running Lights Present
+- LED Dedicated DRL Present
+- DRL Customer Setting
+- Daytime Running Lights Customer Settings (radio)
+
+Set:
+- DRL Lamp Location - Dedicated
+- DRL Configuration- Canada or Europe
+
+The Sport version of JL doesn't have the DRL wiring in the fenders. The DRL output wires reach the connector to which the fender harness is plugged in, but the fender harness itself doesn't have the DRL wires, so you will need to add the required wires.
 
 
 LED lights / indicators warning
