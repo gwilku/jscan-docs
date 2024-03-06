@@ -140,23 +140,28 @@ If you're removing the air suspnesion and replacing it with regular coilovers, f
 WK2 - 2014+ - HID Lamps configuration
 ===============================================
 - High Intensity Discharge Head Lamps -> Set
-- Low Beam Output -> Not Set (This param may not exist on some models)
-- Right Dedicated DRL Output -> Set
-- Left Dedicated DRL Output -> Set
+- Low Beam Output or Low Beam Output Present -> Not Set (This param may not exist on some models)
 - Bi-Xenon Headlamps -> Set
-- DRL Lamps Location -> Dedicated
-- DRL Dropout -> Set
 - LED Front Turn Lamps -> Set
 - LED Dedicated DRL -> Set
 - LED Front Park / Marker Lamps -> Set
-- Left DRL Voltage -> 7.4 Volts
-- Right DRL Voltage -> 7.4 Volts
 - Left High Beam Voltage -> 13.0 Volts
 - Right High Beam Voltage -> 13.0 Volts
-- Front Driver Door Ajar Switch Signal Usage -> Left Front La Diagnostics (Jeep/RAM)
-- Front Passenger Door Ajar Switch Signal Usage -> Right Front Lamp Diagnostics (Jeep/RAM)
+- IOD RELAY OFF HSD Present / Relay OFF High Side Down Present  -> Set
+- IOD RELAY ON HSD Present / Relay ON High Side Down Present -> Set
 
 - Ignition-OffDraw (IOD) OFF HSD output -> Set (This param may not exist on some models)
 - Ignition-Off Draw (IOD) ON HSD output -> Set (This param may not exist on some models)
 - IOD RELAY ON HSD Usage Left HID Lamp -> WK (This param may not exist on some models)
 - IOD RELAY OFF HSD Usage -> Right HID Lamp - WK (This param may not exist on some models)
+
+- Right Dedicated DRL Output -> Set
+- Left Dedicated DRL Output -> Set
+- DRL Lamps Location -> Dedicated
+- DRL Dropout -> Set
+- Left DRL Voltage -> 7.4 Volts
+- Right DRL Voltage -> 7.4 Volts
+- Front Driver Door Ajar Switch Signal Usage -> Left Front La Diagnostics (Jeep/RAM)
+- Front Passenger Door Ajar Switch Signal Usage -> Right Front Lamp Diagnostics (Jeep/RAM)
+
+If it still dosen't work search for params related to HSD
