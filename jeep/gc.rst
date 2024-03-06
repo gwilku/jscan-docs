@@ -165,3 +165,6 @@ WK2 - 2014+ - HID Lamps configuration
 - Front Passenger Door Ajar Switch Signal Usage -> Right Front Lamp Diagnostics (Jeep/RAM)
 
 If it still dosen't work search for params related to HSD
+
+.. image:: ../img/wk2/WK2_LIFT_HID.png
+	:width: 200px
