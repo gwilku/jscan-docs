@@ -13,9 +13,11 @@ Module abbreviations & names
 - AHLM - Auto Headlamp Leveling Module
 - AMP - Amplifier
 - ASBS - Automatic Sway Bar System (Wrangler Rubicon feature)
-- BCM- - Body Control Module
+- BCM - Body Control Module
 - CCN - Cabin Compartment Node (Instrument Cluster)
 - DTCM - Drive Train Control Module
+- ECM - Engine Control Module (generic name, not used by Stellantis: see PCM)
+- ECU - Engine Control Unit (generic name, not used by Stellantis: see PCM)
 - EGS - Electronic Gear Shifter (aka ESM)
 - ESC / ESP - Electronic Stability Control / Electronic Stability Program
 - EPS - Electric Power Steering
@@ -31,6 +33,7 @@ Module abbreviations & names
 - RFH - Radio Frequency Hub
 - SCM / SCCM - Steering Column (Control) Module
 - TCM - Transmission Control Module
+- TIPM - Totally Integrated Power Module
 - TPMS - Tire Pressure Monitor System
 - TTM - Trailer Tow Module
 - VES - Video Entertainment System (VES 2, VES 3 for video screens in 2nd / last seats row)
@@ -38,9 +41,10 @@ Module abbreviations & names
 - WCM - Wireless Control Module (TPMS, Key fob / remote, etc.)
 
 
-For more, please visit `techautority`_  
+For more, please visit [Mopar Repair Connect](https://www.moparrepairconnect.com/dA/d1d37f47dc/acronyms-abbreviations.pdf)
 
 
 
+.. https://www.moparrepairconnect.com/dA/d1d37f47dc/acronyms-abbreviations.pdf
 
-.. _techautority: https://www.techauthority.com/FileServerRoot/TechAuthority/Pdf/DiagnosticAcronyms.pdf
+.. https://www.techauthority.com/FileServerRoot/TechAuthority/Pdf/DiagnosticAcronyms.pdf

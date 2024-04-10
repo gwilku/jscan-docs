@@ -21,10 +21,11 @@ How to enable Launch Control on Challenger:
 
 How to reset the radio:
 ------------------------
-1. Adaptation
+
+1. Connect to the car and open Adaptation
 2. Radio user settings
 3. Make your changes from suggested options.
-4. !Restart all ecus -> Execute this step on “Off” engine and all ligths on dashboard must be OFF.
+4. !Restart all ecus -> Power On Restart. (You can execute this step with the key in OFF position, or turn the key to OFF after choosing GO in the app)
 5. Turn the key to “Run” for 30sec. without starting the engine. 30sec. must be enough to load all vehicle systems.
 6. After 30sec. and all vehicle systems are loaded turn you key to “Off”
 7. Leave the vehicle.
@@ -34,5 +35,5 @@ How to reset the radio:
 11. Turn the key to “Run” without starting the engine.
 12. Scan for any error codes
 13. Clear error codes if you see some.
-14. Start the vehicle and engine. Check is all systems works correctly.
+14. Start the vehicle and engine. Check if all systems works correctly.
 15. Keep in mind: After this process it may take 24h to all systems become active.

@@ -48,6 +48,16 @@ JScan doesn't read the VIN
 	3. Go to JScan settings (cog, top-right corner) > ELM327 identification. All entries except ABS are adapter-phone communication. ABS is adapter-car. Any “false" values will indicate a possible adapter issue.
 	4. If it’s a new purchase use “Return and Replace" or similar method to get another device from the vendor.
 
+You may also try specifying explicitly, which module you want to query for the VIN. The available options are:
+
+- TCM
+- PCM
+- ABS
+- RFH
+- BCM
+- WCM
+- TIPCGW
+
 
 
 Connection lost - You will be disconnected from: Bluetooth

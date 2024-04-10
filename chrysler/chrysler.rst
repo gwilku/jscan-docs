@@ -39,3 +39,13 @@ Once the radar is levelled:
 12. The app will hint to turn the engine off - do it.
 
 The radar is now calibrated, and you can use the Adaptive Cruise Control (refer to your user manual). Of course test teh proper operation of the ACC: activate it, set a distance to preceeding vehicle, and verify that your car actually adjusts the speed to keep the distance.
+
+
+Rear fog lamps (EU conversion) issue
+------------------------------------
+
+For hybrid cars activate rear fog lamps the same procedure as for non-hybrid, through corresponding settings.
+
+Unfortunately in the hybrid model, it is not activating the rear fog lamp symbol on the dash. The led is in the dash. To activate it you need to change the country of delivery (Country Code) to EU. But after the change you will lose some functions: front radar, parking sensors and etc.. 
+
+Re-calibrating the radar should be possible, but it not confirmed.

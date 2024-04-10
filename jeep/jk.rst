@@ -3,6 +3,20 @@ Installing LED Fog Lights
 
 JScan can't help much here, but please see this great guide on installing LED `fog lights`_ in your JK.
 
+Sway Bar removal
+================
+
+.. note:: DO NOT access the Sway Bar module to disable it. That's not how it works.
+
+1. Go to Adaptation section
+2. Use the search and find:
+	- Sway Bar Present On/Off
+	- ASBS Present On/Off
+3. Disable both
+4. Turn the ignition off, restart the vehicle.
+
+In case there are still errors, run Advanced Scan and clear them.
+
 TPMS
 ====
 
