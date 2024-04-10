@@ -10,9 +10,8 @@ Sway Bar removal
 
 1. Go to Adaptation section
 2. Use the search and find:
-	- Sway Bar Present On/Off
-	- ASBS Present On/Off
-3. Disable both
+	- ASBS Sway Bar On/Off
+3. Disable it
 4. Turn the ignition off, restart the vehicle.
 
 In case there are still errors, run Advanced Scan and clear them.
