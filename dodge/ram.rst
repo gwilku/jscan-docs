@@ -5,10 +5,9 @@ RAM
 .. note:: This is *NOT A FULL LIST* of features available for modification, rather a colletion of more complex, vehicle-specific settings. For a complete list of features go to the JScan app and use demo mode connection.
 
 
-RAM 2015
-==============
 
-How to disable TPMS System
+Disabling the TPMS System
+===========================
 
 1) Disable TPMS Premium (Instrument Cluster) or/and TPMS Base
 
@@ -27,7 +26,13 @@ How to disable TPMS System
 8) Done: start the car, TPMS should be gone
 
 
+RAM DS: After disabling TPMS you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. See the steps above.
+
+RAM DT will not allow a threshold lower than 25 PSI.
+
+
 EU Lights Conversion
+====================
 
 1) Rear Lights Combined -> Deactivated
 
@@ -38,19 +43,15 @@ EU Lights Conversion
 4) Check turn signals either add new bulbs for turn signals or change lights do whaterver you want.
 
 
-Disabling / Changing TPMS
-=========================
+RAM DT: if your lights switch doesn't work as expected, you may need to change the Country Code setting to Europe. Please note that changing this setting on other models usually triggers a "Vehicle Configuratiuon Mismatch" error, so if that's the case, revert the setting to the original value.
 
-RAM DS: After disabling TPMS you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. See the steps above.
 
-RAM DT will not allow a threshold lower than 25 PSI.
+
 
 Disabling Engine Start-Stop
 ===========================
 
-
 See `ESS`_ - Engine Start/Stop System in Wrangler JL section
-
 
 Tire Size Change
 ================
