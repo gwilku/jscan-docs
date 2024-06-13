@@ -18,7 +18,9 @@ First steps:
 4. Make sure you gave JScan all required permissions
 5. Make sure you **choose the correct adapter** from the list
 
-... note::	The *Auto-connect* option is for BT 4.0 (BLE) devices only.
+.. note:: The *Auto-connect* option is for BT 4.0 (BLE) devices only.
+
+.. note:: iPhones work with BT 4.0 (BLE) adapters only.
 
 6.Make sure no other OBD applications are using the adapter (and uninstall Torque, it works in the background preventing JScan from connecting)
 

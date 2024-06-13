@@ -98,6 +98,8 @@ For Wrangler JL, Gladiator JT and some other vehicles from 2018 onwards, you **w
 Bluetooth adapter
 =================
 
+.. note:: iPhones work with BT 4.0 (BLE) adapters only.
+
 1. Plug the adapter into the OBD port
 	In newer vehicles (2018+) you might need to use a `security bypass`_ cable in order to make changes to your vehicle. See the vehicle-specific section.
 
