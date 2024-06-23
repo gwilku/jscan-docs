@@ -117,5 +117,11 @@ If it is OK - start the engine, make a full turn left, full turn right. Switch b
 If the steering angle is off by a different number than ~180 you'll have to inspect the steering system.
 
 
+Changing the radiator fan trigger temperature
+=============================================
+
+This is *not* a configurable setting.
+
+
 .. _fog lights: https://betterautomotivelighting.com/2017/09/21/installing-oem-led-myotek-jeep-wrangler-fog-lights-need-know/ 
 .. _TPMS instructions: https://jscan-docs.readthedocs.io/en/latest/general/tpms.html

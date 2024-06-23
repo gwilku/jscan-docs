@@ -8,6 +8,8 @@ Troubleshooting connection issues
 
 .. attention:: Do NOT purchase the license as a “fix". The license has nothing to do with the communication between the devices.
 
+.. note:: iPhones work with BT 4.0 (BLE) or newer adapters only.
+
 First steps:
 ============
 
@@ -20,7 +22,7 @@ First steps:
 
 .. note:: The *Auto-connect* option is for BT 4.0 (BLE) devices only.
 
-.. note:: iPhones work with BT 4.0 (BLE) adapters only.
+
 
 6.Make sure no other OBD applications are using the adapter (and uninstall Torque, it works in the background preventing JScan from connecting)
 
