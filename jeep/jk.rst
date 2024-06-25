@@ -120,7 +120,7 @@ If the steering angle is off by a different number than ~180 you'll have to insp
 Changing the radiator fan trigger temperature
 =============================================
 
-This is *not* a configurable setting.
+This is *not* a setting that can be  configured with JScan. There are other tools, which modify the engine controller software / do tuning, that can do it, but this is beyond the scope of JScan app.
 
 
 .. _fog lights: https://betterautomotivelighting.com/2017/09/21/installing-oem-led-myotek-jeep-wrangler-fog-lights-need-know/ 

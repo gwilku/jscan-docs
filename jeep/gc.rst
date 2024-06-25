@@ -1,3 +1,10 @@
+Choosing the correct adapter
+============================
+
+For WK2 2014+ an MS-CAN capable OBD adapter is required for full compatibility. See `Choosing the right adapter`_ in JL/JT section.
+
+
+
 Tire Size
 =========
 
