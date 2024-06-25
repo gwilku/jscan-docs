@@ -117,6 +117,14 @@ If it is OK - start the engine, make a full turn left, full turn right. Switch b
 If the steering angle is off by a different number than ~180 you'll have to inspect the steering system.
 
 
+ABS Pump Bleed
+==============
+
+It's **PUMP** bleed, not a full brake sytem bleed. It's to be done after a regular brake bleed.
+
+.. note:: Yes, it does bleed only one side. By design.
+
+
 Changing the radiator fan trigger temperature
 =============================================
 

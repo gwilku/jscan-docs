@@ -17,6 +17,7 @@ The following are a must:
 
 	- a Bluetooth Adapter - it **will not work** with a wi-fi OBD device
 	- internet connection (either via wi-fi or mobile data)
+	- on certain models, the vLinker MC+ or OBDLink MX+ adapter is required (check the adaptation warning text)
 
 Recommended:
 
