@@ -2,12 +2,11 @@
 Troubleshooting
 ########################
 
-******************************************
+**********************************
 Troubleshooting connection issues
-******************************************
+**********************************
 
 .. include:: troubleshooting_connection.rst
-
 
 ******************************************
 Troubleshooting license purchase issues

@@ -1,6 +1,3 @@
-******************************************
-Troubleshooting connection issues
-******************************************
 
 .. attention:: Do NOT purchase the license as a “fix". The license has nothing to do with the communication between the devices.
 
