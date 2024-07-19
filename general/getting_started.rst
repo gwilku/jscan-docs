@@ -15,14 +15,10 @@ We highly suggest you start with the Demo Mode first. To enter the demo mode, si
 
 The demo mode doesn't connect to a real vehicle, uses sample data and gives you a preview of functions and features specific to the selected model.
 
-You can also start with `Connecting`_ to your vehicle (you will need one of the `compatible adapters`_).
-
-
-********************
 How to use JScan
-********************
+================
 
-JScan is a quite straightforward application, but there are some basics you should understand before you connect to your car.
+Here are some basics you should know before you connect to your car.
 
 There are three main areas of the app:
 
@@ -30,61 +26,39 @@ There are three main areas of the app:
 	- Modules: gives you access to *live data* of the vehicle's modules
 	- Adaptation: lets you configure / reprogram your vehicle
 
-See the details below.
+For further details, please see the `User Manual`_ section.
 
+Working with a vehicle
+======================
 
-Dashboard / Main screen
-=======================
+First of all:
 
-1) Quick Diagnostic - this screen is responsible for displaying "generic" - "check engine light" Trouble Codes
+.. warning:: you will need one of the `compatible adapters`_.
 
-2) Live Data - this screen will dispay "generic" live data - live data that is common across multiple cars and models
+We generally recommend Bluetooth rather than Wi-Fi versions.
 
-Quick Diagnostic and Live Data available on main screen are generic (standard) data available on almost all cars and models to allow an independent technician to diagnose a car - this is how 99% of cheap OBD tools work
+Once you have a proper adapter, see the instructions for `Connecting`_ to your vehicle.
 
-3) Advanced Scan - this is where fun begins - this screen will go through all modules available on the car and it will query about trouble codes
-
-Modules
-=======
-
-This screen shows all possible modules for this model - it doesn't mean that are all actually installed on this particular car.
-
-Each module has 3 functionalities:
-
-1) Trouble Codes - this screen will allow you to show/clear - Trouble Codes on currently selected module
-
-2) Live Data - this screen will allow you to show live data for currently selected module - you need to select pids/live data to start showing data for this module.
-
-3) Activations -> This is a tab is for testing purpose - it alows you to test relays, bulbs, wipers etc.
-
-Adaptations
-===========
-
-This screen will show all availalbe adaptations (configuration, settings changes) for this particular car.
-
-Search button is available on bottom - we are trying to group related settings but this is not always possible.
-
-
-************************
-Free & Licensed features
-************************
-
-Free
-====
-Straight after installation JScan allows you to connect to your vehicle (as long as it is supported of course) and *read* the data from the ECU.
-This means, that you can run a Quick Diagnostic but also take a look into ECU settings (via Adaptations) to see current values (for example wheel size, gear ratios, various features status etc.)
+If you haven't purchased a license yet, you will be prompted to do so when connected to a car.
 
 License
 =======
-What is a license for?
-	License gives you the following additional functions:
+
+Straight after installation JScan allows you to connect to your vehicle (as long as it is supported of course) and *read* the data from the ECU.
+This means, that you can run a Quick Diagnostic but also take a look into ECU settings (via Adaptations) to see current values (for example wheel size, gear ratios, various features status etc.)
+
+License gives you the following additional functions:
 	
 	- Advanced Scan
 	- Live data in specific modules
 	- Trail View (for selected Vehicles)
 	- Data modfication: **writing** to the ECU
 
-For more details see the License section.
+.. note:: After you buy a license, just connect to a vehicle and the app will ask if you want to assign the licene to the VIN.
+
+For more details see the `License`_ section.
+
+
 
 **********
 Connecting
@@ -92,7 +66,7 @@ Connecting
 
 You will need a compatible adapter. Check out the list of `compatible adapters`_.
 
-For Wrangler JL, Gladiator JT and some other vehicles from 2018 onwards, you **will need a security bypass cable**. See details for each vehicle on our website and read the warning on the main screen of JScan app.
+For vehicles from 2018 onwards, you **will need a security bypass cable**. See details for each vehicle on our website and read the warning on the main screen of JScan app.
 
 
 Bluetooth adapter
@@ -138,3 +112,7 @@ Follow the steps above, but at step 3.
 .. _security bypass: http://jscan.net/jl-jt-security-bypass/
 
 .. _Connecting: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
+
+.. _License: https://jscan-docs.readthedocs.io/en/latest/general/license.html
+
+.. _User Manual: https://jscan-docs.readthedocs.io/en/latest/general/user_manual.html

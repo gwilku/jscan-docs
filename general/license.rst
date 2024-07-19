@@ -2,6 +2,14 @@
 Licensing
 #########
 
+.. note:: There is a know issue/limitation with iOS purchases: you can only purchase each item once, so please plan ahead. If you used both single licence purchases and need the third one added, please contact us via Facebook. We're working on a solution.
+
+
+Free features
+=============
+
+Without a license you can only **read** data from the vehicle.
+
 What is a license for?
 ======================
 
@@ -9,7 +17,7 @@ License is required for following functions:
 	
 	- Advanced Scan
 	- Live data in specific modules
-	- Trail/Drag View (for selected Vehicles)
+	- Trail View / Drag View / TPMS View (for applicable vehicles)
 	- Data modfication: **writing** to the ECU
 
 How does a license work?
@@ -31,6 +39,11 @@ When connecting to a new vehicle, you will be prompted if you want to assign a l
 
 The second way of obtaining a license is entering settings (gear icon in top right corner) -> “manage licenses". In this screen you can buy a license to assign it later during connection. Note that this is the only way of obtaining a license if you are using a WiFi adapter, as on most phones you will not be able to access the internet while connected to the adapter’s WiFI network.
 
+How do I use a license?
+=======================
+
+After you buy a license, just connect to a vehicle and the app will ask if you want to assign the licene to the VIN.
+
 
 Can I transfer my license to another car?
 ============================================
@@ -51,6 +64,8 @@ Yes. In late 2020 we introduced a new licensing system.
 
 	.. note:: If there's no token on your old device or you are experiencing other license issues, please get in touch with us.
 
+	.. note:: Yes, you can use the same license token on multiple devices at the same time.
+
 I changed the phone and I don't have the token - what now?
 ==========================================================
 
@@ -66,10 +81,13 @@ Yes, because there is no login, and nowhere to actually put it in... Unless you'
 JScan doesn't accept my payment!
 ================================
 
-That's quite correct, because it is not JScan that processes your payment, but rather the appplication store (Google Play or Apple App Store). If you are having trouble with the payment, please review the app store help or contact the app store support.
+It is not JScan that processes your payment, but rather the appplication store (Google Play or Apple App Store). If you are having trouble with the payment, please review the app store help or contact the app store support.
 
 
 I bought a license, but nothing happened!!! What next?!
 =======================================================
 
-Almost correct. You can check in Settings > Manage Licenses & Account > Status if the number of purchased licenses increased. If yes (if you have more "Purchased" than "Used" licenses) just connect to your vehicle (see the Connecting section). That's it, you're good to go. Although we recommend reading the documentation first. It will really save a lot of trouble in the future.
+Check in Settings > Manage Licenses & Account > Status if the number of purchased licenses increased. If yes (if you have more "Purchased" than "Used" licenses) just connect to your vehicle (see the `Connecting`_ section). That's it, you're good to go. Although we recommend reading the documentation first. It will really save a lot of trouble in the future.
+
+
+.. _Connecting: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting

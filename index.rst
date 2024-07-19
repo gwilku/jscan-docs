@@ -19,6 +19,7 @@ Contents
    :caption: General
 
    general/getting_started
+   general/user_manual
    general/license
    general/quick_diagnostic
    general/advanced_scan  
