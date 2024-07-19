@@ -21,11 +21,7 @@ Contents
    general/getting_started
    general/user_manual
    general/license
-   general/quick_diagnostic
-   general/advanced_scan  
-   general/trail_view
    general/modifications
-   general/radio
 
 .. toctree::
    :maxdepth: 2
@@ -47,6 +43,7 @@ Contents
    general/etc
    general/acc
    general/service_procedures
+   general/radio
 
 .. toctree::
    :maxdepth: 2

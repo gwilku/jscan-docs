@@ -14,48 +14,48 @@ Settings
 The settings menu is accessible through a cog wheel icon in the top right corner of the app and contains the following options:
 
 App & Adapter settings
-======================
+----------------------
 
 General app and connection configuration. Notable settings here include the unit system (imperial/metric), showing advanced adaptations / features, and experimental vehicles. Do not modify unless you really know what you're doing.
 
 Manage Licenses & Account
-=========================
+-------------------------
 
 Here you can buy additional licenses (BUY) and see your current license (STATUS), and the **Account Token**.
 See the `Licensing`_ section for details.
 
 Get Help
-=========
+--------
 
 Various help resources / links.
 
 Send data log via e-mail
-========================
+------------------------
 
 For app development purposes only. We might ask for this log when debugging issue and solving problems. Please do not send unsolicited logs - we don't have the capacity to handle them.
 
 Trail View settings
-===================
+-------------------
 
 Configuration for the Trail View. Can also be accessed from the Trail View itself.
 
 Garage Account
-==============
+--------------
 
 As the name suggests: option available to garages only. Used to manage bulk licensing. Contact us via Facebook's Messenger if you run a workshop and are interested in setting up such account.
 
 Restore Purchases
-=================
+-----------------
 
 WIP: Retrieve purchase info from the app store.
 
 Trace & Restore Adaptations
-===========================
+---------------------------
 
 Change log and backup.
 
 ELM327 - Identification
-=======================
+-----------------------
 
 Adapter compatibility test - checks basic OBD adapter functionality. 
 
@@ -66,12 +66,12 @@ All red is not good - most likely your adapter is incompatible or damaged.
 Certain elements in red are OK - if the adapter works as intended, there's no need to start troubleshooting based on the ELM327 Identification report.
 
 OBD Terminal
-============
+------------
 
 Normally hidden (can be enabled in App & Adapter settings). **VERY** advanced, not designed fo regular use. We don't provide any support for it whatsoever.
 
 Privacy Policy
-==============
+--------------
 
 Legal stuff - the most important part is that any change / modification / interaction with the vehicle is YOUR responsibility. JScan is not a toy. It can permanently damage your vehicle if used without care and proper research.
 
@@ -90,7 +90,7 @@ Live Data
 
 This screen will dispay "generic" live data - live data that is common across multiple cars and models.
 
-..note :: Quick Diagnostic and Live Data available on main screen are generic (standard) data available on almost all cars and models to allow an independent technician to diagnose a car - this is how 99% of cheap OBD tools work.
+.. note:: Quick Diagnostic and Live Data available on main screen are generic (standard) data available on almost all cars and models to allow an independent technician to diagnose a car - this is how 99% of cheap OBD tools work.
 
 Advanced Scan
 =============
@@ -148,7 +148,30 @@ Trail View / Drag View / TPMS View
 
 Additional screens available on certain models with extra features.
 
-See `Trail View`_ for details.
+Trail View / Drag View
+======================
+
+This screen is available on selected models only, and requires a license.
+
+It features live display of certain data, like spped, battery voltage, current gear, transfer case mode, temperatures etc.
+
+In order to see the transmission data:
+
+1. "Tap for more" (at the bottom)
+2. Select the gear icon (Settings)
+3. Enable data of your choice
+
+Bottom row icons
+----------------
+
+The icons at the bottom (availability depends on the model) have the following functionality:
+
+- ABS+TC Kill: Shuts down ABS and traction control until next ignition cycle. *DO NOT USE ON PUBLIC ROADS*
+- Winch RPM bump: Raises idle RPM. Useful for winching.
+- Fan switch: turns the radiator fan on for 2 minutes.
+- Burnout mode/ Line Lock: releases rear brakes (push the button while holding the brake) *DO NOT USE ON PUBLIC ROADS*
+- Night mode: changes the background and font colours
+- Settings: opens Trail View settings
 
 
 

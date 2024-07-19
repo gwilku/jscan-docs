@@ -39,7 +39,10 @@ Trace & Restore
 
 You can use the Trace & Restore section in JScan settings to check the history of changes and/or revert to the original state (the configuration from when you first connected with JScan).
 
-The Trace tab shows a list of changes since the last app installation (it gets deleted upon app re-installation)
+The Trace tab shows a list of changes since the last app installation (it gets deleted upon app re-installation).
+
+The Restore tab lets you restore all or part of the settings to the state from the first JScan connection.
+
 
 Modules
 =======
