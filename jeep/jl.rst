@@ -119,17 +119,18 @@ The Sport version of JL doesn't have the DRL wiring in the fenders. The DRL outp
 LED lights / indicators warning
 ===============================
 
-When original traditional lights / indicators are replaced with LEDs, even if you set the corresponding settings to let the ECU know that LEDs are present, it is possible to get a dashboard error about malfunctioning light / indicator.
-
-If you are certain the lights / indicators work properly and want to remove the error from your dashboard:
+The best results are achieved when doing the changes in the following order:
 
 1. Go to Adaptation
-2. Tap search (a magnifying glass in a green circle)
-3. Type "diagnostics"
-4. Disable the corresponding "diagnostics present" setting.
+2. Navigate to the LED settings group
+3. **DISABLE** "LED xyz Present On/Off" for the type of lights you want to convert to LED if you changed it already
+4. **Disable** the corresponding **diagnostics** options.
+5. Run !Restart All ECUs (PowerOn Restart)
+6. Cycle the ignition (turn the Jeep off, wait a few seconds, turn it on to RUN again)
+7. Re-connect if necessary
+8. **Enable** "LED xyz Present On/Off" for the type of lights you want to convert to LED
 
-This will tell the ECU not to monitor the state of the sepcified lamp or indicator.
-
+.. note:: By default JL is equipped in LED diagnostic options and you need to disable it first before activating LED options. LED diagnostics are only checked when you turn on LED options
 
 
 Enabling auto high beam option on Jeep JL / JT
