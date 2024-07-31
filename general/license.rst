@@ -35,6 +35,8 @@ Funny thing is - we can't really answer that question, as the price differs depn
 How do I buy a license?
 =======================
 
+License purchases are only possible via Apple App Store and Google Play Store and are done in the app itself.
+
 When connecting to a new vehicle, you will be prompted if you want to assign a license to the vehicle, or if you want to buy a license if you do not have one. This is the most common way.
 
 The second way of obtaining a license is entering settings (gear icon in top right corner) -> “manage licenses". In this screen you can buy a license to assign it later during connection. Note that this is the only way of obtaining a license if you are using a WiFi adapter, as on most phones you will not be able to access the internet while connected to the adapter’s WiFI network.

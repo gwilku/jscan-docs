@@ -8,8 +8,11 @@ JScan Documentation Project
 ###########################
 .. title:: JScan documentation project.
 
-As JScan is growing bigger and bigger, with more features and more suported vehicles, we decided to initiate this documentation project.
-As time passes, we hope this evolves to become the main source of knowledge about adaptations, diagnostics and maintenance procedures enabled in the app.
+JScan (OBD JScan) is a mobile app for Android and iOS which can be used to diagnose and configure Jeep, Dodge, Chrysler, and RAM vehicles.
+
+The list of supported vehicles is constantly evolving and can be checked in the app itself.
+
+To connect to a vehicle a `compatible OBD adapter`_ is requied.
 
 *****************
 Contents
@@ -78,3 +81,7 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+
+.. _compatible OBD adapter: http://jscan.net/supported-and-not-supported-obd-adapters/

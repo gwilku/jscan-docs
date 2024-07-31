@@ -2,7 +2,7 @@
 Tire Size change
 ####################
 
-Changing the tire size works the same in all vehicles.
+Changing the tire size works in a similar way in all vehicles. Please check the model-specific docs below and/or use the demo mode (demo adapter conenction) in JScan to check if the tire size adaptations is present at all for your model.
 
 .. attention:: **Make sure your engine is NOT RUNNING**
 

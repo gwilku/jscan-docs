@@ -40,12 +40,13 @@ Go to JScan settings and tap on *ELM327 Identification*.
 JScan doesn't read the VIN
 ==========================
 
-	1. Make sure the key is in ON position (not ACC) – i.e. dashboard controls are on.
-	2. Inspect the OBD adapter and socket. Do pins fit tight? Or are they loose / dirty / rusty / broken?
-	3. Go to JScan settings (cog, top-right corner) > ELM327 identification. All entries except ABS are adapter-phone communication. ABS is adapter-car. Any “false" values will indicate a possible adapter issue.
-	4. If it’s a new purchase use “Return and Replace" or similar method to get another device from the vendor.
+	1. Wait. Wait a few seconds on the main screen before moving on to other app sections.
+	2. Make sure the key is in ON position (not ACC) – i.e. dashboard controls are on.
+	3. Inspect the OBD adapter and socket. Do pins fit tight? Or are they loose / dirty / rusty / broken?
+	4. Go to JScan settings (cog, top-right corner) > ELM327 identification. All entries except ABS are adapter-phone communication. ABS is adapter-car. Any “false" values will indicate a possible adapter issue.
+	5. If it’s a new purchase use “Return and Replace" or similar method to get another device from the vendor.
 
-You may also try specifying explicitly, which module you want to query for the VIN. The available options are:
+You may also try specifying explicitly, which module you want to query for the VIN. Go to JScan settings > App and adapter settings > scroll to the end, and change the value in Alternative VIN Source. The available options are:
 
 - TCM
 - PCM
