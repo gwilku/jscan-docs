@@ -51,7 +51,7 @@ Can I transfer my license to another car?
 ============================================
 No. The license is per VIN, so if you get another car, you need another license.
 
-What you can do though when selling your vehicle, you can pass the account token to the new owner, clear it from your phone and get yourself a new license for your new vehicle (this will also generate a new token for you to use).
+What you can do though when selling your vehicle, you can pass the account token to the new owner, clear it from your phone and buy a new license for your new vehicle (this will also generate a new token for you to use).
 
 If you have multiple licenses used under the same token and want to pass only one of them when selling the car, please contact us via a Facebook message.
 
@@ -71,7 +71,7 @@ Yes. In late 2020 we introduced a new licensing system.
 I changed the phone and I don't have the token - what now?
 ==========================================================
 
-Please get in touch with us, and provide the VIN and the purchase transaction ID.
+Please get in touch with us, and provide the VIN and the purchase transaction ID (Android) or a purchase confirmation (Apple).
 
 The transaction ID looks like GPA.xxxxxxxxxxxxxxxxxxxx and can be found either in your purchase history in the app store or in the purchase confirmation email.
 
