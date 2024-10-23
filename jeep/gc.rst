@@ -79,7 +79,46 @@ Small pins “KOSTAL 1,2 MLK"
 5) Connect wires to new rear fog lights
 6) Fog lamp button should now work with double press
 
+Air Suspension - Calibration
+================================
+CURB HEIGHT MEASUREMENT
+Vehicle height is to be checked with the vehicle on a flat, level surface, preferably a vehicle alignment rack. The 
+tires are to be inflated to the recommended pressure. All tires are to be the same size as standard equipment. 
+Vehicle height is checked with the fuel tank full of fuel, and no passenger or luggage compartment load.
 
+CURB HEIGHT MEASUREMENT
+
+Front: 
+
+Front Wheel Center Height – Measure the vertical 
+distance between the front wheel center (1) and 
+the ground (4), Record the measurement. 
+2. Front Cradle Height – Measure the vertical 
+distance between the center of the cradle bolt (2) 
+to the ground (3), Record the measurement. 
+3. Take the two measurements and subtract them to 
+get the ride height.
+
+.. image:: ../img/wk2/ASCM_wk2_front_suspnsion_measurment.png
+	:width: 200px
+
+Rear:
+
+Rear Wheel Center Height – Measure the vertical 
+distance between the wheel center (2) and 
+the ground (3), Record the measurement. 
+5. Rear Cradle Height – Measure the vertical 
+distance between the center of the cradle bolt (1) 
+to the ground (4), Record the measurement. 
+6. Take the two measurements and subtract them to 
+get the ride height. 
+
+.. image:: ../img/wk2/ASCM_wk2_rear_suspnsion_measurment.png
+	:width: 200px
+
+Reference Table:
+.. image:: ../img/wk2/ASCM_wk2_suspnsion_measurment.png
+	:width: 400px
 
 Air Suspension (to be completed)
 ================================
