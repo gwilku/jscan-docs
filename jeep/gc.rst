@@ -81,12 +81,12 @@ Small pins “KOSTAL 1,2 MLK"
 
 Air Suspension - Calibration
 ================================
-CURB HEIGHT MEASUREMENT
+
 Vehicle height is to be checked with the vehicle on a flat, level surface, preferably a vehicle alignment rack. The 
 tires are to be inflated to the recommended pressure. All tires are to be the same size as standard equipment. 
 Vehicle height is checked with the fuel tank full of fuel, and no passenger or luggage compartment load.
 
-CURB HEIGHT MEASUREMENT
+HEIGHT MEASUREMENT - all values need to be measuered and enterd in milimiters "mm"
 
 Front: 
 
@@ -117,6 +117,7 @@ get the ride height.
 	:width: 200px
 
 Reference Table:
+
 .. image:: ../img/wk2/ASCM_wk2_suspnsion_measurment.png
 	:width: 400px
 
