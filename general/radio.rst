@@ -16,7 +16,8 @@ In JScan
 4. Reset the radio with „!Restart all ecus” > „All modules - power on restart”.
 5. Turn the vehicle off, close & lock the door for 30s.
 
-If this is still not working or radio is comming back to previous settings 
+If this is still not working or the radio is reverting back to previous settings 
+
 6. Play with Radio Destination (Destination) and Radio Market
 
 Eeach year/model has difrent requirement's so it's tricky to make it work.
