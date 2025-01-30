@@ -92,6 +92,13 @@ When changing tire size in a JL with a **manual** transmission it is necessary t
 3. Drive like this for at least 20 seconds.
 4. Once the module reads all the data it will re-enable the all gear sensor performance diagnostic.
 
+
+Axle ratio - Manual transmission
+================================
+
+After changing the axle ratio on a JL with a manual transmission you may need to run the PCM - clutch replacement eeprom reset procedure to prevent the vehicle from entering the limp mode.
+
+
 Adding dedicated LED DRLs (also to JL Sport)
 ============================================
 
