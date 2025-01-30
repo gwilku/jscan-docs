@@ -1,7 +1,7 @@
 Choosing the right adapter
 ==========================
 
-Jeep JL (and JT) are quite advanced in terms of electronic systems installed in the vehicle. Some of these systems don't operate on the standard CAN bus network, and to access them you will need either the OBD Link MX+ or vLinker MC+ adapter.
+Jeep JL (and JT) are quite advanced in terms of electronic systems installed in the vehicle. Some of these systems don't operate on the standard CAN bus network, and to access them you will need either the Vlinker MS or vLinker MC+ OBD or Link MX+ adapter.
 
 The affected modules are:
 
@@ -205,6 +205,7 @@ If Off-Road Pages do not appear after the JScan restarts, try disconnecting the 
 Verify Activation
 
 Once the system reboots, check if the Off-Road Pages tab appears in the Uconnect menu.
+
 Important Notes:
 
 Jeep Wrangler JL has a built-in Security Gateway (SGW) that blocks unauthorized changes, so you must install an SGW Bypass module before making any modifications.
