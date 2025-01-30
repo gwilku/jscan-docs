@@ -169,7 +169,44 @@ Jeep JL/JT/4XE front "Off Road" Factory Camera install with CVPM module
 * CVPM Module -> Active
 
 
+Off-Road Pages Activation in Jeep Wrangler JL/JT Using JScan
+=======================================================================
 
+What You’ll Need:
+Radio 8.4 other versions don't have Off-Road pages
+A compatible OBD2 adapter with CAN-MS access (e.g., vLinker MC+,vLinker MS, OBDLink MX+, ).
+SGW Bypass module (Security Gateway Bypass) – required for making changes and ensuring proper functionality.
+
+Connect to Your Vehicle
+
+In the JScan app, go to Adaptations or Body Module - Configuration.
+Look for the Off-Road Pages option
+
+Enable Off-Road Pages
+
+Change the Off-Road Pages setting to Enabled.
+Save the changes and follow any on-screen instructions.
+
+Restart the Uconnect System (Radio Restart via JScan)
+
+After enabling Off-Road Pages, you must perform two (2x) Uconnect (radio) restarts using the JScan app.
+This restart function is only available when using an OBD2 adapter with CAN-MS access.
+Navigate to Adaptations -> Vehicle Maintance in JScan and select !Restart -> find Radio and run restart twice.
+Full System Reboot (if necessary)
+
+If Off-Road Pages do not appear after the JScan restarts, try disconnecting the battery for a few minutes or performing a hard reset of Uconnect.
+Verify Activation
+
+Once the system reboots, check if the Off-Road Pages tab appears in the Uconnect menu.
+Important Notes:
+
+Jeep Wrangler JL has a built-in Security Gateway (SGW) that blocks unauthorized changes, so you must install an SGW Bypass module before making any modifications.
+The SGW Bypass must remain installed for Off-Road Pages to function correctly after activation.
+The JScan radio restart feature is only available with an OBD2 adapter that supports CAN-MS. Without CAN-MS access, you will need to manually restart Uconnect (by disconnecting the battery).
+Some Uconnect versions may require additional coding or software updates.
+Ensure you have the latest version of JScan and a compatible OBD2 adapter.
+If Off-Road Pages do not appear, try re-saving the settings and performing another radio/system restart.
+Now you're all set to enjoy the Off-Road Pages feature in your Jeep Wrangler JL! 🚙💨
 
 
 
