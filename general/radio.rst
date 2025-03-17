@@ -12,8 +12,8 @@ Before converting the radio frequencies to EU:
 
 In JScan
 
-1. Go to Radio User settings and change all units to active execpt US/Metric - this is for old radios.
-2. Leave „US/Metric under radio setting on/off” as deactived.
+1. Go to JScan -> Adaptations -> Radio User settings and change all units to active execpt US/Metric - this is for old radios.
+2. Go to JScan -> Adaptations -> and make sure „US/Metric under radio setting on/off” as deactived.
 3. Change "Radio Market" to Germany or Russia. There are also other options that will work, but these are the most common.
 4. Reset the radio with „!Restart all ecus” > „All modules - power on restart” at least two times, and make sure you have OBD adapter that allows communication with radio module.
 5. Turn the vehicle off, close & lock the door for 30s.
