@@ -27,12 +27,16 @@ Changing TPMS thresholds
 	- Light Load Inflation Pressure Front / Rear Tire: Leave at 0.
 	- Max Load Inflation Pressure Front / Rear Tire: This value is used as the **minimum** pressure. Change this to your liking.
 
-5. Close the car, let it sit for a few minutes. If you see no change in behaviour, continue to the next step:
-6. Reset the TPMS. Use **!Restart all ecus** option:
+5. Close the car, let it sit for a few minutes, and then go for a test drive and reach minimum of 30mph then system should relearn the new settings.
+
+6. If you see no change in behaviour, continue to the next step:
+
+7. Reset the TPMS. Use **!Restart all ecus** option:
 
 	- from the drop-down menu choose Tire Pressure Monitor - Power On Restart
 	- tap GO
 	- once procedure is complete, repeat step 5.
+
 
 
 ESS - Engine Start/Stop System
