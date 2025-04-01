@@ -221,9 +221,38 @@ If Off-Road Pages do not appear, try re-saving the settings and performing anoth
 Now you're all set to enjoy the Off-Road Pages feature in your Jeep Wrangler JL! 🚙💨
 
 
+Jeep JL LED Tail Lamp settings JScan - this is general guide, it may be slightly different for your car
+=======================================================================
+
+Basically there are 2 types of aftermarket LED lights
+
+1) with resistor – those type of lamps will act like standard bulb lamps
+2) without resistor – those type of lamps will act like factory led but without diagnostic
+
+All changes should be done in: Body -> Configuration
+
+1) With resistor
+LED Rear Turn Lamps Present -> “Not Set”
+LED Reverse Lamps Present -> “Not Set”
+LED Stop Lamps Present -> “Not Set”
+LED Tail Lamps Present -> “Not Set”
+Left Rear Turn Lamp Diagnostic Present -> “Not Set”
+Right Rear Turn Lamp Diagnostic Present -> “Not Set”
+
+2) Without resistor:
+LED Rear Turn Lamps Present -> “Set”
+LED Reverse Lamps Present -> “Set”
+LED Stop Lamps Present -> “Set”
+LED Tail Lamps Present -> “Set”
+Left Rear Turn Lamp Diagnostic Present -> “Not Set”
+Right Rear Turn Lamp Diagnostic Present -> “Not Set”
 
 
-
+When you are don with settings go to Body Module and clear all trouble codes (DTC).
+Then lock the car and wait for power cycle (instrument cluster goes to sleep) sometimes it may be required 2x
+Then you can start testing, it’s important to test with engine started.
+You can leave OBD adapter connected all the time.
+All lights are managed from Body module so all codes related to instrument cluster messages are visible there
 
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
 .. _SGW Bypass: http://jscan.net/jl-jt-security-bypass/
