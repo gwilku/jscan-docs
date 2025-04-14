@@ -29,8 +29,8 @@ Go to JScan settings and tap on *ELM327 Identification*.
 
 - If every row reports TRUE (green) then the adapter is most likely fine. It means it is responding to basic OBD commands (it does not mean that it's capable of performing all adaptations though - again, check the list of supported adapters).
 - If any row reports FALSE (red) then there is a communication issue:
-	- All rows except the last one (Module) are testing the communication between your phone and the adapter. Any issues here usually indicate an unsupported or malfunctioning adapter. Replace the adapter.
-	- The last row - Module - is an adapter-vehicle communication problem. There are multiple possible reasons:
+	- All rows except the Module connection are testing the communication between your phone and the adapter. Any issues here usually indicate an unsupported or malfunctioning adapter. Replace the adapter.
+	- The Module connection row is an adapter-vehicle communication problem. There are multiple possible reasons:
 		* The car is not turned on (set the key to RUN, not ACC)
 		* The socket connection is bad (check the pins 6 & 14 for OBD2 network connectivity)
 		* The adapter is faulty (replace the adapter)
