@@ -40,7 +40,10 @@ Go to JScan settings and tap on *ELM327 Identification*.
 JScan doesn't read the VIN
 ==========================
 
-	1. Wait. Wait a few seconds on the main screen before moving on to other app sections.
+	1. Wait. As the error advises: **WAIT** a few seconds on the main screen before moving on to other app sections. The VIN should appear at the top of the main screen.
+
+If the above doesn't help:
+
 	2. Make sure the key is in ON position (not ACC) – i.e. dashboard controls are on.
 	3. Inspect the OBD adapter and socket. Do pins fit tight? Or are they loose / dirty / rusty / broken?
 	4. Go to JScan settings (cog, top-right corner) > ELM327 identification. All entries except ABS are adapter-phone communication. ABS is adapter-car. Any “false" values will indicate a possible adapter issue.
