@@ -69,7 +69,8 @@ JScan (nor any other device / software, even the professional ones) does not bin
 
 JScan doesn't handle the fob buttons binding process. This happens automatically between the key and the vehicle ECU.
 
-Jscan doesn't remove previously programmed keys - there is no known way to un-bind a key. It is important to consider that when adding new keys because most vehicles have a maximum count of keys that can be added.
+Jscan doesn't remove previously programmed keys - there is no known way to un-bind a single key. There is an option to *erase all keys* - be careful.
+It is important to consider that when adding new keys because most vehicles have a maximum count of keys that can be added.
 
 
 
