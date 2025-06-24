@@ -20,8 +20,9 @@ That's the most basic change. If you want to disable the system completely it is
 	- TPMS On/Off: *deactivated*
 	- TPMS Premium On/Off: *deactivated*
 	- Base TPMS system present On/Off: *deactivated*
-	- TPMS System present On/Off: *deactivated*
+	- TPMS/TPM System present On/Off: *deactivated*
 	- Premium TPMS System present On/Off: *deactivated*
+	- TPMS/TPM Configuration: *Other Disable Warning*
 
 5. Don't worry if deactivating some of these does not work. This only means that the setting is present in the vehicle software, but this particular model doesn't use it.
 6. Reset the TPMS: 
