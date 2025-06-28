@@ -16,8 +16,9 @@ Requirements
 The following are a must:
 
 	- a Bluetooth Adapter - it **will not work** with a wi-fi OBD device
-	- internet connection (either via wi-fi or mobile data)
+	- internet connection
 	- on certain models, the vLinker MC+ or OBDLink MX+ adapter is required (check the adaptation warning text)
+	- on vehicles equipped with the Security Gateway Module the **SGW Bypass is mandatory**
 
 Recommended:
 
@@ -54,7 +55,7 @@ If needed, consult `troubleshooting`_ section.
 How it works
 =================================
 
-What JScan does?
+What does JScan do?
 ----------------
 
 JScan instructs the vehicle to bind the key with the immobilizer, allowing the key to start the vehicle. To complete the procedure a vehicle PIN is required:
@@ -69,7 +70,7 @@ JScan (nor any other device / software, even the professional ones) does not bin
 
 JScan doesn't handle the fob buttons binding process. This happens automatically between the key and the vehicle ECU.
 
-Jscan doesn't remove previously programmed keys - there is no known way to un-bind a single key. There is an option to *erase all keys* - be careful.
+Jscan doesn't remove specific previously programmed keys - there is no known way to un-bind a single key. There is an option to *erase all keys* - be careful.
 It is important to consider that when adding new keys because most vehicles have a maximum count of keys that can be added.
 
 

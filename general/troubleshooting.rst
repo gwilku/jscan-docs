@@ -64,6 +64,18 @@ Those settings are available under Lights Voltage Regulation
 .. image :: ../img/DRL-Voltage.png
 	:width: 200 px	
 
+Key programming
+===================
+
+If the key programming fails it's most likely an incmopatible key. Make sure you have an **exact** part # match.
+
+If the key is programmed but the buttons don't work:
+
+	- check the battery in the key
+	- check the key part #
+
+If the above are good, but certain buttons don't work the key most likely send an incorrect command. Go to Modules > RFH or WCM (depending on which one you have) > Live Data. Search the PIDs for last/current key button pressed > select it > OK > **PLAY** and test the signal sent by the key. If it is not what is expected, replace the key.
+
 
 *******************
 Test Area |:bulb:|
