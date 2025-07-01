@@ -13,11 +13,10 @@ First steps:
 4. Make sure you gave JScan all required permissions
 5. Make sure you **choose the correct adapter** from the list
 
-.. note:: The *Auto-connect* option is for BT 4.0 (BLE) devices only.
+.. note:: The *Auto-connect* option is for BT 4.0 (BLE) devices only, and they should be used with the *auto-connect* only
 
-
-
-6.Make sure no other OBD applications are using the adapter (and uninstall Torque, it works in the background preventing JScan from connecting)
+6. Make sure no other OBD applications are using the adapter (and uninstall Torque, it works in the background preventing JScan from connecting)
+7. Make sure you **choose the right vehicle model**. The year ranges are there for a reason
 
 
 If the connection is established, but JScan features don't work (App can't read VIN, adaptations fail, etc.) it is usually an issue with the adapter, especially if it's a cheaper one.
