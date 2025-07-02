@@ -24,6 +24,15 @@ Changing TPMS thresholds
 	- from the drop-down menu choose Tire Pressure Monitor - Power On Restart
 	- tap GO
 	- once procedure is complete, repeat step 5.
+
+
+Bed Power Outlet Install
+==========================
+
+See the `Bed Power Outlet installation`_ video (this is not our resource) for a full guide. JScan usage for settings is shown around 8:48 (linked)
+
 	
 
 .. _ESS: https://jscan-docs.readthedocs.io/en/latest/jeep/jeep.html#ess-engine-start-stop-system
+
+.. _Bed Power Outlet installation:  https://www.youtube.com/watch?v=XATv5NzMnRk&t=528s

@@ -254,5 +254,18 @@ Then you can start testing, it’s important to test with engine started.
 You can leave OBD adapter connected all the time.
 All lights are managed from Body module so all codes related to instrument cluster messages are visible there
 
+
+
+Jeep JL disable Sign and Lane assist
+=========================================
+
+1) Go to Modules > Body Controller > Configuration
+2) Set these to disabled:
+
+- Lane departure warning present
+- Traffic Sign Info
+
+
+
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
 .. _SGW Bypass: http://jscan.net/jl-jt-security-bypass/
