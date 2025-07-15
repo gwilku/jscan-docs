@@ -108,8 +108,21 @@ There are different error statuses - the status is written jut below the error c
 - **permanent:** Permanent codes are additional codes. Stored in special memory on PCM ECU, usually they are not showing on most diagnostic tools as they are only used by services in special case. That's why only some tools like JScan will put additional effort to display this additional info.
 - **pending:** the vehicle diagnostic systems encountered a possible problem, which may turn into active or permanent in the future, if following diagnostic cycles run into it again. Think of it as a warning about future issues.
 
-
 .. note:: FYI: We are not able provide advice on fixing either mechanical or electrical issues with your car, so a question "how do I fix code XYZ?" should rather go to your car mechanic.
+
+Screen controls:
+----------------
+
+Top bar:
+
+- ⚙ App Settings
+- (.:) (share icon) - data export: File or e-mail. Use it to export the errors found
+
+Bottom bar:
+
+- :question: : Help
+- :arrows_counterclockwise: : Re-run the scan
+- (trashcan) : Delete the errors
 
 
 

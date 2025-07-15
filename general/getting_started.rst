@@ -9,7 +9,7 @@ You can install the JScan app via Apple Appstore or Google Play, free of charge.
 
 First steps & DEMO mode
 =======================
-After installation you can immediately start using JScan.
+After installation you can immediately start using JScan in demo mode.
 
 We highly suggest you start with the Demo Mode first. To enter the demo mode, simply choose your vehicle, and on the OBD Adapter choice screen select "Demo Adapter".
 
