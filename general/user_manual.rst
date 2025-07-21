@@ -120,8 +120,8 @@ Top bar:
 
 Bottom bar:
 
-- :question: : Help
-- :arrows_counterclockwise: : Re-run the scan
+- (?) Help
+- (⟲) : Re-run the scan
 - (trashcan) : Delete the errors
 
 
