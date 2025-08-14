@@ -4,6 +4,12 @@ Choosing the correct adapter
 For WK2 2014+ an MS-CAN capable OBD adapter is required for full compatibility. See `Choosing the right adapter`_ in JL/JT section.
 
 
+Bypassing the Security Gateway
+==============================
+
+Chrysler’s Secure Gateway Module came out in 2018. The SGW is a module whose function is simply to keep the communication networks secure. The SGW protects the vehicle networks from being exploited by creating a firewall between two portions of the network with the most vulnerability. This means, that to make any changes, you will need a SGW bypass - usually a cable. See our `SGW Bypass`_ page for details.
+
+
 
 Tire Size
 =========

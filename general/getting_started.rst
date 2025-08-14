@@ -37,6 +37,8 @@ First of all:
 
 We generally recommend Bluetooth rather than Wi-Fi versions.
 
+Next, for 2018+ models you will need a Security Gateway Bypass if you want to make ANY changes or run ANY procedures (it includes reading the PIN, resetting modules, etc.). See `security bypass`_ section on our website for details.
+
 Once you have a proper adapter, see the instructions for `Connecting`_ to your vehicle.
 
 If you haven't purchased a license yet, you will be prompted to do so when connected to a car.

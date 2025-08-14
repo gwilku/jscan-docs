@@ -3,9 +3,9 @@ Quick info
 
 Renegade, Compass, and Cherokee are supported, but you need to know the following:
 
-1. They are Fiats with a Jeep badge, and have a completely different software and different customisation options
+1. They are Fiats with a Jeep badge, and have a completely different software and different customisation options.
 2. You need to perform PROXI alignment after making changes (research it online please), which:
-3. requires vLinker MC+, FD as it's the only reliable OBD adapter that can perform PROXI, and even then in certain cases a special blue OBD cable might be required
+3. requires vLinker MC+ (Cherokee) or vLinker MS (Renegade and Compass), as theese are the only reliable OBD adapters that can perform PROXI, and even then in certain cases a special blue OBD cable might be required.
 4. If you acknowleddge the above, you can go to JScan settings > app & adapter settings > and enable 'show experimental vehicles'. 
 
 And we highly encourage you to do it first, and explore the vehicle options in Demo mode (especially see PROXI and it's description) before investing in a license and adapter.
