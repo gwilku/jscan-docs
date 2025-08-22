@@ -1,6 +1,5 @@
-﻿###################################
-Driver Assistance System Module (DASM) needs recalibration
-###################################
+﻿Driver Assistance System Module (DASM) needs recalibration
+=========================
 
 .. note:: Applies to RAM DT, Wrangler JL, Gladiator JT, Wrangler 4XE (and possibly some more models)
 
