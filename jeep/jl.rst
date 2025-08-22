@@ -267,8 +267,6 @@ Jeep JL disable Sign and Lane assist
 - Lane departure warning present
 - Traffic Sign Info
 
-DASM Calibration
-=========================================
 .. include:: ../general/dasm.rst
 
 
