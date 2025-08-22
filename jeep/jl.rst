@@ -155,29 +155,29 @@ If you do not have that black box up there, you cannot enable auto high beams.
 
 Go to Adaptations and open group "Auto Headlamp & Auto High Beam"
 
-* Auto High Beam -> Activated  it will activate this option
-* Auto High Beam Module Location -> Select IRCM - this tells ecu where the module is installed
-* Auto High Beam On Threshold -> 25 km/h - this is default on some cars, on others it is 0 and in booth cases it should work.
-* Auto High Beam Off Threshold -> 20 km/h - this is default on some cars, on others it is 0 and in booth cases it should work.
-* Auto High Beam CSM Present-> Activated Radio settings screen under "Lights", adds the menu selection so you can turn it on or off
+-  Auto High Beam -> Activated  it will activate this option
+-  Auto High Beam Module Location -> Select IRCM - this tells ecu where the module is installed
+-  Auto High Beam On Threshold -> 25 km/h - this is default on some cars, on others it is 0 and in booth cases it should work.
+-  Auto High Beam Off Threshold -> 20 km/h - this is default on some cars, on others it is 0 and in booth cases it should work.
+-  Auto High Beam CSM Present-> Activated Radio settings screen under "Lights", adds the menu selection so you can turn it on or off
 
 
 Jeep JL/JT/4XE front "Off Road" Factory Camera install with CVPM module
 =======================================================================
 
-* Off Road Capable -> Activated
-* Off Road Camera Present -> Activated
-* Rear Camera Present -> Deactivated
-* Reversible Washer Pump Enable -> Activated
-* Connector A Pin 14 - Washer Motor Control Right -> Active
-* Rear View Camera Gridlines On/Off - Deactivated
-* Rear Camera Customer Settings Menu on Radio On/Off - Deactivated
-* Auto Launch Forward Facing Camera Off Road Plus CSM Present -> Deactivated
-* Auto Launch Off Road Plus Customer Settings Menu -> Activated
-* Forward Facing Camera Grid Lines Customer Settings Menu Enable/Disable -> Active
-* Rear CVPM Camera Dynamic Gridlines - Customer Settings Menu Enable/Disable -> Active
-* Rear CVPM Camera Static - Customer Settings Menu Enable/Disable -> Active
-* CVPM Module -> Active
+-  Off Road Capable -> Activated
+-  Off Road Camera Present -> Activated
+-  Rear Camera Present -> Deactivated
+-  Reversible Washer Pump Enable -> Activated
+-  Connector A Pin 14 - Washer Motor Control Right -> Active
+-  Rear View Camera Gridlines On/Off - Deactivated
+-  Rear Camera Customer Settings Menu on Radio On/Off - Deactivated
+-  Auto Launch Forward Facing Camera Off Road Plus CSM Present -> Deactivated
+-  Auto Launch Off Road Plus Customer Settings Menu -> Activated
+-  Forward Facing Camera Grid Lines Customer Settings Menu Enable/Disable -> Active
+-  Rear CVPM Camera Dynamic Gridlines - Customer Settings Menu Enable/Disable -> Active
+-  Rear CVPM Camera Static - Customer Settings Menu Enable/Disable -> Active
+-  CVPM Module -> Active
 
 
 Off-Road Pages Activation in Jeep Wrangler JL/JT Using JScan

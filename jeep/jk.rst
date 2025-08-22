@@ -72,9 +72,9 @@ There were 3 automatic gearboxes in JK 42RLE (4 speed), 545RFE (5 speed), WA580/
 The 545RFE transmission has its own transmission control unit
 Procedures:
 
-* "Quick Learn" - Quick Learn should only be used when a transmission has been replaced or overhauled, or when the Transmission Control Module has been replaced or flashed.
-* "Clear VLP Counters" - Shift Counters
-* "Clear VLP Counters" - Tooth Counters
+-  "Quick Learn" - Quick Learn should only be used when a transmission has been replaced or overhauled, or when the Transmission Control Module has been replaced or flashed.
+-  "Clear VLP Counters" - Shift Counters
+-  "Clear VLP Counters" - Tooth Counters
 
 42RLE
 -----
@@ -82,9 +82,9 @@ Procedures:
 The 42RLE gearbox has a gearbox controller connected to the engine control unit (all in one module)
 Procedures:
 
-* "Quick Learn" - Quick Learn should only be used when a transmission has been replaced or overhauled, or when the Transmission Control Module has been replaced or flashed.
-* "Clear VLP Counters" - Shift Counters
-* "Clear VLP Counters" - Tooth Counters
+-  "Quick Learn" - Quick Learn should only be used when a transmission has been replaced or overhauled, or when the Transmission Control Module has been replaced or flashed.
+-  "Clear VLP Counters" - Shift Counters
+-  "Clear VLP Counters" - Tooth Counters
 
 WA580/NAG1
 ----------
@@ -92,9 +92,9 @@ WA580/NAG1
 The WA580 gearbox has its own gearbox control unit (it is roughly to the right of the driver's feet)
 Procedures:
 
-* Initialize EGS - This procedure will transfer data in to transmission module, it is required when you update Axle Ratio and recommend with significant Tire Size update (if you experience poor shifting).
-* TCM Reset Learned Adaptives - This procedure This program allows the electronic transmission system to re-calibrate itself.
-* TCM Store Learned Adaptives - This procedure This program allows the electronic transmission system to save current calibrations.
+-  Initialize EGS - This procedure will transfer data in to transmission module, it is required when you update Axle Ratio and recommend with significant Tire Size update (if you experience poor shifting).
+-  TCM Reset Learned Adaptives - This procedure This program allows the electronic transmission system to re-calibrate itself.
+-  TCM Store Learned Adaptives - This procedure This program allows the electronic transmission system to save current calibrations.
 
 See NAG1 How-To for details.
 
@@ -109,8 +109,8 @@ General hints on handling steering angle issues:
 
 Connect > go to modules > ABS > Live Data > (...) > search for steering angle > select > OK > PLAY
 
-* If your wheels are straight it should show 0
-* If it shows 180, the steering column part is upside down
+-  If your wheels are straight it should show 0
+-  If it shows 180, the steering column part is upside down
 
 If it is OK - start the engine, make a full turn left, full turn right. Switch back the key  to RUN (engine off) > Run Advanced Scan, see if you have any further errors.
 
