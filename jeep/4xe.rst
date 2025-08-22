@@ -45,6 +45,9 @@ If you connected with a JL or ignored the instructions above, follow these steps
 20) Wait till instrument cluster shuts down.
 21) Try to start car.
 
-Gear ratio
+Gear ratio - Warning
 ===============================
-The 4xe **will not work** with axle ratios **higher than 4.50**. There is no currently known workaround to this limit.
+Early Jeep Wrangler 4xe models had a software limitation that prevented axle ratios above 4.50 from working correctly. This was due to ABS/traction control calibration, not mechanical issues. The manufacturer has since released an ABS software update that resolves the problem.
+If issues occur after changing axle ratios with JScan, owners should visit an authorized Jeep dealer to check the ABS software version and apply the latest update if required.
+
+.. include:: ../general/dasm.rst
