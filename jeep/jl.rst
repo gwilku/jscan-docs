@@ -256,8 +256,10 @@ All lights are managed from Body module so all codes related to instrument clust
 
 
 
-Jeep JL disable Sign and Lane assist
+Disable Sign and Lane assist 
 =========================================
+
+Jeep JL disable Sign and Lane assist
 
 1) Go to Modules > Body Controller > Configuration
 2) Set these to disabled:
@@ -265,9 +267,10 @@ Jeep JL disable Sign and Lane assist
 - Lane departure warning present
 - Traffic Sign Info
 
-Jeep JL DASM Calibration
+DASM Calibration
 =========================================
-.. include:: dasm.rst
+
+.. include:: ../general/dasm.rst
 
 
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
