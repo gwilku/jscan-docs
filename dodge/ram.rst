@@ -48,6 +48,32 @@ Disabling Engine Start-Stop
 
 See `ESS`_ - Engine Start/Stop System in Wrangler JL section
 
+TRX Suspension Rebound Reset & Height Sensor Calibration
+========================================================	
+
+For the Ram 1500 TRX, JScan provides two sequential service functions to recalibrate the suspension. These must be performed in the correct order
+
+Engine off, vehicle on level groud, ignition in RUN position.
+
+1) PCM – TRX Suspension Rebound Reset: With the vehicle lifted and all wheels off the ground (suspension fully unloaded), run this service function
+
+2) ADCM – Height Sensor Calibration: Lower the truck back to the ground at normal ride height, then run this calibration routine. This ensures the suspension height sensors are calibrated under normal load conditions.
+
+3) After both routines are complete, clear trouble codes on all modules, cycle ignition, and verify proper operation of the suspension system.
+
+Make sure to perform both routines in this order and under the specified conditions to properly reset and calibrate the TRX’s suspension.
+
+All data related to the suspension system can be found in the ADCM module.
+
+	.. image:: ../img/trx/ram_trx_in_air.jpg
+	:width: 400px
+
+	.. image:: ../img/trx/ram_trx_adcm_dtc.jpg
+	:width: 200px
+
+	.. image:: ../img/trx/adcm_dtc_jump.jpg
+	:width: 200px
+
 Tire Size Change
 ================
 
