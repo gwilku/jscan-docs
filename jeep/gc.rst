@@ -229,50 +229,48 @@ Remote Start Enable
 .. note:: For pre-lift (up to 2014) models:
 Remote Start Activation – Jeep Grand Cherokee WK2
 
-Module: Front Control Module (FCM)
-Configuration
-Remote Start Present → SET
-Reconfig Input 2 (B11) → Hood Ajar
-(Important: the hood ajar sensor must use a 1 kΩ resistor)
+Module: Front Control Module (FCM) Configuration
+- Remote Start Present → SET
+- Reconfig Input 2 (B11) → Hood Ajar
+- (Important: the hood ajar sensor must use a 1 kΩ resistor)
 
 Cycle ignition OFF → ON → OFF
 
 Key Programming
-Read PIN
-Program new key with the Remote Start button
+- Read PIN
+- Program new key with the Remote Start button
+
 Cycle ignition OFF → ON → OFF
 
 WCM / RF-Hub Procedures
-Run WCM – Replace procedure
-If required (vehicles with Keyless Go), run WCM – Reset WIN
+- Run WCM – Replace procedure
+- If required (vehicles with Keyless Go), run WCM – Reset WIN
+
 Cycle ignition OFF → ON → OFF
+
 Final Steps
-Perform a short test drive – exceed 50 km/h to allow module synchronization
-Park, lock the vehicle, and double-press the Remote Start button on the key fob to verify operation
+- Perform a short test drive – exceed 50 km/h to allow module synchronization
+- Park, lock the vehicle, and double-press the Remote Start button on the key fob to verify operation
 
 
 .. figure:: ../img/wk2/wk2-key-remote-start.jpg
-   :width: 45%
-   :height: 45%
+   :width: 45%   
    :align: left
 
    *Key with remote start.*
 
 .. figure:: ../img/wk2/wk2-hood-pin.jpg
-   :width: 45%
-   :height: 45%
+   :width: 45%  
    :align: right
 
 .. figure:: ../img/wk2/wk2-remote-start-present.jpg
-   :width: 45%
-   :height: 45%
+   :width: 45%   
    :align: left
 
    *Remote Start Present -> Set(Active)*
 
 .. figure:: ../img/wk2/wk2-reconfig-input-b11.jpg
-   :width: 45%
-   :height: 45%
+   :width: 45%  
    :align: right
 
    *Hood Ajar Sensor Input settings*
