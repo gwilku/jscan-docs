@@ -256,20 +256,20 @@ Final Steps
    :widths: 50 50
    :align: center
 
-* - .. image:: ../img/wk2/wk2-key-remote-start.jpg
-   :width: 40%  
+   * - .. image:: ../img/wk2/wk2-key-remote-start.jpg
+         :width: 80%
 
-   *Key with remote start.*
-* - .. image:: ../img/wk2/wk2-hood-pin.jpg
-   :width: 40%  
+         *Key with Remote Start*
+     - .. image:: ../img/wk2/wk2-hood-pin.jpg
+         :width: 80%
 
-   *Hood Ajar Sensor 1kOhm*
-* - .. image:: ../img/wk2/wk2-remote-start-present.jpg
-   :width: 40%   
+         *Hood Ajar Sensor – 1 kΩ resistor*
+   * - .. image:: ../img/wk2/wk2-remote-start-present.jpg
+         :width: 80%
 
-	*Remote Start Present -> Set(Active)*
-* - .. image:: ../img/wk2/wk2-reconfig-input-b11.jpg
-   :width: 40%  
+         *Remote Start Present → Set (Active)*
+     - .. image:: ../img/wk2/wk2-reconfig-input-b11.jpg
+         :width: 80%
 
-   *Hood Ajar Sensor Input settings*
+         *Hood Ajar Input (B11) configuration*
 
