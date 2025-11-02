@@ -248,4 +248,27 @@ If required (vehicles with Keyless Go), run WCM – Reset WIN
 Cycle ignition OFF → ON → OFF
 Final Steps
 Perform a short test drive – exceed 50 km/h to allow module synchronization
-Park, lock the vehicle, and double-press the Remote Start button on the key fob to verify operatio
+Park, lock the vehicle, and double-press the Remote Start button on the key fob to verify operation
+
+
+.. figure:: ../img/wk2-key-remote-start.jpg
+   :width: 45%
+   :align: left
+
+   *Key with remote start.*
+
+.. figure:: ../img/wk2-hood-pin.jpg
+   :width: 45%
+   :align: right
+
+.. figure:: ../img/wk2-remote-start-present.jpg
+   :width: 45%
+   :align: left
+
+   *Remote Start Present -> Set(Active)*
+
+.. figure:: ../img/wk2-reconfig-input-b11.jpg
+   :width: 45%
+   :align: right
+
+   *Hood Ajar Sensor Input settings*
