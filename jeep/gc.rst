@@ -185,6 +185,7 @@ If you're removing the air suspnesion and replacing it with regular coilovers, f
 
 3) Unhook the module itself located under the driver seat.
 4) Disconnect the negative terminal of the main battery for 30 seconds and reconnect it to get rid of the message and the blinking buttons.
+5) If you get ABS errors, run ABS initialization procedure.
 
 
 .. _Tire Size: https://jscan-docs.readthedocs.io/en/latest/general/tiresize.html
@@ -221,3 +222,30 @@ If it still dosen't work search for params related to HSD
 
 .. image:: ../img/wk2/WK2_LIFT_HID.png
 	:width: 200px
+
+Remote Start Enable
+===============================================
+
+.. note:: For pre-lift (up to 2014) models:
+Remote Start Activation – Jeep Grand Cherokee WK2
+
+Module: Front Control Module (FCM)
+Configuration
+Remote Start Present → SET
+Reconfig Input 2 (B11) → Hood Ajar
+(Important: the hood ajar sensor must use a 1 kΩ resistor)
+
+Cycle ignition OFF → ON → OFF
+
+Key Programming
+Read PIN
+Program new key with the Remote Start button
+Cycle ignition OFF → ON → OFF
+
+WCM / RF-Hub Procedures
+Run WCM – Replace procedure
+If required (vehicles with Keyless Go), run WCM – Reset WIN
+Cycle ignition OFF → ON → OFF
+Final Steps
+Perform a short test drive – exceed 50 km/h to allow module synchronization
+Park, lock the vehicle, and double-press the Remote Start button on the key fob to verify operatio
