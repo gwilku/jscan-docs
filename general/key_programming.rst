@@ -11,7 +11,7 @@ Foreword
 JScan has the capability of adding a new key to a list of keys accepted by the vehicle, **HOWEVER** this is still a work-in-progress feature, a **BETA, EXPERIMENTAL FEATURE** if you will. We cannot guarantee it will work for your particular vehicle and - what's more important - for a particular key / fob. In addition, there is a lot of external factors that can interfere with the coding process and they are beyond JScan control. We cannot provide individual support for key programming issues.
 
 .. attention:: Key programming is available on selected models and years only. It may not be possible on a specific year, even if it's possible on the same model from a different year. ALWAYS CHECK THE DEMO MODE first both for PIN READING (along with checking if you model-years are covered) and KEY PROGRAMMING adaptations
-.
+
 Requirements
 =================================
 

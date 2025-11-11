@@ -47,6 +47,7 @@ Contents
    general/acc
    general/service_procedures
    general/radio
+   general/module_replacement
 
 .. toctree::
    :maxdepth: 2
