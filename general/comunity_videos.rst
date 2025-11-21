@@ -79,8 +79,8 @@ Examples with JScan
     </div>
 
     <div style="width: 32%; float: left; margin: 1%;">
-        <a href="https://www.youtube.com/watch?v=Ln4TuomiWGk"><img src="https://img.youtube.com/vi/Ln4TuomiWGk/0.jpg" alt="Jeep Grand Cherokee WK2 Rear Lights Conversion with JScan thumbnail"></a>
-        <p><strong><a href="https://www.youtube.com/watch?v=Ln4TuomiWGk">Jeep Grand Cherokee WK2 2014+ - Rear Lights Conversion with JScan</a></strong><br>
+        <a href="https://www.youtube.com/watch?v=1IEannrngH4"><img src="https://img.youtube.com/vi/1IEannrngH4/0.jpg" alt="Jeep Grand Cherokee WK2 Rear Lights Conversion with JScan thumbnail"></a>
+        <p><strong><a href="https://www.youtube.com/watch?v=1IEannrngH4">Jeep Grand Cherokee WK2 2014+ - Rear Lights Conversion with JScan</a></strong><br>
         Language: English<br>
         Author: JScan (Official)<br>
         An official tutorial focusing on the Grand Cherokee WK2. It shows how to use JScan to change the configuration of the rear light setup (for example, converting the tail lights from North American style to European specs or vice versa). The video guides through selecting the vehicle model and using JScan’s adaptation options to alter the lighting behavior, illustrating the app’s support for Jeep models beyond the Wrangler.</p>
