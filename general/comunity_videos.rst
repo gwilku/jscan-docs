@@ -57,6 +57,7 @@ Introduction to JScan
 
 Examples with JScan
 ---------------------
+
 .. raw:: html
     <div style="width: 32%; float: left; margin: 0.5em;">
         <a href="https://www.youtube.com/watch?v=B0M0k2J3oIU"><img src="https://img.youtube.com/vi/B0M0k2J3oIU/0.jpg" alt="Using the JScan Diagnostic tool in my Jeep Gladiator thumbnail"></a>
