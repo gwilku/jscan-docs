@@ -25,6 +25,7 @@ Contents
    general/user_manual
    general/license
    general/modifications
+   general/comunity_videos
 
 .. toctree::
    :maxdepth: 2
