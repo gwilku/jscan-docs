@@ -34,6 +34,7 @@ Introduction to JScan
         Author: Journey 2 Jeepin&#39;<br/>
         A Jeep owner's honest review of the JScan app. Shows the installation and setup, and demonstrates using JScan to read and clear a check-engine code, adjust settings, and highlights the responsiveness of the developer and community support.</p>
     </div>
+
     <div style="clear: both;"></div>
 
     <div style="width: 32%; float: left; margin: 1%;">
@@ -55,6 +56,7 @@ Introduction to JScan
     </div>
 
     <div style="clear: both;"></div>
+
     <div style="width: 32%; float: left; margin: 1%;">
         <a href="https://www.youtube.com/watch?v=LEi6iX5g6ro">
             <img src="https://img.youtube.com/vi/LEi6iX5g6ro/0.jpg" alt="Best (and cheapest) Mod for the Jeep Wrangler!!!">
@@ -63,6 +65,15 @@ Introduction to JScan
         Language: English<br>
         Author: Vex Offroad<br>
         This video reviews the OBD jcan app, a tool for modifying Jeep Wrangler settings. The app allows users to change tire size, gear ratios, tone rings, lights, locks, and more. The creator highlights how the app saved them money and time by allowing them to adjust their Jeep's tone rings without needing expensive parts.</p>
+    </div>
+
+    <div style="width: 32%; float: left; margin: 0.5em;">
+        <a href="https://www.youtube.com/watch?v=h0gb82sLqAU">
+        <img src="https://img.youtube.com/vi/h0gb82sLqAU/0.jpg" alt="How To Delete Check Engine Code Using OBD JScan thumbnail"></a>
+        <p><strong><a href="https://www.youtube.com/watch?v=h0gb82sLqAU">How To Delete Check Engine Code Using OBD JScan</a></strong><br>
+        Language: English<br>
+        Author: Journey 2 Jeepin’<br>
+        A very short tutorial (under a minute) demonstrating how easy it is to clear a **Check Engine Light** on your Jeep using the JScan app. The video shows the phone screen steps: connecting to the ECU, selecting the stored DTC, and erasing it. It’s a straightforward proof of concept that you don’t need a dealer to reset that annoying CEL after addressing the issue.</p>
     </div>
 
     <div style="clear: both;"></div>
@@ -87,6 +98,7 @@ Examples with JScan
         Author: JScan (Official)<br>
         An official tutorial focusing on the Grand Cherokee WK2. It shows how to use JScan to change the configuration of the rear light setup (for example, converting the tail lights from North American style to European specs or vice versa). The video guides through selecting the vehicle model and using JScan’s adaptation options to alter the lighting behavior, illustrating the app’s support for Jeep models beyond the Wrangler.</p>
     </div>
+
     <div style="clear: both;"></div>
 
     <div style="width: 32%; float: left; margin: 1%;">
