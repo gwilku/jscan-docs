@@ -54,6 +54,7 @@ Introduction to JScan
         An overview of the JScan app functioning as a diagnostic tool for Jeep Wranglers. It shows the app in action reading engine fault codes and provides a quick look at features like live data on a phone. It emphasizes how JScan can save money by allowing you to troubleshoot issues at home with just a phone and OBD adapter.</p>
     </div>
 
+    <div style="clear: both;"></div>
     <div style="width: 32%; float: left; margin: 1%;">
         <a href="https://www.youtube.com/watch?v=LEi6iX5g6ro">
             <img src="https://img.youtube.com/vi/LEi6iX5g6ro/0.jpg" alt="Best (and cheapest) Mod for the Jeep Wrangler!!!">
@@ -63,6 +64,7 @@ Introduction to JScan
         Author: Vex Offroad<br>
         This video reviews the OBD jcan app, a tool for modifying Jeep Wrangler settings. The app allows users to change tire size, gear ratios, tone rings, lights, locks, and more. The creator highlights how the app saved them money and time by allowing them to adjust their Jeep's tone rings without needing expensive parts.</p>
     </div>
+
     <div style="clear: both;"></div>
 
 Examples with JScan
@@ -71,8 +73,8 @@ Examples with JScan
 .. raw:: html
 
     <div style="width: 32%; float: left; margin: 1%;">
-        <a href="https://www.youtube.com/watch?v=B0M0k2J3oIU"><img src="https://img.youtube.com/vi/B0M0k2J3oIU/0.jpg" alt="Using the JScan Diagnostic tool in my Jeep Gladiator thumbnail"></a>
-        <p><strong><a href="https://www.youtube.com/watch?v=B0M0k2J3oIU">Using the JScan Diagnostic tool in my Jeep Gladiator</a></strong><br>
+        <a href="https://www.youtube.com/watch?v=_GB8t2_5SMA"><img src="https://img.youtube.com/vi/_GB8t2_5SMA/0.jpg" alt="Using the JScan Diagnostic tool in my Jeep Gladiator thumbnail"></a>
+        <p><strong><a href="https://www.youtube.com/watch?v=_GB8t2_5SMA">Using the JScan Diagnostic tool in my Jeep Gladiator</a></strong><br>
         Language: English<br>
         Author: GoChangeYaLife<br>
         A real-world example of JScan being used on a Jeep Gladiator. In this video, the owner connects to his Gladiator and walks through performing common tasks such as recalibrating the tire size (after fitting larger tires) and adjusting other settings. It’s an unedited “in the driveway” style demo, showing how intuitive the app is for regular Jeep owners.</p>
