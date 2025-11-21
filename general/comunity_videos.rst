@@ -5,9 +5,6 @@ Community Videos – JScan
 .. note::
    This gallery features 40+ recommended YouTube videos about the JScan app, grouped by topic with thumbnails, links, and descriptions. All videos are presented in a positive and instructional context.
 
-.. tip::
-   This file uses ``.. raw:: html`` and is intended for HTML output only.
-
 .. contents::
    :local:
    :depth: 2
@@ -16,86 +13,85 @@ Introduction to JScan
 ---------------------
 
 .. raw:: html
-
-   <div style="width: 32%; float: left; margin: 1%;">
-    <a href="https://www.youtube.com/watch?v=WlSTMs8wiz8" target="_blank">
-        <img src="https://img.youtube.com/vi/WlSTMs8wiz8/0.jpg" alt="Jeep OBD JScan - overview video" style="width: 100%;" />
-    </a>
-    <p>
-    <strong>
-    <a href="https://www.youtube.com/watch?v=WlSTMs8wiz8" target="_blank">Jeep OBD JScan - overview video</a>
-    </strong>
-    <br/>
-    Language: English<br/>
-    Author: JScan<br/>
-    General overview of the JScan app’s capabilities and interface, showing how it can scan all vehicle modules and read trouble codes:contentReference[oaicite:0]{index=0}. A great starting point for understanding what JScan can do for Jeep diagnostics.</p>
-</div>
-<div style="width: 32%; float: left; margin: 1%;">
-    <a href="https://www.youtube.com/watch?v=F2wuB_I7Ji8" target="_blank">
-        <img src="https://img.youtube.com/vi/F2wuB_I7Ji8/0.jpg" alt="What is OBD JScan &amp; What Can It Do" style="width: 100%;" />
-    </a>
-    <p><strong><a href="https://www.youtube.com/watch?v=F2wuB_I7Ji8" target="_blank">What is OBD JScan &amp; What Can It Do</a></strong><br/>
-    Language: English<br/>
-    Author: The Garage Studio<br/>
-    Introduction explaining JScan’s purpose and features:contentReference[oaicite:1]{index=1}. The presenter discusses how JScan compares to other tools and demonstrates reading codes, live data, and performing adaptations on a Jeep.</p>
-</div>
-<div style="width: 32%; float: left; margin: 1%;">
-    <a href="https://www.youtube.com/watch?v=BRA6blYbcMY" target="_blank">
-        <img src="https://img.youtube.com/vi/BRA6blYbcMY/0.jpg" alt="JSCAN - The One Essential Wrangler Tool" style="width: 100%;" />
-    </a>
-    <p><strong><a href="https://www.youtube.com/watch?v=BRA6blYbcMY" target="_blank">JSCAN – The One Essential Wrangler Tool</a></strong><br/>
-    Language: English<br/>
-    Author: The Garage Studio<br/>
-    A comprehensive review highlighting JScan as a must-have tool for Jeep Wrangler owners:contentReference[oaicite:2]{index=2}. It shows how to install and use JScan, and compares its cost and features with other solutions, covering tire/gear support, diagnostics, and off-road features.</p>
-</div>
-<div style="clear: both;"></div>
-<div style="width: 32%; float: left; margin: 1%;">
-    <a href="https://www.youtube.com/watch?v=pyalvi8g07U" target="_blank">
-        <img src="https://img.youtube.com/vi/pyalvi8g07U/0.jpg" alt="Jeep JL Owners: Taser or JScan? Full Comparison &amp; Review" style="width: 100%;" />
-    </a>
-    <p><strong><a href="https://www.youtube.com/watch?v=pyalvi8g07U" target="_blank">Jeep JL Owners: Taser or JScan? Full Comparison &amp; Review</a></strong><br/>
-    Language: English<br/>
-    Author: CheaperJeeperTV<br/>
-    Comparison of JScan with the popular Tazer device for Jeep JL:contentReference[oaicite:3]{index=3}. Discusses the pros and cons of each, demonstrating how JScan offers similar functionality (like disabling start/stop, calibrations) at a lower cost, albeit via a smartphone app.</p>
-</div>
-<div style="width: 32%; float: left; margin: 1%;">
-    <a href="https://www.youtube.com/watch?v=HvX2GE3r9UM" target="_blank">
-        <img src="https://img.youtube.com/vi/HvX2GE3r9UM/0.jpg" alt="Is the OBD JScan worth buying for your Jeep?" style="width: 100%;" />
-    </a>
-    <p><strong><a href="https://www.youtube.com/watch?v=HvX2GE3r9UM" target="_blank">Is the OBD JScan worth buying for your Jeep?</a></strong><br/>
-    Language: English<br/>
-    Author: CheaperJeeperTV<br/>
-    A candid discussion on whether JScan is a worthwhile investment for Jeep owners. The host goes over JScan’s cost (one-time license per VIN) and features, concluding that its ease of use and capabilities make it a great value for DIY enthusiasts.</p>
-</div>
-<div style="width: 32%; float: left; margin: 1%;">
-    <a href="https://www.youtube.com/watch?v=RrVC4JtOge0" target="_blank">
-        <img src="https://img.youtube.com/vi/RrVC4JtOge0/0.jpg" alt="OBD JScan Review" style="width: 100%;" />
-    </a>
-    <p><strong><a href="https://www.youtube.com/watch?v=RrVC4JtOge0" target="_blank">OBD JScan Review</a></strong><br/>
-    Language: English<br/>
-    Author: Journey 2 Jeepin&#39;<br/>
-    A Jeep owner’s honest review of the JScan app. Shows the installation and setup, and demonstrates using JScan to read and clear a check-engine code, adjust settings, and highlights the responsiveness of the developer and community support.:contentReference[oaicite:4]{index=4}</p>
-</div>
-<div style="clear: both;"></div>
-<div style="width: 32%; float: left; margin: 1%;">
-    <a href="https://www.youtube.com/watch?v=Vc3z8Nq0J2s" target="_blank">
-        <img src="https://img.youtube.com/vi/Vc3z8Nq0J2s/0.jpg" alt="Jeep JL Owners: Taser or JScan? (Eddie&#39;s Life Review)" style="width: 100%;" />
-    </a>
-    <p><strong><a href="https://www.youtube.com/watch?v=Vc3z8Nq0J2s" target="_blank">Taser vs JScan – Which Is Better for Jeep JL?</a></strong><br/>
-    Language: English<br/>
-    Author: Eddie&#39;s Life<br/>
-    Another comparison where the host tests JScan against the Tazer JL Mini tool. He evaluates features like tire size calibration, light settings, and stability:contentReference[oaicite:5]{index=5}, ultimately noting that JScan is impressively capable given its lower price, though with a different user experience.</p>
-</div>
-<div style="width: 32%; float: left; margin: 1%;">
-    <a href="https://www.youtube.com/watch?v=0Rh1-u8OQGk" target="_blank">
-        <img src="https://img.youtube.com/vi/0Rh1-u8OQGk/0.jpg" alt="OBD JScan - Intro" style="width: 100%;" />
-    </a>
-    <p><strong><a href="https://www.youtube.com/watch?v=0Rh1-u8OQGk" target="_blank">OBD JScan – Intro</a></strong><br/>
-    Language: English<br/>
-    Author: JScan<br/>
-    An earlier introductory video that briefly demonstrates connecting to a Jeep and scanning for trouble codes. It provides a quick look at JScan’s interface and basic functions (read/clear codes, live data) to orient new users to the app.</p>
-</div>
-<div style="clear: both;"></div>
+ <div class="grid">
+    <div style="width: 32%; float: left; margin: 1%;">
+      <a href="https://www.youtube.com/watch?v=WlSTMs8wiz8" target="_blank">
+          <img src="https://img.youtube.com/vi/WlSTMs8wiz8/0.jpg" alt="Jeep OBD JScan - overview video" style="width: 100%;" />
+      </a>
+      <p>
+      <strong>    <a href="https://www.youtube.com/watch?v=WlSTMs8wiz8" target="_blank">Jeep OBD JScan - overview video</a></strong>
+      Language: English<br/>
+      Author: JScan<br/>
+      General overview of the JScan app’s capabilities and interface, showing how it can scan all vehicle modules and read trouble codes:contentReference[oaicite:0]{index=0}. A great starting point for understanding what JScan can do for Jeep diagnostics.</p>
+    </div>
+    <div style="width: 32%; float: left; margin: 1%;">
+        <a href="https://www.youtube.com/watch?v=F2wuB_I7Ji8" target="_blank">
+            <img src="https://img.youtube.com/vi/F2wuB_I7Ji8/0.jpg" alt="What is OBD JScan &amp; What Can It Do" style="width: 100%;" />
+        </a>
+        <p><strong><a href="https://www.youtube.com/watch?v=F2wuB_I7Ji8" target="_blank">What is OBD JScan &amp; What Can It Do</a></strong><br/>
+        Language: English<br/>
+        Author: The Garage Studio<br/>
+        Introduction explaining JScan’s purpose and features:contentReference[oaicite:1]{index=1}. The presenter discusses how JScan compares to other tools and demonstrates reading codes, live data, and performing adaptations on a Jeep.</p>
+    </div>
+    <div style="width: 32%; float: left; margin: 1%;">
+        <a href="https://www.youtube.com/watch?v=BRA6blYbcMY" target="_blank">
+            <img src="https://img.youtube.com/vi/BRA6blYbcMY/0.jpg" alt="JSCAN - The One Essential Wrangler Tool" style="width: 100%;" />
+        </a>
+        <p><strong><a href="https://www.youtube.com/watch?v=BRA6blYbcMY" target="_blank">JSCAN – The One Essential Wrangler Tool</a></strong><br/>
+        Language: English<br/>
+        Author: The Garage Studio<br/>
+        A comprehensive review highlighting JScan as a must-have tool for Jeep Wrangler owners:contentReference[oaicite:2]{index=2}. It shows how to install and use JScan, and compares its cost and features with other solutions, covering tire/gear support, diagnostics, and off-road features.</p>
+    </div>
+    <div style="clear: both;"></div>
+    <div style="width: 32%; float: left; margin: 1%;">
+        <a href="https://www.youtube.com/watch?v=pyalvi8g07U" target="_blank">
+            <img src="https://img.youtube.com/vi/pyalvi8g07U/0.jpg" alt="Jeep JL Owners: Taser or JScan? Full Comparison &amp; Review" style="width: 100%;" />
+        </a>
+        <p><strong><a href="https://www.youtube.com/watch?v=pyalvi8g07U" target="_blank">Jeep JL Owners: Taser or JScan? Full Comparison &amp; Review</a></strong><br/>
+        Language: English<br/>
+        Author: CheaperJeeperTV<br/>
+        Comparison of JScan with the popular Tazer device for Jeep JL:contentReference[oaicite:3]{index=3}. Discusses the pros and cons of each, demonstrating how JScan offers similar functionality (like disabling start/stop, calibrations) at a lower cost, albeit via a smartphone app.</p>
+    </div>
+    <div style="width: 32%; float: left; margin: 1%;">
+        <a href="https://www.youtube.com/watch?v=HvX2GE3r9UM" target="_blank">
+            <img src="https://img.youtube.com/vi/HvX2GE3r9UM/0.jpg" alt="Is the OBD JScan worth buying for your Jeep?" style="width: 100%;" />
+        </a>
+        <p><strong><a href="https://www.youtube.com/watch?v=HvX2GE3r9UM" target="_blank">Is the OBD JScan worth buying for your Jeep?</a></strong><br/>
+        Language: English<br/>
+        Author: CheaperJeeperTV<br/>
+        A candid discussion on whether JScan is a worthwhile investment for Jeep owners. The host goes over JScan’s cost (one-time license per VIN) and features, concluding that its ease of use and capabilities make it a great value for DIY enthusiasts.</p>
+    </div>
+    <div style="width: 32%; float: left; margin: 1%;">
+        <a href="https://www.youtube.com/watch?v=RrVC4JtOge0" target="_blank">
+            <img src="https://img.youtube.com/vi/RrVC4JtOge0/0.jpg" alt="OBD JScan Review" style="width: 100%;" />
+        </a>
+        <p><strong><a href="https://www.youtube.com/watch?v=RrVC4JtOge0" target="_blank">OBD JScan Review</a></strong><br/>
+        Language: English<br/>
+        Author: Journey 2 Jeepin&#39;<br/>
+        A Jeep owner’s honest review of the JScan app. Shows the installation and setup, and demonstrates using JScan to read and clear a check-engine code, adjust settings, and highlights the responsiveness of the developer and community support.:contentReference[oaicite:4]{index=4}</p>
+    </div>
+    <div style="clear: both;"></div>
+    <div style="width: 32%; float: left; margin: 1%;">
+        <a href="https://www.youtube.com/watch?v=Vc3z8Nq0J2s" target="_blank">
+            <img src="https://img.youtube.com/vi/Vc3z8Nq0J2s/0.jpg" alt="Jeep JL Owners: Taser or JScan? (Eddie&#39;s Life Review)" style="width: 100%;" />
+        </a>
+        <p><strong><a href="https://www.youtube.com/watch?v=Vc3z8Nq0J2s" target="_blank">Taser vs JScan – Which Is Better for Jeep JL?</a></strong><br/>
+        Language: English<br/>
+        Author: Eddie&#39;s Life<br/>
+        Another comparison where the host tests JScan against the Tazer JL Mini tool. He evaluates features like tire size calibration, light settings, and stability:contentReference[oaicite:5]{index=5}, ultimately noting that JScan is impressively capable given its lower price, though with a different user experience.</p>
+    </div>
+    <div style="width: 32%; float: left; margin: 1%;">
+        <a href="https://www.youtube.com/watch?v=0Rh1-u8OQGk" target="_blank">
+            <img src="https://img.youtube.com/vi/0Rh1-u8OQGk/0.jpg" alt="OBD JScan - Intro" style="width: 100%;" />
+        </a>
+        <p><strong><a href="https://www.youtube.com/watch?v=0Rh1-u8OQGk" target="_blank">OBD JScan – Intro</a></strong><br/>
+        Language: English<br/>
+        Author: JScan<br/>
+        An earlier introductory video that briefly demonstrates connecting to a Jeep and scanning for trouble codes. It provides a quick look at JScan’s interface and basic functions (read/clear codes, live data) to orient new users to the app.</p>
+    </div>
+  </div>
+  
+  <div style="clear: both;"></div>
 
 Licensing and Activation
 ------------------------

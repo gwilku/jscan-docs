@@ -25,7 +25,7 @@ Contents
    general/user_manual
    general/license
    general/modifications
-   general/comunity_videos
+   
 
 .. toctree::
    :maxdepth: 2
@@ -49,6 +49,7 @@ Contents
    general/service_procedures
    general/radio
    general/module_replacement
+   general/comunity_videos
 
 .. toctree::
    :maxdepth: 2
