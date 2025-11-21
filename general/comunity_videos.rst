@@ -35,4 +35,23 @@ Introduction to JScan
         A Jeep owner's honest review of the JScan app. Shows the installation and setup, and demonstrates using JScan to read and clear a check-engine code, adjust settings, and highlights the responsiveness of the developer and community support.</p>
     </div>
     <div style="clear: both;"></div>
+
+    <div style="width: 32%; float: left; margin: 1%;">
+        <a href="https://www.youtube.com/watch?v=43bmuAN_GM8"><img src="https://img.youtube.com/vi/43bmuAN_GM8/0.jpg" alt="How to connect and start using Jscan thumbnail"></a>
+        <p><strong><a href="https://www.youtube.com/watch?v=43bmuAN_GM8">How to connect and start using JScan</a></strong><br>
+        Language: English<br>
+        Author: GoChangeYaLife<br>
+        A detailed beginner’s guide that shows everything needed to begin using JScan. This video identifies the required parts (Bluetooth/WiFi OBD-II adapter and, for newer Jeeps, a security bypass cable) and demonstrates how to pair the adapter, connect to the vehicle, and use JScan for basic functions (like adjusting for larger tires or reading trouble codes).</p>
+    </div>
+
+    <div style="width: 32%; float: left; margin: 1%;">
+        <a href="https://www.youtube.com/watch?v=SUyCCdO8W4k">
+            <img src="https://img.youtube.com/vi/SUyCCdO8W4k/0.jpg" alt="Jeep Wrangler JScan Phone App Diagnostic Tool thumbnail">
+        </a>
+        <p><strong><a href="https://www.youtube.com/watch?v=SUyCCdO8W4k">Jeep Wrangler JScan Phone App Diagnostic Tool</a></strong><br>
+        Language: English<br>
+        Author: CheaperJeeperTV<br>
+        An overview of the JScan app functioning as a diagnostic tool for Jeep Wranglers. It shows the app in action reading engine fault codes and provides a quick look at features like live data on a phone. It emphasizes how JScan can save money by allowing you to troubleshoot issues at home with just a phone and OBD adapter.</p>
+    </div>
+    <div style="clear: both;"></div>
    
