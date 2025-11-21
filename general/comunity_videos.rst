@@ -109,4 +109,13 @@ Examples with JScan
         A step-by-step example of correcting the speedometer on a Wrangler JL Rubicon using JScan after installing larger tires. The presenter shows the entire process, including selecting the new tire size in the app and applying the changes. They also cover the hardware needed and the calibration’s effect on shift points and speed readouts, making it clear what you “need” to do this job at home.</p>
     </div>
 
+    <div style="width: 32%; float: left; margin: 0.5em;">
+        <a href="https://www.youtube.com/watch?v=9MzWbcnfXxs">
+        <img src="https://img.youtube.com/vi/9MzWbcnfXxs/0.jpg" alt="Battery State of Health in JScan thumbnail"></a>
+        <p><strong><a href="https://www.youtube.com/watch?v=9MzWbcnfXxs">Battery State of Health in JScan</a></strong><br>
+        Language: English<br>
+        Author: Wrangler 4xe Owner<br>
+        A Jeep 4xe plug-in hybrid owner demonstrates how to check the hybrid battery’s State of Health (SOH) using JScan. By accessing the battery management data through the app, they can see the overall health and capacity of the high-voltage battery. This is extremely handy for monitoring battery degradation over time and is an example of JScan’s ability to pull advanced data on modern Jeep models.</p>
+    </div>
+
    
