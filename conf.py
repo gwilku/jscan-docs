@@ -35,7 +35,10 @@ author = 'Piotr Bialic, Grzegorz Wilczek'
 #sys.path.append(os.path.abspath("_ext"))
 
 extensions = [
-'sphinxemoji.sphinxemoji',
+    'sphinxemoji.sphinxemoji',
+    'sphinx.ext.imgconverter',
+    'sphinx.ext.graphviz',
+    'sphinx.ext.todo',
 ]
 
 sphinxemoji_style = 'twemoji'
