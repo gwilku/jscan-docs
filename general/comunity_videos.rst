@@ -54,4 +54,33 @@ Introduction to JScan
         An overview of the JScan app functioning as a diagnostic tool for Jeep Wranglers. It shows the app in action reading engine fault codes and provides a quick look at features like live data on a phone. It emphasizes how JScan can save money by allowing you to troubleshoot issues at home with just a phone and OBD adapter.</p>
     </div>
     <div style="clear: both;"></div>
+
+Examples with JScan
+---------------------
+.. raw:: html
+    <div style="width: 32%; float: left; margin: 0.5em;">
+        <a href="https://www.youtube.com/watch?v=B0M0k2J3oIU"><img src="https://img.youtube.com/vi/B0M0k2J3oIU/0.jpg" alt="Using the JScan Diagnostic tool in my Jeep Gladiator thumbnail"></a>
+        <p><strong><a href="https://www.youtube.com/watch?v=B0M0k2J3oIU">Using the JScan Diagnostic tool in my Jeep Gladiator</a></strong><br>
+        Language: English<br>
+        Author: GoChangeYaLife<br>
+        A real-world example of JScan being used on a Jeep Gladiator. In this video, the owner connects to his Gladiator and walks through performing common tasks such as recalibrating the tire size (after fitting larger tires) and adjusting other settings. It’s an unedited “in the driveway” style demo, showing how intuitive the app is for regular Jeep owners.</p>
+    </div>
+
+    <div style="width: 32%; float: left; margin: 0.5em;">
+        <a href="https://www.youtube.com/watch?v=Ln4TuomiWGk"><img src="https://img.youtube.com/vi/Ln4TuomiWGk/0.jpg" alt="Jeep Grand Cherokee WK2 Rear Lights Conversion with JScan thumbnail"></a>
+        <p><strong><a href="https://www.youtube.com/watch?v=Ln4TuomiWGk">Jeep Grand Cherokee WK2 2014+ – Rear Lights Conversion with JScan</a></strong><br>
+        Language: English<br>
+        Author: JScan (Official)<br>
+        An official tutorial focusing on the Grand Cherokee WK2. It shows how to use JScan to change the configuration of the rear light setup (for example, converting the tail lights from North American style to European specs or vice versa). The video guides through selecting the vehicle model and using JScan’s adaptation options to alter the lighting behavior, illustrating the app’s support for Jeep models beyond the Wrangler.</p>
+    </div>
+    <div style="clear: both;"></div>
+
+    <div style="width: 32%; float: left; margin: 0.5em;">
+        <a href="https://www.youtube.com/watch?v=4FfvnWMX2H8"><img src="https://img.youtube.com/vi/4FfvnWMX2H8/0.jpg" alt="Jeep Wrangler Rubicon JL Tire and Speedometer Correction Using JSCAN thumbnail"></a>
+        <p><strong><a href="https://www.youtube.com/watch?v=4FfvnWMX2H8">Jeep Wrangler Rubicon JL – Tire and Speedometer Correction Using JScan</a></strong><br>
+        Language: English<br>
+        Author: Solo Ascent<br>
+        A step-by-step example of correcting the speedometer on a Wrangler JL Rubicon using JScan after installing larger tires. The presenter shows the entire process, including selecting the new tire size in the app and applying the changes. They also cover the hardware needed and the calibration’s effect on shift points and speed readouts, making it clear what you “need” to do this job at home.</p>
+    </div>
+
    
