@@ -63,8 +63,8 @@ You may also try specifying explicitly, which module you want to query for the V
 Connection lost - You will be disconnected from: Bluetooth
 ==========================================================
 
-If you are getting the error above, please uninstall Torque application.
-If you don't have Torque, but are still getting this error please contact us.
+If you are getting the error above, please uninstall Torque, OBDLink or any other OBD application.
+If you don't have them installed, but are still getting this error please contact us.
 
 
 Other issues
