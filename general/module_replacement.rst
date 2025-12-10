@@ -9,6 +9,41 @@ Module replacement procedures
 	PROCEED AT YOUR OWN RISK (AND RESPONSIBLITY)
 
 
+Procedure: Adapting a used ABS
+====================================================
+
+Overview:
+--------
+This procedure outlines the steps required to install a used ABS module in a vehicle using the application.
+
+.. note::
+
+   This method may not be suitable for every model and or year. Always consult a service manual.
+
+
+Steps:
+------
+
+The general steps are as follows:
+
+#. Make sure the ABS module installed matches the *exact* part number of the original.
+#. Make sure there are no ABS-related errors in Advanced Scan, except for Vehicle Configuration Mismatch.
+#. In the Adaptations > Vehicle Maintenance run the ABS - Clear VIN Original and Current
+#. Turn the ignition to off
+#. After a few minutes, turn the ignition to RUN, as usual. Do NOT start the engine.
+#. Connect with JScan again.
+#. In the Adaptation > Vehicle Maintenance run the ABS - Initialization (or Full Initialization)
+#. Once complete, cycle the ignition (steps 4,5), connect, check the Modules > ABS for the new VIN and run Advanced scan.
+
+Troubleshooting:
+----------------
+
+The above will NOT work if:
+
+- the part number of the replacement module is different
+- there are other ABS errors
+
+
 
 Procedure: Adapting a Used BCM (Body Control Module)
 ====================================================
