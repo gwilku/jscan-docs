@@ -66,13 +66,13 @@ Make sure to perform both routines in this order and under the specified conditi
 All data related to the suspension system can be found in the ADCM module.
 
 	.. image:: ../img/trx/ram_trx_in_air.jpg
-	:width: 400px
+		:width: 400px
 
 	.. image:: ../img/trx/ram_trx_adcm_dtc.jpg
-	:width: 200px
+		:width: 200px
 
 	.. image:: ../img/trx/adcm_dtc_jump.jpg
-	:width: 200px
+		:width: 200px
 
 Tire Size Change
 ================

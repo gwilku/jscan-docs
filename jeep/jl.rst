@@ -232,20 +232,20 @@ Basically there are 2 types of aftermarket LED lights
 All changes should be done in: Body -> Configuration
 
 1) With resistor
-LED Rear Turn Lamps Present -> “Not Set”
-LED Reverse Lamps Present -> “Not Set”
-LED Stop Lamps Present -> “Not Set”
-LED Tail Lamps Present -> “Not Set”
-Left Rear Turn Lamp Diagnostic Present -> “Not Set”
-Right Rear Turn Lamp Diagnostic Present -> “Not Set”
+	- LED Rear Turn Lamps Present -> “Not Set”
+	- LED Reverse Lamps Present -> “Not Set”
+	- LED Stop Lamps Present -> “Not Set”
+	- LED Tail Lamps Present -> “Not Set”
+	- Left Rear Turn Lamp Diagnostic Present -> “Not Set”
+	- Right Rear Turn Lamp Diagnostic Present -> “Not Set”
 
 2) Without resistor:
-LED Rear Turn Lamps Present -> “Set”
-LED Reverse Lamps Present -> “Set”
-LED Stop Lamps Present -> “Set”
-LED Tail Lamps Present -> “Set”
-Left Rear Turn Lamp Diagnostic Present -> “Not Set”
-Right Rear Turn Lamp Diagnostic Present -> “Not Set”
+	- LED Rear Turn Lamps Present -> “Set”
+	- LED Reverse Lamps Present -> “Set”
+	- LED Stop Lamps Present -> “Set”
+	- LED Tail Lamps Present -> “Set”
+	- Left Rear Turn Lamp Diagnostic Present -> “Not Set”
+	- Right Rear Turn Lamp Diagnostic Present -> “Not Set”
 
 
 When you are don with settings go to Body Module and clear all trouble codes (DTC).
@@ -262,10 +262,9 @@ Disable Sign and Lane assist
 Jeep JL disable Sign and Lane assist
 
 1) Go to Modules > Body Controller > Configuration
-2) Set these to disabled:
-
-- Lane departure warning present
-- Traffic Sign Info
+2) Set these to disabled:	
+	- Lane departure warning present
+	- Traffic Sign Info
 
 Activating Front Camera (CHML) on 2018+
 =========================================
@@ -274,21 +273,18 @@ Adding a forward-facing trail camera to your Jeep Wrangler JL (model years 2018+
 Any NTSC camera is compatible with this setup, just get one with a wide-angle lens for the best view, also check if this camera has option to mirror the image if needed.
 
 1) Go to Modules > Body Controller > Configuration
-2) Set these to active:
-
-- CHML Camera Present
-or
-- Cargo Camera Present
+2) Set these to active:	
+	- CHML Camera Present or Cargo Camera Present
 
 3) Restart the Radio using JScan 2x - this is required for the settings to take effect.
 
 Wire the Camera in to radio connectors:
 - 2018/2019 - pin 24, black in 25  
 - 2020+     - pin 21, black in 22  
-Warning some late 2019 models have different pinouts, please check before wiring.
+!Warning some late 2019 models have different pinouts, please check before wiring.
 
 	.. image:: ../img/radio/chml.jpg
-	:width: 200px
+		:width: 200px
 
 .. include:: ../general/dasm.rst
 
