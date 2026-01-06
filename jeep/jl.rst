@@ -279,8 +279,8 @@ Any NTSC camera is compatible with this setup, just get one with a wide-angle le
 3) Restart the Radio using JScan 2x - this is required for the settings to take effect.
 
 Wire the Camera in to radio connectors:
-- 2018/2019 - pin 24, black in 25  
-- 2020+     - pin 21, black in 22  
+	- 2018/2019 - pin 24, black in 25  
+	- 2020+     - pin 21, black in 22
 !Warning some late 2019 models have different pinouts, please check before wiring.
 
 	.. image:: ../img/radio/chml.jpg
