@@ -267,6 +267,27 @@ Jeep JL disable Sign and Lane assist
 - Lane departure warning present
 - Traffic Sign Info
 
+Activating Front Camera (CHML) on 2018+
+=========================================
+
+Adding a forward-facing trail camera to your Jeep Wrangler JL (model years 2018+) can greatly aid in off-road navigation and tight parking situations. Fortunately, all Wrangler JLs equipped with the 8.4-inch Uconnect infotainment system (Panasonic radio) have a built-in provision for an auxiliary video input, originally intended for a cargo or CHMSL camera (typically used on truck bed or third brake light cameras).
+Any NTSC camera is compatible with this setup, just get one with a wide-angle lens for the best view, also check if this camera has option to mirror the image if needed.
+
+1) Go to Modules > Body Controller > Configuration
+2) Set these to active:
+
+- CHML Camera Present
+or
+- Cargo Camera Present
+
+Wire the Camera in to radio connectors:
+- 2018/2019 - pin 24, black in 25  
+- 2020+     - pin 21, black in 22  
+Warning some late 2019 models have different pinouts, please check before wiring.
+
+	.. image:: ../img/radio/chml.jpg
+	:width: 200px
+
 .. include:: ../general/dasm.rst
 
 
