@@ -23,7 +23,9 @@ License is required for following functions:
 How does a license work?
 ========================
 
-A license is bound to a **VIN and your account token** (found in settings > Manage Licesnses & Account > Status). You can have multiple licenses attached to the token, each license covering 1 VIN. You can use this token to use JScan on multpile devices (phone, tablet, radio, etc.) with the same vehicle(s). Just install JScan on another phone or tablet and type the token in the *Settings > Manage licenses & account > Status* - both devices will use the same license.
+A license is "slot" for a VIN. A license is bound to a **VIN and your account token** (found in settings > Manage Licesnses & Account > Status). You can have multiple licenses attached to the token, each license covering 1 VIN.
+
+You can use this token to use JScan on multpile devices (phone, tablet, radio, etc.) with the same vehicle(s). Just install JScan on another phone or tablet and type the token in the *Settings > Manage licenses & account > Status* - both devices will use the same license.
 
 A license is a one-time purchase. No subscription, no extra fees, etc. It includes all the software updates as well - just make sure you update the JScan app via the app store of your choice.
 
@@ -71,7 +73,7 @@ Yes. In late 2020 we introduced a new licensing system.
 I changed the phone and I don't have the token - what now?
 ==========================================================
 
-Please get in touch with us, and provide the VIN and the purchase transaction ID (Android) or a purchase confirmation (Apple).
+Please get in touch with us, and provide the VIN and the purchase transaction ID (Android) or a purchase invoice (Apple).
 
 The transaction ID looks like GPA.xxxxxxxxxxxxxxxxxxxx and can be found either in your purchase history in the app store or in the purchase confirmation email.
 
