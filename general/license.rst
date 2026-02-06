@@ -2,9 +2,6 @@
 Licensing
 #########
 
-.. note:: There is a know issue/limitation with iOS purchases: you can only purchase each item once, so please plan ahead. If you used both single licence purchases and need the third one added, please contact us via Facebook. We're working on a solution.
-
-
 Free features
 =============
 
@@ -19,6 +16,7 @@ License is required for following functions:
 	- Live data in specific modules
 	- Trail View / Drag View / TPMS View (for applicable vehicles)
 	- Data modfication: **writing** to the ECU
+	- Executing procedures (service, resets, PIN reading)
 
 How does a license work?
 ========================
@@ -46,7 +44,7 @@ The second way of obtaining a license is entering settings (gear icon in top rig
 How do I use a license?
 =======================
 
-After you buy a license, just connect to a vehicle and the app will ask if you want to assign the licene to the VIN.
+After you buy a license, just connect to a vehicle and the app will ask if you want to assign the license to the VIN.
 
 
 Can I transfer my license to another car?
@@ -73,9 +71,10 @@ Yes. In late 2020 we introduced a new licensing system.
 I changed the phone and I don't have the token - what now?
 ==========================================================
 
-Please get in touch with us, and provide the VIN and the purchase transaction ID (Android) or a purchase invoice (Apple).
+On Android, please visit the `Account Restore`_ page.
 
-The transaction ID looks like GPA.xxxxxxxxxxxxxxxxxxxx and can be found either in your purchase history in the app store or in the purchase confirmation email.
+On iOS please get in touch with us via our `Facebook Page`_, and provide the VIN and a purchase invoice (Apple).
+
 
 I can't log in / lost my password!
 ==================================
@@ -95,3 +94,5 @@ Check in Settings > Manage Licenses & Account > Status if the number of purchase
 
 
 .. _Connecting: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
+.. _Account Restore: https://my.jscan.net/Account/RestoreToken
+.. _Facebook Page: https://www.facebook.com/obdjscan
