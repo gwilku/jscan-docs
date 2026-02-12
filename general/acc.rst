@@ -33,3 +33,12 @@ Helper tools 3D Project Files
 - Version 1 STL: :download:`acc_calibration_tool_v1-jscan.stl <../files/acc_calibration_tool_v1-jscan.stl>`
 
 - Version 2 STL: :download:`acc_calibration_tool_v2-jscan.stl <../files/acc_calibration_tool_v2-jscan.stl>`
+
+License Notice
+
+These files are provided for personal use only.
+They are not intended for resale, redistribution, or any commercial use.
+
+Commercial sale, distribution, or monetization of this project or its derivatives is strictly prohibited.
+
+This project was prepared by the JScan Team to assist with calibration procedures and is provided as a supportive tool for the community.
