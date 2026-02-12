@@ -26,3 +26,8 @@ Once the radar is levelled:
 12. The app will hint to turn the engine off - do it.
 
 The radar is now calibrated, and you can use the Adaptive Cruise Control (refer to your user manual). Of course test teh proper operation of the ACC: activate it, set a distance to preceeding vehicle, and verify that your car actually adjusts the speed to keep the distance.
+
+
+Helper tools 3D Project Files
+- `Version 1 </files/acc_calibration_tool_v1-jscan.stl>`_
+- `Version 2 </files/acc_calibration_tool_v2-jscan.stl>`_
