@@ -29,5 +29,5 @@ The radar is now calibrated, and you can use the Adaptive Cruise Control (refer 
 
 
 Helper tools 3D Project Files
-- `Version 1 STL: :download:`acc_calibration_tool_v1-jscan.stl <../files/acc_calibration_tool_v1-jscan.stl>`
-- `Version 2 STL: :download:`acc_calibration_tool_v1-jscan.stl <../files/acc_calibration_tool_v2-jscan.stl>`
+- Version 1 STL: :download:`acc_calibration_tool_v1-jscan.stl <../files/acc_calibration_tool_v1-jscan.stl>`
+- Version 2 STL: :download:`acc_calibration_tool_v1-jscan.stl <../files/acc_calibration_tool_v2-jscan.stl>`

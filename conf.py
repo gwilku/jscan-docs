@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'jscan-docs'
-copyright = '2025, Piotr Bialic, Grzegorz Wilczek'
+copyright = '2026, Piotr Bialic, Grzegorz Wilczek'
 author = 'Piotr Bialic, Grzegorz Wilczek'
 
 
