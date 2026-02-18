@@ -118,16 +118,9 @@ Examples with JScan
         A Jeep 4xe plug-in hybrid owner demonstrates how to check the hybrid battery’s State of Health (SOH) using JScan. By accessing the battery management data through the app, they can see the overall health and capacity of the high-voltage battery. This is extremely handy for monitoring battery degradation over time and is an example of JScan’s ability to pull advanced data on modern Jeep models.</p>
     </div>
 
-    <div style="width: 32%; float: left; margin: 0.5em;">
-        <a href="https://www.youtube.com/watch?v=4FfvnWMX2H8">
-        <img src="https://img.youtube.com/vi/4FfvnWMX2H8/0.jpg" alt="Jeep Wrangler Rubicon JL Tire and Speedometer Correction Using JSCAN APP and what you need!"></a>
-        <p><strong><a href="https://www.youtube.com/watch?v=4FfvnWMX2H8">Jeep Wrangler Rubicon JL Tire and Speedometer Correction Using JSCAN APP and what you need!</a></strong><br>
-        Language: English<br>
-        Author: Solo Ascent Owner<br>
-        Jeep Wrangler Rubicon JL Tire and Speedometer Correction Using JSCAN APP and what you need!</p>
-    </div>
+    <div style="clear: both;"></div>
 
-     <div style="width: 32%; float: left; margin: 0.5em;">
+    <div style="width: 32%; float: left; margin: 1%;">
         <a href="https://www.youtube.com/watch?v=qaSslITeMr0">
         <img src="https://img.youtube.com/vi/qaSslITeMr0/0.jpg" alt="2023 Ram Speedometer Calibration & Seat Belt Alarm Disable"></a>
         <p><strong><a href="https://www.youtube.com/watch?v=qaSslITeMr0">2023 Ram Speedometer Calibration & Seat Belt Alarm Disable</a></strong><br>
