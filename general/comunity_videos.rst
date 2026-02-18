@@ -127,6 +127,17 @@ Examples with JScan
         Jeep Wrangler Rubicon JL Tire and Speedometer Correction Using JSCAN APP and what you need!</p>
     </div>
 
+     <div style="width: 32%; float: left; margin: 0.5em;">
+        <a href="https://www.youtube.com/watch?v=qaSslITeMr0">
+        <img src="https://img.youtube.com/vi/qaSslITeMr0/0.jpg" alt="2023 Ram Speedometer Calibration & Seat Belt Alarm Disable"></a>
+        <p><strong><a href="https://www.youtube.com/watch?v=qaSslITeMr0">2023 Ram Speedometer Calibration & Seat Belt Alarm Disable</a></strong><br>
+        Language: English<br>
+        Author: HicktownHunting<br>
+        2023 Ram Speedometer Calibration & Seat Belt Alarm Disable</p>
+    </div>
+
+    
+
     
 
    
