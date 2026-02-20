@@ -266,6 +266,48 @@ Jeep JL disable Sign and Lane assist
 	- Lane departure warning present
 	- Traffic Sign Info
 
+Disable Electric Power Steering (EPS) – Jeep Wrangler JL / JT
+==============================================================
+
+This procedure allows deactivation of the factory Electric Power Steering (EPS)
+system in Jeep Wrangler JL and Jeep Gladiator JT vehicles.
+
+This is typically required when:
+
+- Converting from factory Electric Power Steering to a hydraulic steering system
+  (e.g. PSC hydraulic pump installation)
+- Performing engine swaps (e.g. 5.7L HEMI or 6.4L HEMI conversions)
+- Installing aftermarket steering systems that do not use the OEM EPS module
+
+Procedure
+---------
+
+1. Turn ignition to **RUN** (engine OFF).
+2. Connect JScan to the vehicle.
+3. Open the **Body** module.
+4. Navigate to **Configuration**.
+5. Search for **EPS (Electric Power Steering)**.
+6. Set value to **Not Set**.
+7. Confirm and write the configuration to the vehicle.
+
+After Completion
+----------------
+
+- Turn ignition OFF.
+- Wait at least 30 seconds.
+- Turn ignition back to RUN.
+- Clear any stored Diagnostic Trouble Codes (DTCs).
+- Verify that no EPS-related warnings remain active.
+
+Important Notes
+---------------
+
+- Setting EPS to **Not Set** disables factory electric steering assist.
+- A properly installed hydraulic steering system must be present before driving.
+- Intended for custom/off-road applications only.
+- Always ensure compliance with local regulations before modifying steering systems.
+
+
 Activating Front Camera (CHML) on 2018+
 =========================================
 
