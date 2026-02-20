@@ -33,6 +33,42 @@ If you imported a JK from the USA, you will need to adapt (among other things) t
 
 Now your side lamps will work as indicators only, and you need to route a wire from the third (central) stop light to each of the rear lamps to power the European stop lights as well.
 
+Enable Front Fog Lights with High Beam 
+==========================================================
+
+This procedure allows the front fog lights to remain ON when high beam headlights
+are activated in Jeep Wrangler JK vehicles.
+
+From factory configuration, fog lights automatically turn OFF when high beams are enabled.
+Using JScan, this behavior can be modified through the Front Control module (TIPM).
+
+Procedure
+---------
+
+1. Turn ignition to **RUN** (engine OFF).
+2. Connect JScan to the vehicle.
+3. Open the **Front Control (TIPM)** module.
+4. Navigate to **Configuration**.
+5. Search for the setting related to fog light behavior with high beams  
+   (e.g. *Fog Lights Drop Out With High Beam* or similar wording).
+6. Change the setting to **Disabled** (or equivalent option allowing fog lights to stay ON).
+7. Confirm and write the configuration to the vehicle.
+
+After Completion
+----------------
+
+- Turn ignition OFF.
+- Wait at least 30 seconds.
+- Turn ignition back to RUN.
+- Verify that fog lights remain ON when high beams are activated.
+- Clear any stored Diagnostic Trouble Codes (DTCs) if necessary.
+
+Important Notes
+---------------
+
+- This modification changes factory lighting behavior.
+- Ensure compliance with local road regulations before enabling this feature.
+- Some regional configurations may use slightly different naming for the setting.
 
 Transmission gear ratio
 =========================

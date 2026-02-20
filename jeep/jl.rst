@@ -143,6 +143,43 @@ The best results are achieved when doing the changes in the following order:
 
 .. note:: By default JL is equipped in LED diagnostic options and you need to disable it first before activating LED options. LED diagnostics are only checked when you turn on LED options
 
+Enable Front Fog Lights with High Beam 
+==========================================================
+
+This procedure allows the front fog lights to remain ON when high beam headlights
+are activated in Jeep Wrangler vehicles.
+
+From factory configuration, fog lights automatically turn OFF when high beams are enabled.
+Using JScan, this behavior can be modified through the Body Module (BCM).
+
+Procedure
+---------
+
+1. Turn ignition to **RUN** (engine OFF).
+2. Connect JScan to the vehicle.
+3. Open the **Body Module (BCM)** module.
+4. Navigate to **Configuration**.
+5. Search for the setting related to fog light behavior with high beams  
+   (e.g. *Fron Fog Lamp Dropout Enable* or similar wording).
+6. Change the setting to **Disabled** (or equivalent option allowing fog lights to stay ON).
+7. Confirm and write the configuration to the vehicle.
+
+After Completion
+----------------
+
+- Turn ignition OFF.
+- Wait at least 30 seconds.
+- Turn ignition back to RUN.
+- Verify that fog lights remain ON when high beams are activated.
+- Clear any stored Diagnostic Trouble Codes (DTCs) if necessary.
+
+Important Notes
+---------------
+
+- This modification changes factory lighting behavior.
+- Ensure compliance with local road regulations before enabling this feature.
+- Some regional configurations may use slightly different naming for the setting.
+
 
 Enabling auto high beam option on Jeep JL / JT
 ==============================================
