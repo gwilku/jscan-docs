@@ -71,9 +71,9 @@ Yes. In late 2020 we introduced a new licensing system.
 I changed the phone and I don't have the token - what now?
 ==========================================================
 
-On Android, please visit the `Account Restore`_ page.
+If you bought the license onn Android, please visit the `Account Restore`_ page.
 
-On iOS please get in touch with us via our `Facebook Page`_, and provide the VIN and a purchase invoice (Apple).
+If the purchase was done on iOS please get in touch with us via our `Facebook Page`_, and provide the VIN and a purchase invoice (Apple).
 
 
 I can't log in / lost my password!
