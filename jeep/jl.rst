@@ -344,6 +344,14 @@ Important Notes
 - Intended for custom/off-road applications only.
 - Always ensure compliance with local regulations before modifying steering systems.
 
+2025 tire size change FFCM calibration issue
+============================================
+
+After changing the tire size on a late 2025 you may run into an FFCM calibration issue.
+This is a module software bug, and has been recognised by Jeep.
+
+Please see this `Technical Service Bulletin`_ (TSB) and contact the dealer. 
+
 
 Activating Front Camera (CHML) on 2018+
 =========================================
@@ -370,3 +378,4 @@ Wire the Camera in to radio connectors:
 
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
 .. _SGW Bypass: http://jscan.net/jl-jt-security-bypass/
+.. _Technical Service Bulletin: https://static.oemdtc.com/NHTSA-PDFs/MC-11024053-0001.pdf
