@@ -303,6 +303,38 @@ Jeep JL disable Sign and Lane assist
 	- Lane departure warning present
 	- Traffic Sign Info
 
+Transfer case swap on JL or JT
+=========================================
+
+T241 (MP1622 / MP1622C)
+-----------------------
+- Classic mechanical part-time transfer case (Command-Trac / Rock-Trac)
+- Rigid front–rear connection (no center differential, no clutch)
+- Modes: 2H / 4H / N / 4L, no AUTO mode
+- 4WD use only on loose/slippery surfaces (snow, mud, off-road)
+- Available with low range ratio: 2.72:1 or 4:1 (Rock-Trac)
+
+T246 (MP3022 / MP3022C)
+-----------------------
+- Active on-demand 4WD system (Selec-Trac) with multi-plate clutch
+- Automatic torque distribution (4H Auto) with part-time lock capability
+- Modes: 2H / 4H Auto / 4H Part-Time / N / 4L
+- Suitable for all surfaces, including dry pavement
+- Available with low range ratio: 2.72:1 or 4:1 (Rock-Trac)
+
+1) Go to Modules > Body Controller > Configuration
+2) Select correct transfer case type:
+	- T241 - (MP1622/MP1622C)
+	- T246 - (MP3022/MP3022C)
+
+Important Notes
+---------------
+This is only part of the transfer case swap process. You will also need to perform the necessary mechanical modifications, including:
+- Installing the new transfer case
+- Replacing Drive Train Contol Module (DTCM) located on ther back of the car
+- Replacing the transfer shift leaver and add missing wires to the harness
+
+
 Disable Electric Power Steering (EPS) – Jeep Wrangler JL / JT
 ==============================================================
 
