@@ -183,7 +183,7 @@ See the table below:
 Curb Height Measurement
 =======================
 
-TBC...
+TBC... Once RTD figures out how to render tables.
 
 
 .. _troubleshooting: https://jscan-docs.readthedocs.io/en/latest/general/troubleshooting.html
