@@ -148,6 +148,8 @@ Record the measurement. Next measure the distance from the center of the rear wh
 Ride Height Specifications
 --------------------------
 
+See the table below:
+
 +---------------------------------------+------------+---------------+-------------+
 | Model                                 | Wheelbase  | Front Height  | Rear Height |
 +=======================================+============+===============+=============+
