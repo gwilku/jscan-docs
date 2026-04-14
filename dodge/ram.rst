@@ -7,6 +7,11 @@ RAM
 .. attention:: In RAM DS, and possibly other models, after disabling or the TPMS or changing the thresholds you need to re-initialize Radio Frequency Hub, which requires vehicle PIN. See the steps below.
 
 
+**************
+General info
+**************
+
+
 Disabling the TPMS System / Changing thresholds
 ================================================
 
@@ -88,7 +93,81 @@ In newer RAM DS vehicles:
 
 Failing to do that will result in an ABS error.
 
+***********
+RAM DT
+***********
 
+The DASM calibration procedure for RAM DT
+=========================================
+
+It is required when the:
+
+- DASM has been replaced
+- The DASM has been reinstalled
+- Tire diameter has been changed
+- There are errors (DTCs): Calibration not learned (C008F-00) or Sensor Adjustment Required (C14A4-00)
+
+The procedure:
+
+1. Read the vertical angle by holding the inclinometer against the cooling ribs on the back of the DASM. Use an e5 Torx to adjust the adjustment screw. The adjustment specification is: -1 +/- 0.2 degree from vertical.
+
+2. After completing the alignment, connect to the vehicle.
+3. Select the Adaptation section and then  the Vehicle Maintenance group.
+4. Run the DASM - Sensor Calibration Init- BETA procedure and follow the on screen prompts to complete DASM calibration.
+
+
+*************
+RAM 1500 (DS)
+*************
+
+Air Suspension Calibration
+==========================
+
+The calibration needs to be done with the vehicle on a flat, level surface. The tires should be standard size and standard pressure (reference measurements are for default wheels).
+
+The air ride must be set to normal ride height.
+
+Front
+-------
+
+1. On each side of the vehicle, measure the distance from the center of the rear lower control arm bolt (1) to the ground (2).
+Record the measurement. Next measure the distance from the spindle center (3) to the ground (4). Record the measurement.
+2. Subtract the control arm bolt to fl oor measurement from the wheel to floor measurement to calculate the ride height. (wheel - control arm = ride height).
+
+.. image:: ../img/ram/ASCM_1500_front.png
+
+Rear
+---------
+
+1. On each side of the vehicle, measure the distance from the center of the lower control arm forward bolt (2) to the ground (3).
+Record the measurement. Next measure the distance from the center of the rear wheel (1) to the ground (4). Record the measurement.
+2. Subtract the control arm bolt to fl oor measurement from the wheel to floor measurement to calculate the ride height. (wheel - control arm = ride height).
+
+.. image:: ../img/ram/ASCM_1500_rear.png
+
+Ride Height Specifications
+--------------------------
+
+Model 								Wheelbase 	Front Height 	Rear Height
+
+1500 4x2 17" tire 					120” 		55mm +/-10mm 	83mm +/-10mm
+1500 4x2 17" tire 					140”, 149”	55mm +/-10mm 	81mm +/-10mm
+1500 4x2 17" tire, TRX/Outdoorsman 	120” 		44mm +/-10mm 	81mm +/-10mm
+1500 4x2 17" tire, TRX/Outdoorsman 	140”, 149” 	44mm +/-10mm 	79mm +/-10mm
+1500 4x2 with 20" 					120” 		44mm +/-10mm 	81mm +/-10mm
+1500 4x2 with 20" 					140”, 149” 	44mm +/-10mm 	78mm +/-10mm
+1500 4x4 							120” 		72mm +/-10mm 	69mm +/-10mm
+1500 4x4 							140”, 149” 	72mm +/-10mm 	68mm +/-10mm
+1500 4x4 TRX/Outdoorsman 			120” 		54mm +/-10mm 	57mm +/-10mm
+1500 4x4 TRX/Outdoorsman 			140”, 149” 	54mm +/-10mm 	56mm +/-10mm
+1500 4x4 Rebel 						140” 		60mm +/-10mm 	54mm +/-10mm
+1500 Air Susp. (Normal Ride Height)	140”, 149” 	83mm +/-10mm 	79mm +/-10mm
+1500 Air (Aero Mode) 				140”, 149” 	98mm +/-10mm 	94mm +/-10mm
+
+Curb Height Measurement
+=======================
+
+TBC...
 
 
 .. _troubleshooting: https://jscan-docs.readthedocs.io/en/latest/general/troubleshooting.html
