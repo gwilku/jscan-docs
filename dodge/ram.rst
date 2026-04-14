@@ -148,21 +148,21 @@ Record the measurement. Next measure the distance from the center of the rear wh
 Ride Height Specifications
 --------------------------
 
-Model 								Wheelbase 	Front Height 	Rear Height
-
-1500 4x2 17" tire 					120” 		55mm +/-10mm 	83mm +/-10mm
-1500 4x2 17" tire 					140”, 149”	55mm +/-10mm 	81mm +/-10mm
-1500 4x2 17" tire, TRX/Outdoorsman 	120” 		44mm +/-10mm 	81mm +/-10mm
-1500 4x2 17" tire, TRX/Outdoorsman 	140”, 149” 	44mm +/-10mm 	79mm +/-10mm
-1500 4x2 with 20" 					120” 		44mm +/-10mm 	81mm +/-10mm
-1500 4x2 with 20" 					140”, 149” 	44mm +/-10mm 	78mm +/-10mm
-1500 4x4 							120” 		72mm +/-10mm 	69mm +/-10mm
-1500 4x4 							140”, 149” 	72mm +/-10mm 	68mm +/-10mm
-1500 4x4 TRX/Outdoorsman 			120” 		54mm +/-10mm 	57mm +/-10mm
-1500 4x4 TRX/Outdoorsman 			140”, 149” 	54mm +/-10mm 	56mm +/-10mm
-1500 4x4 Rebel 						140” 		60mm +/-10mm 	54mm +/-10mm
-1500 Air Susp. (Normal Ride Height)	140”, 149” 	83mm +/-10mm 	79mm +/-10mm
-1500 Air (Aero Mode) 				140”, 149” 	98mm +/-10mm 	94mm +/-10mm
+|Model 								|Wheelbase 	|Front Height 	|Rear Height |
+|-----------------------------------|-----------|---------------|------------|
+|1500 4x2 17" tire 					|120” 		|55mm +/-10mm 	|83mm +/-10mm|
+|1500 4x2 17" tire 					|140”, 149”	|55mm +/-10mm 	|81mm +/-10mm|
+|1500 4x2 17" tire, TRX/Outdoorsman |120” 		|44mm +/-10mm 	|81mm +/-10mm|
+|1500 4x2 17" tire, TRX/Outdoorsman |140”, 149” |44mm +/-10mm 	|79mm +/-10mm|
+|1500 4x2 with 20" 					|120” 		|44mm +/-10mm 	|81mm +/-10mm|
+|1500 4x2 with 20" 					|140”, 149” |44mm +/-10mm 	|78mm +/-10mm|
+|1500 4x4 							|120” 		|72mm +/-10mm 	|69mm +/-10mm|
+|1500 4x4 							|140”, 149” |72mm +/-10mm 	|68mm +/-10mm|
+|1500 4x4 TRX/Outdoorsman 			|120” 		|54mm +/-10mm 	|57mm +/-10mm|
+|1500 4x4 TRX/Outdoorsman 			|140”, 149” |54mm +/-10mm 	|56mm +/-10mm|
+|1500 4x4 Rebel 					|140” 		|60mm +/-10mm 	|54mm +/-10mm|
+|1500 Air Susp. (Normal Ride Height)|140”, 149” |83mm +/-10mm 	|79mm +/-10mm|
+|1500 Air (Aero Mode) 				|140”, 149” |98mm +/-10mm 	|94mm +/-10mm|
 
 Curb Height Measurement
 =======================
