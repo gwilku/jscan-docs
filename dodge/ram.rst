@@ -60,13 +60,13 @@ For the Ram 1500 TRX, JScan provides two sequential service functions to recalib
 
 Engine off, vehicle on level groud, ignition in RUN position.
 
-1) PCM ñ TRX Suspension Rebound Reset: With the vehicle lifted and all wheels off the ground (suspension fully unloaded), run this service function
+1) PCM ‚Äì TRX Suspension Rebound Reset: With the vehicle lifted and all wheels off the ground (suspension fully unloaded), run this service function
 
-2) ADCM ñ Height Sensor Calibration: Lower the truck back to the ground at normal ride height, then run this calibration routine. This ensures the suspension height sensors are calibrated under normal load conditions.
+2) ADCM ‚Äì Height Sensor Calibration: Lower the truck back to the ground at normal ride height, then run this calibration routine. This ensures the suspension height sensors are calibrated under normal load conditions.
 
 3) After both routines are complete, clear trouble codes on all modules, cycle ignition, and verify proper operation of the suspension system.
 
-Make sure to perform both routines in this order and under the specified conditions to properly reset and calibrate the TRXís suspension.
+Make sure to perform both routines in this order and under the specified conditions to properly reset and calibrate the TRX‚Äôs suspension.
 
 All data related to the suspension system can be found in the ADCM module.
 
@@ -148,21 +148,30 @@ Record the measurement. Next measure the distance from the center of the rear wh
 Ride Height Specifications
 --------------------------
 
-|Model 								|Wheelbase 	|Front Height 	|Rear Height |
-|-----------------------------------|-----------|---------------|------------|
-|1500 4x2 17" tire 					|120î 		|55mm +/-10mm 	|83mm +/-10mm|
-|1500 4x2 17" tire 					|140î, 149î	|55mm +/-10mm 	|81mm +/-10mm|
-|1500 4x2 17" tire, TRX/Outdoorsman |120î 		|44mm +/-10mm 	|81mm +/-10mm|
-|1500 4x2 17" tire, TRX/Outdoorsman |140î, 149î |44mm +/-10mm 	|79mm +/-10mm|
-|1500 4x2 with 20" 					|120î 		|44mm +/-10mm 	|81mm +/-10mm|
-|1500 4x2 with 20" 					|140î, 149î |44mm +/-10mm 	|78mm +/-10mm|
-|1500 4x4 							|120î 		|72mm +/-10mm 	|69mm +/-10mm|
-|1500 4x4 							|140î, 149î |72mm +/-10mm 	|68mm +/-10mm|
-|1500 4x4 TRX/Outdoorsman 			|120î 		|54mm +/-10mm 	|57mm +/-10mm|
-|1500 4x4 TRX/Outdoorsman 			|140î, 149î |54mm +/-10mm 	|56mm +/-10mm|
-|1500 4x4 Rebel 					|140î 		|60mm +/-10mm 	|54mm +/-10mm|
-|1500 Air Susp. (Normal Ride Height)|140î, 149î |83mm +/-10mm 	|79mm +/-10mm|
-|1500 Air (Aero Mode) 				|140î, 149î |98mm +/-10mm 	|94mm +/-10mm|
+
+| Feature | Status |
+|---------|--------|
+| Editor | ‚úÖ |
+| Preview | ‚úÖ |
+| Export | ‚úÖ |
+
+
+
+|Model 								| Wheelbase  | Front Height 	| Rear Height |
+|-----------------------------------|------------|------------------|-------------|
+|1500 4x2 17" tire 					| 120‚Äù 		 | 55mm +/-10mm 	| 83mm +/-10mm|
+|1500 4x2 17" tire 					| 140‚Äù, 149‚Äù | 55mm +/-10mm 	| 81mm +/-10mm|
+|1500 4x2 17" tire, TRX/Outdoorsman | 120‚Äù 		 | 44mm +/-10mm 	| 81mm +/-10mm|
+|1500 4x2 17" tire, TRX/Outdoorsman | 140‚Äù, 149‚Äù | 44mm +/-10mm 	| 79mm +/-10mm|
+|1500 4x2 with 20" 					| 120‚Äù 		 | 44mm +/-10mm 	| 81mm +/-10mm|
+|1500 4x2 with 20" 					| 140‚Äù, 149‚Äù | 44mm +/-10mm 	| 78mm +/-10mm|
+|1500 4x4 							| 120‚Äù 		 | 72mm +/-10mm 	| 69mm +/-10mm|
+|1500 4x4 							| 140‚Äù, 149‚Äù | 72mm +/-10mm 	| 68mm +/-10mm|
+|1500 4x4 TRX/Outdoorsman 			| 120‚Äù 		 | 54mm +/-10mm 	| 57mm +/-10mm|
+|1500 4x4 TRX/Outdoorsman 			| 140‚Äù, 149‚Äù | 54mm +/-10mm 	| 56mm +/-10mm|
+|1500 4x4 Rebel 					| 140‚Äù 		 | 60mm +/-10mm 	| 54mm +/-10mm|
+|1500 Air Susp. (Normal Ride Height)| 140‚Äù, 149‚Äù | 83mm +/-10mm 	| 79mm +/-10mm|
+|1500 Air (Aero Mode) 				| 140‚Äù, 149‚Äù | 98mm +/-10mm 	| 94mm +/-10mm|
 
 Curb Height Measurement
 =======================
