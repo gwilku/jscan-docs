@@ -261,5 +261,11 @@ correct BCM coding, additional wires, correct BCM terminals, EU rear lamps,
 and in the case of rear fog lamps, an EU specification light switch.
 
 
-.. image:: ../img/bcm/bcm_connector_overview.png
+    .. image:: ../img/bcm/bcm_connector_overview.png
+	:width: 200px
+
+    .. image:: ../img/bcm/bcm_pin_slk_12.png
+	:width: 200px
+
+    .. image:: ../img/bcm/bcm_pn_slk_28.png
 	:width: 200px
