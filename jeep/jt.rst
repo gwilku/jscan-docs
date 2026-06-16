@@ -3,6 +3,7 @@ General hints for JT
 
 For ESS (and other features) please see the JL section above - JT shares a lot with the JL model.
 
+.. include:: ../general/bcm_pn_light_conversion.rst
 
 Changing TPMS thresholds
 ========================

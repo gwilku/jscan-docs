@@ -14,7 +14,7 @@ Bypassing the Security Gateway
 
 Chrysler’s Secure Gateway Module came out in 2018. The SGW is a module whose function is simply to keep the communication networks secure. The SGW protects the vehicle networks from being exploited by creating a firewall between two portions of the network with the most vulnerability. This means, that to make any changes, you will need a SGW bypass - usually a cable. See our `SGW Bypass`_ page for details.
 
-
+.. include:: ../general/bcm_pn_light_conversion.rst
 
 Changing TPMS thresholds
 ========================
