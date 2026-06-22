@@ -23,6 +23,43 @@ vehicles use a 230V inverter.
 To obtain a functional 230V outlet, the US inverter must be replaced with
 the corresponding European version.
 
+Connector Modification
+----------------------
+
+The vehicle-side connector may require a minor modification before it can be
+connected to the European inverter.
+
+The side plastic guides on the vehicle harness connector may prevent proper
+engagement with the inverter connector. If necessary, carefully trim or file
+the side plastic tabs until the connector can be fully inserted and locked
+into place.
+
+.. warning::
+
+   Remove only the minimum amount of material required for proper fitment.
+   Excessive trimming may affect connector retention and locking performance.
+
+After modification, verify that:
+
+* the connector is fully seated,
+* the locking tab engages correctly,
+* the connector cannot be removed without releasing the lock,
+* no terminals, seals, or wires have been damaged.
+
+.. note::
+
+   This modification affects only the plastic housing of the vehicle-side
+   connector. No wiring changes, terminal replacements, or vehicle coding
+   are required.
+
+.. figure:: ../img/power_inverter/power_inverter_trim_connector.jpg
+   :width: 400px
+   :alt: Inverter location
+
+.. figure:: ../img/power_inverter/power_inverter_us_vs_eu.jpg
+   :width: 400px
+   :alt: Inverter location
+
 Required Parts
 --------------
 
@@ -79,6 +116,10 @@ Access to the inverter typically requires removal of dashboard trim panels.
    Typical inverter location behind the dashboard near the steering column.
 
 .. figure:: ../img/power_inverter/power_inverter_location_2023.png
+   :width: 400px
+   :alt: Inverter location
+
+.. figure:: ../img/power_inverter/power_inverter_location.jpg
    :width: 400px
    :alt: Inverter location
 
