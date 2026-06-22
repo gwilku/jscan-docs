@@ -33,7 +33,8 @@ Bed Power Outlet Install
 See the `Bed Power Outlet installation`_ video (this is not our resource) for a full guide. JScan usage for settings is shown around 8:48 (linked)
 
 .. include:: ../general/dasm.rst
-	
+
+.. include:: ../general/power_inwerter_eu_conversion.rst
 
 .. _ESS: https://jscan-docs.readthedocs.io/en/latest/jeep/jeep.html#ess-engine-start-stop-system
 
