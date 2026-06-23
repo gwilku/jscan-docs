@@ -34,7 +34,7 @@ See the `Bed Power Outlet installation`_ video (this is not our resource) for a 
 
 .. include:: ../general/dasm.rst
 
-.. include:: ../general/power_inwerter_eu_conversion.rst
+.. include:: ../general/power_inverter_eu_conversion.rst
 
 .. _ESS: https://jscan-docs.readthedocs.io/en/latest/jeep/jeep.html#ess-engine-start-stop-system
 

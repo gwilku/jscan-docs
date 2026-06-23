@@ -1,7 +1,10 @@
 ﻿Driver Assistance System Module (DASM) calibration
 ==================================================
 
-.. note:: Applies to RAM DT, Wrangler JL, Gladiator JT, Wrangler 4XE (and possibly some more models)
+.. note::
+
+   Applies to RAM DT, Wrangler JL, Gladiator JT, Wrangler 4xe,
+   and possibly additional models.
 
 DASM Auto Alignment procedure is used to recalibrate the Driver Assistance System Module (DASM) after replacement, windshield change, tire diameter alteration, or when certain fault codes appear.
 
@@ -13,6 +16,7 @@ If the DASM is not properly aligned, it may lead to incorrect operation of drive
 If you can't complete the procedure, you can manually adjust the DASM angle using the steps below.
 
 Introduction
+------------
 
 The Driver Assistance System Module (DASM) needs recalibration if it has been replaced, the windshield was changed, tire diameter was altered, or if certain fault codes appear. The main step is adjusting the module’s angle with the screw.
 
