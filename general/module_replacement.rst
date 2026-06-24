@@ -121,3 +121,22 @@ After the restore process is complete:
 Reconnect to the BCM module, go to **Configuration**, and set the **Vehicle Configuration Status** option to **True**.  
 
 This final step confirms and locks in all configuration data on the new module.
+
+
+PCM Module Replacement Procedure
+===============================
+
+1. In the application settings, enable the **Advanced Adaptations** option.
+
+2. Restart the application.
+
+3. After restarting, go to settings again and:
+- Set the VIN source to **WCM**
+ Enable the option **Treat as primary VIN source**
+
+4. Connect to the vehicle and verify that the correct VIN is selected.
+   The VIN information should be displayed at the top of the screen with the **WCM** label.
+
+5. Go to **Adaptations** and search for **Generic VIN Replace**.
+
+6. Select **PCM**, enter the correct VIN, and complete the procedure.

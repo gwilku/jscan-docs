@@ -405,9 +405,14 @@ Wire the Camera in to radio connectors:
 	.. image:: ../img/radio/chml.jpg
 		:width: 200px
 
-.. include:: ../general/dasm.rst
+
+General DASM calibration
+=========================================
+.. include:: /general/dasm.rst
 
 
+TEST AREA
+=========================================
 
 .. include:: ../general/power_inverter_eu_conversion.rst
 
