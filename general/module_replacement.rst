@@ -13,7 +13,7 @@ Procedure: Adapting a used ABS
 ====================================================
 
 Overview:
---------
+-----------
 This procedure outlines the steps required to install a used ABS module in a vehicle using the application.
 
 .. note::
@@ -124,7 +124,7 @@ This final step confirms and locks in all configuration data on the new module.
 
 
 PCM Module Replacement Procedure
-===============================
+================================
 
 1. In the application settings, enable the **Advanced Adaptations** option.
 
@@ -132,7 +132,7 @@ PCM Module Replacement Procedure
 
 3. After restarting, go to settings again and:
 - Set the VIN source to **WCM**
- Enable the option **Treat as primary VIN source**
+Enable the option **Treat as primary VIN source**
 
 4. Connect to the vehicle and verify that the correct VIN is selected.
    The VIN information should be displayed at the top of the screen with the **WCM** label.

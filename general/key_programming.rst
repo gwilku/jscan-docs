@@ -58,7 +58,7 @@ How it works
 =================================
 
 What does JScan do?
-----------------
+---------------------
 
 JScan instructs the vehicle to bind the key with the immobilizer, allowing the key to start the vehicle. To complete the procedure a vehicle PIN is required:
 	- in some vehicles the PIN can be retrieved with JScan

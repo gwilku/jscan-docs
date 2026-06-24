@@ -75,7 +75,7 @@ Power Inverter
    * - Model Years
      - Part Number
      - Description
-   * - 2018–2021
+   * - 2018-2021
      - 68349353AA
      - 230V AC power inverter
    * - 2022+

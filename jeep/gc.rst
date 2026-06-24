@@ -188,7 +188,7 @@ If you're removing the air suspnesion and replacing it with regular coilovers, f
 5) If you get ABS errors, run ABS initialization procedure.
 
 
-.. _Tire Size: https://jscan-docs.readthedocs.io/en/latest/general/tiresize.html
+
 
 
 WK2 - 2014+ - HID Lamps configuration
@@ -226,8 +226,8 @@ If it still dosen't work search for params related to HSD
 Remote Start Enable
 ===============================================
 
-.. note:: For pre-lift (up to 2014) models:
-Remote Start Activation – Jeep Grand Cherokee WK2
+.. note:: For pre-lift (up to 2014) models
+
 
 Module: Front Control Module (FCM) Configuration
 - Remote Start Present → SET
@@ -278,5 +278,6 @@ Final Steps
 
        *Hood Ajar Input (B11) configuration*
 
-
-
+.. _Tire Size: https://jscan-docs.readthedocs.io/en/latest/general/tiresize.html
+.. _SGW Bypass: http://jscan.net/jl-jt-security-bypass/
+.. _Choosing the right adapter: https://jscan-docs.readthedocs.io/en/latest/jeep/jeep.html#choosing-the-right-adapter

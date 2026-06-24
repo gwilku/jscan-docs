@@ -258,8 +258,10 @@ If Off-Road Pages do not appear, try re-saving the settings and performing anoth
 Now you're all set to enjoy the Off-Road Pages feature in your Jeep Wrangler JL! 🚙💨
 
 
-Jeep JL LED Tail Lamp settings JScan - this is general guide, it may be slightly different for your car
+Jeep JL LED Tail Lamp settings JScan 
 =======================================================================
+
+.. note:: This is general guide, it may be slightly different for your car
 
 Basically there are 2 types of aftermarket LED lights
 
@@ -394,13 +396,13 @@ Any NTSC camera is compatible with this setup, just get one with a wide-angle le
 1) Go to Modules > Body Controller > Configuration
 2) Set these to active:	
 	- CHML Camera Present or Cargo Camera Present
-
 3) Restart the Radio using JScan 2x - this is required for the settings to take effect.
 
 Wire the Camera in to radio connectors:
 	- 2018/2019 - pin 24, black in 25  
 	- 2020+     - pin 21, black in 22
-!Warning some late 2019 models have different pinouts, please check before wiring.
+
+.. warning:: Some late 2019 models have different pinouts, please check before wiring.
 
 	.. image:: ../img/radio/chml.jpg
 		:width: 200px

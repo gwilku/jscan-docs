@@ -77,3 +77,6 @@ Other common problem include:
 	- another diagnostic application using the BT connection (yes, they do it even when not running - they work in the background)
 
 .. note:: If you're facing any other issue, or the problem solutions described above don't work - get in touch with us on FB messenger. We will figure this out. Please include the vehicle model & year, adapter brand, phone OS (Android or iOS) and what steps you took.
+
+
+.. _compatible adapters: http://jscan.net/supported-and-not-supported-obd-adapters/
