@@ -406,15 +406,9 @@ Wire the Camera in to radio connectors:
 		:width: 200px
 
 
-General DASM calibration
-=========================================
 .. include:: /general/dasm.rst
 
-
-TEST AREA
-=========================================
-
-.. include:: ../general/power_inverter_eu_conversion.rst
+.. include:: /general/power_inverter_eu_conversion.rst
 
 
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting

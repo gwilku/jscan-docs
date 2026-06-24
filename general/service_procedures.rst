@@ -20,3 +20,9 @@ DPF Regeneration
 2. Run the DPF regen procedure
 
 If you're getting "Conditions not correct" error message then it means what it says. It's a response from the vehicle, and no further details are available. Consult a service manual or search the web for info on what conditions are required for DPF regen on your vehicle model.
+
+
+DASM Calibration
+#################
+
+.. include:: /general/dasm.rst
