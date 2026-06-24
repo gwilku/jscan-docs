@@ -1,5 +1,5 @@
 115V to 230V Power Inverter Conversion JL/JT/4XE and more
-======================================
+=========================================================
 
 This procedure describes the replacement of the factory US-specification
 115V AC power inverter with the European 230V AC version.
