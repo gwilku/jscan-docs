@@ -12,12 +12,12 @@ JScan Documentation Project
 What is OBD JScan
 *****************
 
+OBD JScan is a mobile-only (Android and iOS) vehicle diagnostics and configuration app, exclusive for Jeep, Dodge, Chrysler and RAM vehicles listed in the app. It uses the vehicles' OBD (On-Board-Diagnostics) Port via one of the `compatible adapters`_.
+
 Features
 ========
 
-OBD JScan is a mobile-only (Android and iOS) vehicle diagnostics and configuration app, exclusive for Jeep, Dodge, Chrysler and RAM vehicles listed in the app. It uses the vehicles' OBD (On-Board-Diagnostics) Port via one of the `compatible adapters`_.
-
-With a proper adapter, the app is able to:
+With a proper adapter (and a `security gateway bypass`_ for most 2018-2024 models) the app is able to:
 
  * read the live data from the supported vehicles' modules
  * read the DTCs (Diagnostic Trouble Codes, a.k.a. "errors")
@@ -118,3 +118,5 @@ Indices and tables
 .. _compatible adapters: http://jscan.net/supported-and-not-supported-obd-adapters/
 
 .. _know the difference: https://www.vehicleservicepros.com/service-repair/article/55363484/clarifying-the-difference-module-flashing-coding-and-adaptation-procedures
+
+.. _security gateway bypass: http://jscan.net/jl-jt-security-bypass/

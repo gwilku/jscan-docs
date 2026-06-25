@@ -71,7 +71,7 @@ Yes. In late 2020 we introduced a new licensing system.
 I changed the phone and I don't have the token - what now?
 ==========================================================
 
-If you bought the license onn Android, please visit the `Account Restore`_ page.
+If you bought the license onn Android, please visit the `Account Restore`_ page. You will need the VIN and the Transaction ID, which looks like GPA.1234-5678-9012-34567 and is also available in your `Google Play purchase history`_ or in the purchase confirmation email. 
 
 If the purchase was done on iOS please get in touch with us via our `Facebook Page`_, and provide the VIN and a purchase invoice (Apple).
 
@@ -96,3 +96,4 @@ Check in Settings > Manage Licenses & Account > Status if the number of purchase
 .. _Connecting: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
 .. _Account Restore: https://my.jscan.net/Account/RestoreToken
 .. _Facebook Page: https://www.facebook.com/obdjscan
+.. _Google Play purchase history: https://payments.google.com
