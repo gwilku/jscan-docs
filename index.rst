@@ -8,11 +8,39 @@ JScan Documentation Project
 ###########################
 .. title:: JScan documentation project.
 
-JScan (OBD JScan) is a mobile app for Android and iOS which can be used to diagnose and configure Jeep, Dodge, Chrysler, and RAM vehicles.
+*****************
+What is OBD JScan
+*****************
 
-The list of supported vehicles is constantly evolving and can be checked in the app itself.
+Features
+========
 
-To connect to a vehicle a `compatible OBD adapter`_ is requied.
+OBD JScan is a mobile-only (Android and iOS) vehicle diagnostics and configuration app, exclusive for Jeep, Dodge, Chrysler and RAM vehicles listed in the app. It uses the vehicles' OBD (On-Board-Diagnostics) Port via one of the `compatible adapters`_.
+
+With a proper adapter, the app is able to:
+
+ * read the live data from the supported vehicles' modules
+ * read the DTCs (Diagnostic Trouble Codes, a.k.a. "errors")
+ * delete the non-pemanent DTCs
+ * run the vehicles' service procedures
+ * trigger control signals (Activations)
+ * **change the vehicle configuration (Adaptations)**.
+
+For some vehicle models, the app provides additional screens like Trail View, TPMS View or similar, with extra features & functionalities. Please see the User Manual section or the vhicle-specific chapter of this documentation for further details.
+
+
+Limitations
+===========
+
+The app does not:
+
+ * connect to the vehicle directly. It requires one of the `compatible adapters`_.
+ * **flash** the vehicle modules. (Make sure you `know the difference`_).
+ * provide service procedure documentation or guides, and should not be treated as a replacement for a proper service manual.
+ * work with other vehicle brands.
+ * work with vehicles not listed in the app. 
+
+ .. warning:: Please be aware, that any changes, modifications, and/or service procedures are the Users' (your) responsibility.
 
 *****************
 Contents
@@ -87,4 +115,6 @@ Indices and tables
 
 
 
-.. _compatible OBD adapter: http://jscan.net/supported-and-not-supported-obd-adapters/
+.. _compatible adapters: http://jscan.net/supported-and-not-supported-obd-adapters/
+
+.. _know the difference: https://www.vehicleservicepros.com/service-repair/article/55363484/clarifying-the-difference-module-flashing-coding-and-adaptation-procedures

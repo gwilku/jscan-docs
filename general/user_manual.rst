@@ -132,7 +132,7 @@ Modules
 
 This screen shows all **possible** modules for this model - it doesn't mean that are all actually installed on this particular car.
 
-Each module has 3 functionalities:
+Each module can have the following functionalities:
 
 1) Trouble Codes: Allows you to show/clear - Trouble Codes on currently selected module
 
@@ -140,7 +140,9 @@ Each module has 3 functionalities:
 
 3) Activations: Triggers module functions / control signals.
 
-4) Configuration: Module's configurable options.
+4) Configuration: Module's configurable options. Read live from the module itself (as opposed to Adaptations, which are pre-defined).
+
+5) Service Procedures: Where applicable, allows triggerring the modules' in-built service procedures.
 
 For details on Activations and Configuration please see the `Modifying your vehicle`_.
 

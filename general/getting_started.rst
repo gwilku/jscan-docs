@@ -2,10 +2,12 @@
 Getting Started
 ###############
 
+First and foremost, make sure you know what `OBD JScan`_ is.
+
 ************
 Installation
 ************
-You can install the JScan app via Apple Appstore or Google Play, free of charge.
+You can install the OBD JScan app via Apple Appstore or Google Play, free of charge.
 
 First steps & DEMO mode
 =======================
@@ -118,3 +120,5 @@ Follow the steps above, but at step 3.
 .. _License: https://jscan-docs.readthedocs.io/en/latest/general/license.html
 
 .. _User Manual: https://jscan-docs.readthedocs.io/en/latest/general/user_manual.html
+
+.. _OBD JScan: https://jscan-docs.readthedocs.io/en/latest/index.html#jscan-documentation-project
