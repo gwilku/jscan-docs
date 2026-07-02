@@ -245,6 +245,90 @@ Set both of them to 60
 If successful, turn the ignition to off, lock the door for 5 minutes. Take a break. 
 After 5 minutes, go for a test drive.
 
+Standalone 8HP Transmission Diagnostics (Wrangler JK Swap)
+==========================================================
+
+This guide explains how to connect JScan to a standalone **ZF 8HP**
+Transmission Control Module (TCM) installed as part of a transmission swap
+in a Jeep Wrangler JK.
+
+Vehicles equipped with an aftermarket 8HP swap typically have **two separate
+OBD-II diagnostic ports**:
+
+* **Factory OBD-II port** - communicates with the original Wrangler modules
+  (PCM, ABS, TIPM, etc.).
+* **Transmission OBD-II port** - communicates directly with the standalone
+  Transmission Control Module (TCM).
+
+To access transmission functions such as **Shift Adaptation** or
+**Transmission Relearn**, JScan must identify the transmission using the VIN
+stored in the TCM.
+
+Configuration
+-------------
+
+Open **App & Adapter Settings** and configure the following options:
+
+.. figure:: ../img/jk/alternative_vin_source_tcm.jpg
+   :width: 320px
+   :alt: Alternative VIN Source Configuration
+
+   Configure the alternative VIN source to use the Transmission Control Module
+   (TCM).
+
+Set:
+
+* **Alternative VIN source module (short code)**: ``TCM``
+* Enable **Try alternate VIN source first**
+
+These settings instruct JScan to read the VIN from the Transmission Control
+Module before querying the default vehicle modules.
+
+Connecting to the Transmission
+------------------------------
+
+#. Connect the OBD adapter to the **transmission OBD-II port**.
+#. Launch JScan.
+#. At the vehicle selection screen, select the vehicle that matches the
+   transmission donor, for example **2016 Dodge Challenger** or
+   **2016 Dodge Charger**.
+#. JScan will read the VIN from the TCM and establish communication with the
+   transmission controller.
+
+You can now perform transmission-specific diagnostics and service procedures,
+including:
+
+* Shift Adaptation
+* Relearn Procedures
+* Reading and clearing DTCs
+* Live Data
+* Adaptation Functions
+
+Connecting to the Wrangler
+--------------------------
+
+To diagnose the Wrangler itself:
+
+#. Connect the adapter to the **factory OBD-II port**.
+#. Select **Jeep Wrangler JK** when starting JScan.
+
+The application will communicate with the original Wrangler control modules
+using the factory VIN.
+
+.. note::
+
+   The alternative VIN source configuration does not modify the vehicle.
+   It only changes which control module JScan queries first when identifying
+   the connected vehicle.
+
+Summary
+-------
+
+A Wrangler JK equipped with a standalone 8HP transmission swap uses two
+independent diagnostic networks. By configuring the **Alternative VIN Source**
+to ``TCM`` and enabling **Try alternate VIN source first**, JScan can
+communicate directly with the transmission through the dedicated OBD-II port,
+allowing full access to transmission diagnostics and adaptation procedures.
 
 
 .. _Connect: https://jscan-docs.readthedocs.io/en/latest/general/getting_started.html#connecting
