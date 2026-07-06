@@ -53,8 +53,28 @@ Disabling Engine Start-Stop
 
 See `ESS`_ - Engine Start/Stop System in Wrangler JL section
 
+
+Trailer Brake Module (ITBM)
+===========================
+
+All settings related to Trailer Brake are available in Modules > Body Controller Module > Configuration
+
+*ITBM - Change to SET (this option will activate module on the vehicle)
+*Trailer type customers settings menu (this will show up on radio after restarts 2x)
+*Trailer name customers settings menu (this will show up on radio after restarts 2x)
+*Trailer selected customers settings menu (this will show up on radio after restarts 2x)
+
+After install make sure you can access Integrated Trailer Brake Module from the list of modules.
+
+ .. note:: Radio must be restarted 2x-3x times before it gets new changes (to restart radio find option "!Restart all ecus" and find radio, this option will only work with Vlinker MC+ or Vlinker MS)
+
+
+
+
+
+
 TRX Suspension Rebound Reset & Height Sensor Calibration
-======================================================== 
+========================================================
 
 For the Ram 1500 TRX, JScan provides two sequential service functions to recalibrate the suspension. These must be performed in the correct order
 
