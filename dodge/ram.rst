@@ -31,7 +31,7 @@ Disabling the TPMS System / Changing thresholds
 
 8) Done: start the car, TPMS should be gone
 
-.. note:: RAM DT does not require (nor support) RFH Replace, and it will not allow a threshold lower than 25 PSI.
+.. note:: RAM DT does not require (nor support) RFH Replace, and it will not allow a threshold lower than 25 PSI. In addition, RAM DT will not allow a complete TPMS delete: a warning lamp on the dash will stay on.
 
 
 EU Lights Conversion
