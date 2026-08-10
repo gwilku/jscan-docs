@@ -298,11 +298,10 @@ Connecting to the Transmission
 You can now perform transmission-specific diagnostics and service procedures,
 including:
 
-* Shift Adaptation
-* Relearn Procedures
+* Reset Adaptations
 * Reading and clearing DTCs
 * Live Data
-* Adaptation Functions
+* Other Functions that are specific to the ZF 8HP transmission.
 
 Connecting to the Wrangler
 --------------------------
