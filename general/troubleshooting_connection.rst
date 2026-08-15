@@ -18,9 +18,9 @@ If you **CAN'T CONNECT** or **JScan CAN"T READ THE VIN** follow these steps:
 
 6. Make sure no other OBD applications are using the adapter
 7. Uninstall Torque, vLinker, OBD Link native app etc. They work in the background preventing JScan from connecting (even when not used)
-7. Make sure you **choose the right vehicle model**. The year ranges are there for a reason.
-8. Make sure you are connecting to the right vehicle & adapter. If you have more than one around, you may be reaching a different device.
-9. If youe vehicle model or year is not in the app, it's not supported. Choosing a different one will almost never work.
+8. Make sure you **choose the right vehicle model**. The year ranges are there for a reason.
+9. Make sure you are connecting to the right vehicle & adapter. If you have more than one around, you may be reaching a different device.
+10. If youe vehicle model or year is not in the app, it's not supported. Choosing a different one will almost never work.
 
 JScan doesn't read the VIN
 ==========================
