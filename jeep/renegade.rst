@@ -34,7 +34,7 @@ PROXI Alignment
 
 After you make the desired changes (adaptations), the vehicle configuration must be uploaded to all controlling modules. This is called PROXI alignment, and is done as follows:
 
-.. _Info: https://jscan-docs.readthedocs.io/en/latest/general/proxi_alignment.html
+`PROXI Alignment documentation <https://jscan-docs.readthedocs.io/en/latest/general/proxi_alignment.html>`_
 
 * go to PROXI alignment adaptation
 * execute all PROXI alignments for modules that *DO NOT* require a coloured cable
