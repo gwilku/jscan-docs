@@ -78,6 +78,7 @@ Contents
    general/radio
    general/module_replacement
    general/comunity_videos
+   general/proxi_alignment
 
 .. toctree::
    :maxdepth: 2
