@@ -88,8 +88,7 @@ Connect to the vehicle and open::
 
    Body -> Service Procedures -> PROXI Alignment
 
-The procedure can also be located using the search function in the Adaptation screen
-by searching for ``PROXI``.
+The procedure is located in the **Body** section under **Service Procedures**.
 
 If the PROXI Alignment procedure is not available for the selected vehicle, do not use
 instructions intended for a different vehicle platform.
@@ -265,3 +264,92 @@ The PROXI Alignment screen contains two main controls:
 After a completed procedure, follow the ignition-cycle instructions displayed by JScan,
 reconnect if required and refresh the PROXI Alignment screen. Modules that require EOL
 synchronization should then report the correct EOL status.
+
+
+How to perform PROXI Alignment
+------------------------------
+
+PROXI Alignment may need to be performed on modules located on different CAN networks.
+Because of this, some modules can be aligned using the adapter directly, while others
+require a coloured cable adapter.
+
+The procedure should be performed in stages.
+
+1. Open::
+
+      Body -> Service Procedures -> PROXI Alignment
+
+2. Perform PROXI Alignment for all modules that **do not require a coloured cable**.
+
+   Run the alignment for every module that can be accessed using the current adapter
+   connection.
+
+   .. note::
+
+      The information shown on the PROXI Alignment screen may not update immediately
+      after each successful alignment. This is normal. Do not repeat a successful
+      alignment only because the displayed status has not changed yet.
+
+3. Disconnect the OBD adapter from the vehicle.
+
+4. Connect the adapter again using the **grey cable**.
+
+5. Perform PROXI Alignment for all modules that require the **grey cable**.
+
+6. Disconnect the OBD adapter again.
+
+7. Connect the adapter using the **blue cable**.
+
+8. Perform PROXI Alignment for all modules that require the **blue cable**.
+
+9. Disconnect the adapter from the vehicle.
+
+10. Cycle the ignition:
+
+    * switch the ignition OFF,
+    * wait a few seconds,
+    * switch the ignition back ON.
+
+11. Reconnect JScan to the vehicle.
+
+12. Open::
+
+       Body -> Service Procedures -> PROXI Alignment
+
+13. Refresh the module status.
+
+    All modules that participate in the PROXI configuration should now report the
+    correct status.
+
+.. important::
+
+   Always follow the cable information displayed by JScan for each module. Not every
+   vehicle uses all cable types, so only connect a coloured cable when JScan indicates
+   that it is required.
+
+When PROXI Alignment should be performed after adaptations
+----------------------------------------------------------
+
+You do **not** need to perform PROXI Alignment after every single adaptation.
+
+Several vehicle configuration changes can be made first, and PROXI Alignment can then
+be performed once after all required adaptations have been completed.
+
+However, if any of the changes require PROXI synchronization, the alignment must be
+completed **before the vehicle is returned to normal use or driven**.
+
+A typical workflow is therefore::
+
+   make adaptation
+   make another adaptation
+   make additional required changes
+   perform PROXI Alignment
+   cycle the ignition
+   reconnect and verify the module status
+
+This avoids unnecessary repeated PROXI procedures while still ensuring that the vehicle
+configuration is synchronized before the vehicle is used normally again.
+
+Do not drive the vehicle with an unfinished PROXI configuration when the performed
+adaptations require alignment. Some modules or vehicle functions may remain unavailable
+or operate incorrectly until the synchronization has been completed.
