@@ -53,6 +53,7 @@ Trace & Restore Adaptations
 ===========================
 
 Trace tab: Change log
+
 Restore tab: JScan automatically creates a backup of the vehicle settings upon the first connection. You can use this section to revert a part or all changes done to the **configuration settings**.
 
 ELM327 - Identification
