@@ -187,6 +187,82 @@ If you're removing the air suspnesion and replacing it with regular coilovers, f
 4) Disconnect the negative terminal of the main battery for 30 seconds and reconnect it to get rid of the message and the blinking buttons.
 5) If you get ABS errors, run ABS initialization procedure.
 
+Adding Paddle Shifters to Jeep Grand Cherokee WK2 models
+=================================================
+
+Jeep Grand Cherokee WK2 vehicles equipped with an 8-speed automatic
+transmission can be retrofitted with factory-style steering-wheel
+paddle shifters.
+
+JScan allows you to activate this feature even if the vehicle
+was not originally equipped with paddle shifters.
+
+Required Hardware
+-----------------
+
+* Compatible left and right paddle shifters (SRT/Trackhawk style).
+* Compatible steering-wheel trim or rear cover, if required.
+* Steering-wheel wiring harness, if not already installed.
+* JScan with an active license and a compatible OBD-II adapter.
+
+
+Installation
+------------
+
+1. Install the left and right paddle shifters on the steering wheel.
+2. Connect the paddle shifters to the steering-wheel wiring harness.
+3. Make sure all connections are properly installed.
+4. Reassemble the steering wheel.
+
+.. warning::
+
+   Steering-wheel modifications may require removing the airbag.
+   Follow the manufacturer's safety procedures.
+
+
+Activation Using JScan
+----------------------
+
+1. Connect JScan to the vehicle.
+2. Open **Body -> Configuration**.
+3. Find and activate the following options:
+
+   * **Paddle Shifter Present** -> **Activated**
+   * **Paddle Shifter CSM** -> **Activated**
+
+4. Turn the ignition OFF and ON to apply the changes.
+
+
+Adaptation Description
+----------------------
+
+**Paddle Shifter Present**
+
+Enables paddle-shifter functionality in the vehicle configuration.
+
+**Paddle Shifter CSM**
+
+Adds the paddle-shifter option to the Uconnect radio settings,
+allowing the feature to be enabled or disabled through the
+infotainment system.
+
+For full functionality, activate both adaptations.
+
+
+Verification
+------------
+
+After completing the installation:
+
+1. Check the paddle-shifter setting in Uconnect.
+2. Make sure the feature is enabled.
+3. Test the paddle shifters during a safe test drive.
+
+.. note::
+
+   The transmission may ignore manual shift requests when
+   operating conditions do not allow the requested gear change.
+```
 
 
 
