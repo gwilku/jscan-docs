@@ -407,6 +407,317 @@ Wire the Camera in to radio connectors:
 	.. image:: ../img/radio/chml.jpg
 		:width: 200px
 
+DTCM Compatibility Guide
+============================================
+
+Overview
+--------
+
+The Drivetrain Control Module (DTCM) controls and monitors
+various drivetrain functions in the Jeep Wrangler JL,
+depending on the vehicle configuration.
+
+Different DTCM part numbers are used depending on the
+vehicle's drivetrain equipment.
+
+When replacing or retrofitting a DTCM, selecting a compatible
+module is important to ensure proper operation of the
+transfer case, differential lockers, and 4Auto system.
+
+A DTCM from a different Wrangler JL trim level may be
+compatible, provided that the required drivetrain features
+are supported.
+
+
+Transfer Case Gear Ratios
+-------------------------
+
+Jeep Wrangler JL vehicles are equipped with different
+transfer cases, including:
+
+* Rock-Trac with a 4.0:1 low-range ratio.
+* Command-Trac with a 2.72:1 low-range ratio.
+* Selec-Trac with a 2.72:1 low-range ratio and 4Auto.
+
+**Important:**
+
+DTCM modules used in Rubicon models can support both
+4.0:1 and 2.72:1 transfer case ratios.
+
+Likewise, compatible DTCM modules from other Wrangler JL
+versions can be used with either transfer case ratio.
+
+The transfer case ratio alone does not determine DTCM
+compatibility.
+
+The most important factors are:
+
+* 4Auto system availability.
+* Electronic differential locker support.
+* Compatible DTCM hardware and software configuration.
+
+The selected module must match the vehicle's 4Auto and
+differential locker configuration.
+
+
+DTCM Compatibility Rules
+------------------------
+
+DTCM modules can be divided into four main configurations.
+
++-------------------+-------------------+-------------------------+
+| Differential      | 4Auto             | Typical Application     |
+| Lockers           |                   |                         |
++===================+===================+=========================+
+| No                | No                | Sport, Sport S, Willys  |
++-------------------+-------------------+-------------------------+
+| Yes               | No                | Rubicon                 |
++-------------------+-------------------+-------------------------+
+| No                | Yes               | Sahara with Selec-Trac  |
++-------------------+-------------------+-------------------------+
+| Yes               | Yes               | Rubicon with 4Auto      |
++-------------------+-------------------+-------------------------+
+
+**Important:**
+
+The DTCM part number must be selected according to the
+vehicle's actual drivetrain equipment, not simply its
+trim level.
+
+For example, a Rubicon DTCM without 4Auto should not be
+considered interchangeable with a Rubicon DTCM equipped
+with 4Auto without verifying compatibility.
+
+Similarly, a DTCM without differential locker support
+should not be selected for a vehicle requiring electronic
+differential locker control.
+
+
+How to Identify the Correct DTCM
+--------------------------------
+
+Before selecting a replacement DTCM, determine the
+following vehicle information:
+
+1. Model year.
+2. Transfer case type.
+3. Presence of the 4Auto system.
+4. Presence of electronic differential lockers.
+5. Original DTCM part number.
+
+The original DTCM part number can be obtained using
+JScan or read directly from the module label.
+
+
+Finding the DTCM Part Number Using JScan
+----------------------------------------
+
+1. Connect JScan to the vehicle.
+2. Select the correct Jeep Wrangler JL model.
+3. Establish a connection with the vehicle.
+4. Open the ECU list.
+5. Select the Drivetrain Control Module (DTCM).
+6. Open ECU identification information.
+7. Locate and record the module part number.
+
+Depending on the module, additional hardware and software
+identification information may also be available.
+
+The part number can then be compared with the
+compatibility table below.
+
+
+DTCM Part Number Reference
+--------------------------
+
+The following table provides reference information for
+DTCM modules used in Jeep Wrangler JL vehicles.
+
+Model-year ranges and trim applications are approximate.
+Individual part numbers and supersessions should be
+verified using the vehicle VIN and Mopar parts catalog.
+
++--------------+---------+--------+-------------+-----------------------+
+| Part Number  | Lockers | 4Auto  | Model Years | Typical Models        |
++==============+=========+========+=============+=======================+
+| 68409903AA   | No      | No     | 2018-2019   | Sport, Sahara         |
++--------------+---------+--------+-------------+-----------------------+
+| 68409904AA   | Yes     | No     | 2018-2019   | Rubicon               |
++--------------+---------+--------+-------------+-----------------------+
+| 68409905AA   | No      | Yes    | 2018-2019   | Sahara Selec-Trac     |
++--------------+---------+--------+-------------+-----------------------+
+| 68409906AA   | Yes     | Yes    | 2018-2019   | Rubicon 4Auto         |
++--------------+---------+--------+-------------+-----------------------+
+| 68416517AA   | No      | No     | 2019-2020   | Sport, Sahara         |
++--------------+---------+--------+-------------+-----------------------+
+| 68416518AA   | Yes     | No     | 2019-2020   | Rubicon               |
++--------------+---------+--------+-------------+-----------------------+
+| 68416519AA   | No      | Yes    | 2019-2020   | Sahara Selec-Trac     |
++--------------+---------+--------+-------------+-----------------------+
+| 68416520AA   | Yes     | Yes    | 2019-2020   | Rubicon 4Auto         |
++--------------+---------+--------+-------------+-----------------------+
+| 68443547AD   | No      | No     | 2020-2022   | Sport, Willys, Sahara |
++--------------+---------+--------+-------------+-----------------------+
+| 68443547AE   | No      | No     | 2020-2022   | Sport, Willys, Sahara |
++--------------+---------+--------+-------------+-----------------------+
+| 68443548AD   | No      | Yes    | 2020-2022   | Sahara Selec-Trac     |
++--------------+---------+--------+-------------+-----------------------+
+| 68443548AE   | No      | Yes    | 2020-2022   | Sahara Selec-Trac     |
++--------------+---------+--------+-------------+-----------------------+
+| 68483373AC   | Yes     | No     | 2021        | Rubicon               |
++--------------+---------+--------+-------------+-----------------------+
+| 68483374AC   | No      | No     | 2021        | Sport, Willys, Sahara |
++--------------+---------+--------+-------------+-----------------------+
+| 68483375AC   | No      | Yes    | 2021        | Sahara Selec-Trac     |
++--------------+---------+--------+-------------+-----------------------+
+| 68547688AB   | No      | No     | 2021-2022   | Sport, Willys, Sahara |
++--------------+---------+--------+-------------+-----------------------+
+| 68547689AB   | No      | Yes    | 2021-2023   | Sahara Selec-Trac     |
++--------------+---------+--------+-------------+-----------------------+
+| 68547690AA   | Yes     | No     | 2022        | Rubicon               |
++--------------+---------+--------+-------------+-----------------------+
+| 68547691AA   | No      | No     | 2022        | Sport, Willys, Sahara |
++--------------+---------+--------+-------------+-----------------------+
+| 68547692AA   | Yes     | Yes    | 2022        | Rubicon 4Auto         |
++--------------+---------+--------+-------------+-----------------------+
+| 68547693AA   | Yes     | Yes    | 2021        | Rubicon 4Auto         |
++--------------+---------+--------+-------------+-----------------------+
+| 68547694AB   | Yes     | Yes    | 2021-2022   | Rubicon 392           |
++--------------+---------+--------+-------------+-----------------------+
+| 68547694AC   | Yes     | Yes    | 2021-2022   | Rubicon 392           |
++--------------+---------+--------+-------------+-----------------------+
+| 68534758AE   | No      | No     | 2024-2025   | Sport, Willys, Sahara |
++--------------+---------+--------+-------------+-----------------------+
+| 68534758AF   | No      | No     | 2025-2026   | Sport, Willys, Sahara |
++--------------+---------+--------+-------------+-----------------------+
+| 68534759AE   | Yes     | No     | 2024-2025   | Rubicon, Rubicon X    |
++--------------+---------+--------+-------------+-----------------------+
+| 68534759AF   | Yes     | No     | 2025-2026   | Rubicon, Rubicon X    |
++--------------+---------+--------+-------------+-----------------------+
+| 68534760AE   | No      | Yes    | 2024-2025   | Sahara Selec-Trac     |
++--------------+---------+--------+-------------+-----------------------+
+| 68534760AF   | No      | Yes    | 2025-2026   | Sahara Selec-Trac     |
++--------------+---------+--------+-------------+-----------------------+
+| 68534761AE   | Yes     | Yes    | 2024-2025   | Rubicon 4Auto         |
++--------------+---------+--------+-------------+-----------------------+
+| 68534761AF   | Yes     | Yes    | 2025-2026   | Rubicon 4Auto         |
++--------------+---------+--------+-------------+-----------------------+
+
+.. warning::
+
+   This table is a preliminary reference, not an exhaustive
+   factory compatibility list.
+
+   Some part-number assignments, model-year ranges, and
+   trim applications have not been independently verified.
+
+   Do not use this table as the sole basis for purchasing
+   or installing a replacement DTCM.
+
+
+Replacement Part Numbers
+------------------------
+
+Some DTCM part numbers have been replaced by newer
+revisions or superseding part numbers.
+
++------------------+------------------+
+| Original PN      | Replaced By      |
++==================+==================+
+| 68409903AA       | 68416517AA       |
++------------------+------------------+
+| 68409904AA       | 68416518AA       |
++------------------+------------------+
+| 68409905AA       | 68416519AA       |
++------------------+------------------+
+| 68443547AD       | 68547688AB       |
++------------------+------------------+
+| 68443547AE       | 68547688AB       |
++------------------+------------------+
+| 68443548AD       | 68547689AB       |
++------------------+------------------+
+| 68443548AE       | 68547689AB       |
++------------------+------------------+
+| 68547694AB       | 68547694AC       |
++------------------+------------------+
+| 68534758AE       | 68534758AF       |
++------------------+------------------+
+| 68534759AE       | 68534759AF       |
++------------------+------------------+
+
+.. note::
+
+   A newer part number does not automatically guarantee
+   compatibility with every vehicle using an older module.
+
+   Always verify the replacement using the vehicle VIN,
+   original module part number, and drivetrain configuration.
+
+
+Front Axle Disconnect (FAD)
+---------------------------
+
+The Front Axle Disconnect (FAD) system is used on many
+Jeep Wrangler JL configurations.
+
+Depending on the vehicle, the DTCM may control and
+monitor the FAD actuator.
+
+However, the presence of FAD hardware in the vehicle
+must not be confused with the DTCM's ability to support
+FAD functionality.
+
+For example, the Wrangler Rubicon 392 uses a different
+front axle configuration without the conventional
+FAD actuator.
+
+This does not necessarily mean that its DTCM hardware
+cannot support FAD.
+
+When selecting a DTCM for a vehicle with FAD, verify
+the module's hardware, software, and configuration
+compatibility.
+
+
+Important Notes
+---------------
+
+* A Rubicon DTCM can support transfer cases with both
+  4.0:1 and 2.72:1 low-range ratios, provided the
+  specific module and calibration are compatible.
+
+* The transfer case gear ratio alone is not sufficient
+  to determine DTCM compatibility.
+
+* The presence or absence of 4Auto must match the
+  selected DTCM configuration.
+
+* Electronic differential locker support must match
+  the vehicle's equipment.
+
+* DTCM modules from different trim levels may be
+  interchangeable when their hardware and software
+  capabilities are compatible.
+
+* FAD support should be verified separately, especially
+  when using modules from Rubicon 392 vehicles.
+
+* Part-number supersessions should be checked against
+  the official Mopar catalog.
+
+
+Disclaimer
+----------
+
+Incorrect DTCM selection or configuration may result in
+transfer case malfunction, differential locker errors,
+FAD-related diagnostic trouble codes, or unavailable
+drivetrain functions.
+
+Always verify module compatibility before installation.
+```
+
+
 
 .. include:: /general/dasm.rst
 
